@@ -182,8 +182,6 @@ def main():
     building_pd_stack.to_csv('data\\daily_hk_building.csv', index=False)
     print('finished')
 
-    print('end')
-
 
 if __name__ == '__main__':
     main()

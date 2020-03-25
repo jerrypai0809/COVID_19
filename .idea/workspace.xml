@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3769d125-057c-4fe8-a1eb-827c5dc47b48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/daily_hk_building.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/daily_hk_building.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/load_data_gov_hk.py" beforeDir="false" afterPath="$PROJECT_DIR$/load_data_gov_hk.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
