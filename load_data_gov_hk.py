@@ -180,7 +180,6 @@ def main():
 
     print('start to save final building data to csv')
     building_pd_stack.to_csv('data\\daily_hk_building.csv', index=False)
-    print('finished')
 
 
 if __name__ == '__main__':
