@@ -31,7 +31,12 @@ def load_data_gov_to_csv(data: str, save: bool):
             'q': '{"resource":"http://www.chp.gov.hk/files/misc/'
                  'countries_areas_outside_mainland_china_have_reported_cases_eng.csv",'
                  '"section":1,"format":"json"}'
+        }
 
+    elif data == 'daily_infected_pub_transportation':
+        params = {
+            'q': '{"resource":"http://www.chp.gov.hk/files/misc/flights_trains_list_eng.csv",'
+                 '"section":1,"format":"json"}'
         }
 
     response = requests.get(url, params=params)
@@ -70,7 +75,7 @@ def splitDataFrameList(df, target_column,separator):
     The values in the other columns are duplicated across the newly divided rows.
     """
 
-    def splitListToRows(row, row_accumulator, target_column,separator):
+    def splitListToRows(row, row_accumulator, target_column, separator):
         split_row = row[target_column].split(separator)
         for s in split_row:
             new_row = row.to_dict()
@@ -98,18 +103,12 @@ def insert_lat_long(org_pd: pd.DataFrame):
 
         df_comp.at[i, 'LatLong'] = return_lat_long(temp)
 
-    # print(org_pd)
-
-    # rint('LATLONGLATLONGLATLONGLATLONGLATLONGLATLONGLATLONGLATLONGLATLONGLATLONG')
-    # print(df_comp)
-
     return df_comp
 
 
 def return_lat_long(long_address: str):
 
     print('Querying ' + long_address)
-    # https://www.als.ogcio.gov.hk/lookup?q=<以自由文本格式輸入地址>
 
     query = urllib.parse.quote(long_address)
 
@@ -139,6 +138,31 @@ def return_lat_long(long_address: str):
     return str(latitude) + ',' + str(longitude)
 
 
+def district_data_cleaning(org_pd: pd.DataFrame):
+
+    df_comp = org_pd.copy(deep=True)
+    df_comp = df_comp.replace({"&Western": "& Western", "and Western": "& Western", "islands": "island"}, regex=True)
+    df_comp['District'] = df_comp['District'].str.strip()
+
+    return df_comp
+
+
+def split_dept_arri(org_pd: pd.DataFrame):
+
+    df_comp = org_pd.copy(deep=True)
+
+    foo = lambda x: pd.Series([i for i in (x.split('→'))])
+    df = df_comp['Departure & arrival'].apply(foo)
+    df.columns = ['Destination ' + str(col) for col in df.columns]
+    # df_comp['Departure'], df_comp['Arrival'] = df_comp['Departure & arrival'].str.split("→", expand=True)
+    # df_comp['Departure'] = df_comp['Departure'].str.strip()
+    # df_comp['Arrival'] = df_comp['Arrival'].str.strip()
+
+    result = pd.concat([df_comp, df], axis=1)
+    # print(result)
+    return result
+
+
 def main():
 
     # load daily hk cases
@@ -156,30 +180,57 @@ def main():
     load_data_gov_to_csv('daily_outside_cn_cases', True)
     print('finished loading daily international cases')
 
+    # load daily transportation
+    print('start to load daily infected public transportation')
+    pub_trans_pd = load_data_gov_to_csv('daily_infected_pub_transportation', False)
+    print('finished loading daily infected public transportation')
+
+    # pd.set_option("display.max_columns", None, "display.max_rows", None)
+    # print(pub_trans_pd)
+
+    # print('Split departure and arrival')
+    pub_trans_pd = split_dept_arri(pub_trans_pd)
+
+    # strip case no
+    print('start to strip case no')
+    pub_trans_pd = strip_case_no(pub_trans_pd)
+    print('finished stripping case no')
+
+    # stack case no.
+    print('start to stack case no')
+    pub_trans_pd = splitDataFrameList(pub_trans_pd, 'Related probable/confirmed cases', ',')
+    print('finished stacking case no')
+
+    print('start to save final infected public transportation data to csv')
+    pub_trans_pd.to_csv('data\\daily_infected_pub_trans.csv', index=False)
+
     # load daily hk building
     print('start to load daily hk building')
     building_pd = load_data_gov_to_csv('daily_hk_building', False)
     print('finished loading daily hk building')
 
+    # district data cleaning
+    building_pd = district_data_cleaning(building_pd)
+
     # load lat and long
     print('start to load latlong')
-    building_pd_latlong = insert_lat_long(building_pd)
+    building_pd = insert_lat_long(building_pd)
     print('finished loading latlong')
 
     # strip case no.
     print('start to strip case no')
-    building_pd_strip = strip_case_no(building_pd_latlong)  # need to change later!!!
+    building_pd = strip_case_no(building_pd)  # need to change later!!!
     print('finished stripping case no')
 
     # stack case no.
     print('start to stack case no')
-    building_pd_stack = splitDataFrameList(building_pd_strip, 'Related probable/confirmed cases', ',')
+    building_pd = splitDataFrameList(building_pd, 'Related probable/confirmed cases', ',')
     print('finished stacking case no')
 
-    print(building_pd_stack)
+    print(building_pd)
 
     print('start to save final building data to csv')
-    building_pd_stack.to_csv('data\\daily_hk_building.csv', index=False)
+    building_pd.to_csv('data\\daily_hk_building.csv', index=False)
 
 
 if __name__ == '__main__':
