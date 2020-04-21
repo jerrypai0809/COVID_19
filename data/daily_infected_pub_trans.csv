@@ -1,14 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0,Destination 1
-BA27,London,05/04/2020,907,39A,London,
-BA27,London,05/04/2020,908,39B,London,
-BA27,London,05/04/2020,909,37J,London,
-BA27,London,05/04/2020,910,43H,London,
-BA27,London,05/04/2020,911,43J,London,
-JL29,Tokyo,05/04/2020,937,Unknown,Tokyo,
-BA27,London,05/04/2020,939,24K,London,
-KA734,Kuala Lumpur,05/04/2020,948,61H,Kuala Lumpur,
-CX252,London,05/04/2020,965,33F,London,
-CX252,London,05/04/2020,970,65K,London,
 CX252,London,06/04/2020,927,44A,London,
 CX881,Los Angeles,06/04/2020,938,68H,Los Angeles,
 VS206,London,06/04/2020,962,60D,London,
@@ -46,5 +36,4 @@ VS206,London,16/04/2020,1020,64D,London,
 VS206,London,16/04/2020,1021,46H,London,
 CX906,Manila,17/04/2020,1024,63D,Manila,
 QR818,Doha,17/04/2020,1025,28K,Doha,
-Coral Princess Cruise,Arrival in Miami,04/04/2020,1006,,Arrival in Miami,
-Minibus 407/407A,Kwai Fong MTR Station → PMH,13/04/2020 (2:00-2:30PM),1015,,Kwai Fong MTR Station , PMH
+Minibus 407/407A,Kwai Fong MTR Station → PMH,13/4/2020 (2:00-2:30PM),1015,,Kwai Fong MTR Station , PMH
