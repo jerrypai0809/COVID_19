@@ -1,9 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0,Destination 1
-CX252,London,06/04/2020,927,44A,London,
-CX881,Los Angeles,06/04/2020,938,68H,Los Angeles,
-VS206,London,06/04/2020,962,60D,London,
-VS206,London,06/04/2020,963,48C,London,
-VS206,London,06/04/2020,969,22F,London,
 CX252,London,07/04/2020,982,68K,London,
 CX252,London,07/04/2020,993,60A,London,
 CX252,London,07/04/2020,1009,16G/D,London,
@@ -36,4 +31,8 @@ VS206,London,16/04/2020,1020,64D,London,
 VS206,London,16/04/2020,1021,46H,London,
 CX906,Manila,17/04/2020,1024,63D,Manila,
 QR818,Doha,17/04/2020,1025,28K,Doha,
-Minibus 407/407A,Kwai Fong MTR Station → PMH,13/4/2020 (2:00-2:30PM),1015,,Kwai Fong MTR Station , PMH
+CX881,Los Angeles,20/04/2020,1027,22D,Los Angeles,
+CX881,Los Angeles,20/04/2020,1028,20G,Los Angeles,
+VS206,London,20/04/2020,1029,58J,London,
+VS206,London,20/04/2020,1030,47A,London,
+Minibus 407/407A,Kwai Fong MTR Station → PMH,13/04/2020 (2:00-2:30PM),1015,,Kwai Fong MTR Station , PMH
