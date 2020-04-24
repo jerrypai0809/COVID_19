@@ -1,12 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0,Destination 1
-CX252,London,08/04/2020,967,64A,London,
-CX906,Manila,08/04/2020,981,42A,Manila,
-CX865,Vancouver,08/04/2020,983,Row 70/71,Vancouver,
-CX865,Vancouver,08/04/2020,984,16A,Vancouver,
-CX252,London,08/04/2020,985,67D,London,
-CX252,London,08/04/2020,987,32A,London,
-GA876,Jakarta,08/04/2020,988,6K,Jakarta,
-GA876,Jakarta,08/04/2020,1007,6H,Jakarta,
 CX252,London,09/04/2020,980,64B,London,
 CX252,London,09/04/2020,986,26K,London,
 CX521,Tokyo,09/04/2020,1000,11K,Tokyo,
@@ -36,4 +28,5 @@ VS206,London,20/04/2020,1030,47A,London,
 CX252,London,21/04/2020,1031,17A,London,
 CX252,London,21/04/2020,1032,63D,London,
 CX252,London,21/04/2020,1033,48A,London,
+QR818,Doha,21/04/2020,1035,17H,Doha,
 Minibus 407/407A,Kwai Fong MTR Station → Princess Margaret Hospital,13/04/2020 (2:00-2:30PM),1015,,Kwai Fong MTR Station , Princess Margaret Hospital
