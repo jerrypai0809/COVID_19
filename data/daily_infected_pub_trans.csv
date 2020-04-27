@@ -1,7 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0,Destination 1
-VS206,London,12/04/2020,1006,59G,London,
-VS206,London,12/04/2020,1010,55G,London,
-VS206,London,12/04/2020,1034,25D/25F,London,
 CX881,Los Angeles,13/04/2020,1011,44D,Los Angeles,
 CX881,Los Angeles,13/04/2020,1012,30A,Los Angeles,
 CX252,London,14/04/2020,1014,48D,London,
@@ -21,4 +18,4 @@ CX252,London,21/04/2020,1032,63D,London,
 CX252,London,21/04/2020,1033,48A,London,
 QR818,Doha,21/04/2020,1035,17H,Doha,
 CX252,London,24/04/2020,1037,65G,London,
-Minibus 407/407A,Kwai Fong MTR Station→ Princess Margaret Hospital,,13042020200230,,Kwai Fong MTR Station, Princess Margaret Hospital
+Minibus 407/407A,Kwai Fong MTR Station → Princess Margaret Hospital,13/04/2020 (2:00-2:30PM),1015,,Kwai Fong MTR Station , Princess Margaret Hospital
