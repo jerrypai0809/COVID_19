@@ -1,21 +1,16 @@
-Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0,Destination 1
-CX881,Los Angeles,13/04/2020,1011,44D,Los Angeles,
-CX881,Los Angeles,13/04/2020,1012,30A,Los Angeles,
-CX252,London,14/04/2020,1014,48D,London,
-VS206,London,14/04/2020,1016,61A,London,
-QR818,Doha,14/04/2020,1017,3A,Doha,
-VS206,London,16/04/2020,1019,7K,London,
-VS206,London,16/04/2020,1020,64D,London,
-VS206,London,16/04/2020,1021,46H,London,
-CX906,Manila,17/04/2020,1024,63D,Manila,
-QR818,Doha,17/04/2020,1025,28K,Doha,
-CX881,Los Angeles,20/04/2020,1027,22D,Los Angeles,
-CX881,Los Angeles,20/04/2020,1028,20G,Los Angeles,
-VS206,London,20/04/2020,1029,58J,London,
-VS206,London,20/04/2020,1030,47A,London,
-CX252,London,21/04/2020,1031,17A,London,
-CX252,London,21/04/2020,1032,63D,London,
-CX252,London,21/04/2020,1033,48A,London,
-QR818,Doha,21/04/2020,1035,17H,Doha,
-CX252,London,24/04/2020,1037,65G,London,
-Minibus 407/407A,Kwai Fong MTR Station → Princess Margaret Hospital,13/04/2020 (2:00-2:30PM),1015,,Kwai Fong MTR Station , Princess Margaret Hospital
+Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
+VS206,London,16/04/2020,1019,7K,London
+VS206,London,16/04/2020,1020,64D,London
+VS206,London,16/04/2020,1021,46H,London
+CX906,Manila,17/04/2020,1024,63D,Manila
+QR818,Doha,17/04/2020,1025,28K,Doha
+CX881,Los Angeles,20/04/2020,1027,22D,Los Angeles
+CX881,Los Angeles,20/04/2020,1028,20G,Los Angeles
+VS206,London,20/04/2020,1029,58J,London
+VS206,London,20/04/2020,1030,47A,London
+CX252,London,21/04/2020,1031,17A,London
+CX252,London,21/04/2020,1032,63D,London
+CX252,London,21/04/2020,1033,48A,London
+QR818,Doha,21/04/2020,1035,17H,Doha
+CX252,London,24/04/2020,1037,65G,London
+CX252,London,28/04/2020,,48D,London
