@@ -1,12 +1,7 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX881,Los Angeles,20/04/2020,1027,22D,Los Angeles
-CX881,Los Angeles,20/04/2020,1028,20G,Los Angeles
-VS206,London,20/04/2020,1029,58J,London
-VS206,London,20/04/2020,1030,47A,London
-CX252,London,21/04/2020,1031,17A,London
-CX252,London,21/04/2020,1032,63D,London
-CX252,London,21/04/2020,1033,48A,London
-QR818,Doha,21/04/2020,1035,17H,Doha
-CX252,London,24/04/2020,1037,65G,London
 CX252,London,28/04/2020,,48D,London
 CX881,Los Angeles,04/05/2020,1041,48H,Los Angeles
+QR818,Doha,06/05/2020,1042,42K,Doha
+QR818,Doha,06/05/2020,1043,35F,Doha
+QR818,Doha,06/05/2020,1044,28H,Doha
+QR818,Doha,06/05/2020,1045,33E,Doha
