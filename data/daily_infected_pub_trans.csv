@@ -1,8 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-QR818,Doha,16/05/2020,1054,26G,Doha
-QR818,Doha,16/05/2020,1055,26D,Doha
-QR818,Doha,16/05/2020,1056,26A,Doha
-QR818,Doha,16/05/2020,1063,26C,Doha
 CX252,London,17/05/2020,,73G,London
 QR818,Doha,20/05/2020,1057,16K,Doha
 QR818,Doha,20/05/2020,1058,21A,Doha
