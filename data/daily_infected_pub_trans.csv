@@ -1,11 +1,7 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX906,Manila,24/06/2020,1192,34C,Manila
-KA734,Kuala Lumpur,24/06/2020,1194,45K,Kuala Lumpur
-TK0070,Istanbul,25/06/2020,1196,32A,Istanbul
-CX906,Manila,25/06/2020,,42A,Manila
-CX906,Manila,26/06/2020,1198,71C,Manila
 AI1314,Delhi and Kolkata,27/06/2020,1199,18A,Delhi and Kolkata
 AI1314,Delhi and Kolkata,27/06/2020,1200,10C,Delhi and Kolkata
+AI1314,Delhi and Kolkata,27/06/2020,1367,18S,Delhi and Kolkata
 HX782,Manila,28/06/2020,1201,46G,Manila
 HX782,Manila,28/06/2020,1202,57H,Manila
 HX782,Manila,28/06/2020,1203,60C,Manila
@@ -53,11 +49,35 @@ EK380,Dubai,05/07/2020,1284,28E,Dubai
 KA734,Kuala Lumpur,05/07/2020,1285,38H,Kuala Lumpur
 KA734,Kuala Lumpur,05/07/2020,1286,33K,Kuala Lumpur
 EK380,Dubai,05/07/2020,1287,26G,Dubai
-EK380,Dubai,05/07/2020,1288,Unknown,Dubai
+EK380,Dubai,05/07/2020,1288,47D,Dubai
 HX782,Manila,05/07/2020,1299,54D,Manila
 HX782,Manila,05/07/2020,1300,64G,Manila
 KA734,Kuala Lumpur,05/07/2020,1303,33C,Kuala Lumpur
 CX906,Manila,06/07/2020,1290,40A,Manila
 CX906,Manila,06/07/2020,1309,61D,Manila
+CX906,Manila,06/07/2020,1399,73A,Manila
 OZ721,Seoul,07/07/2020,1318,6D,Seoul
 CX906,Manila,07/07/2020,1320,32D,Manila
+EK380,Dubai,07/07/2020,1327,47K,Dubai
+OZ721,Seoul,07/07/2020,1330,Unknown,Seoul
+HX782,Manila,08/07/2020,1328,61C,Manila
+HX782,Manila,08/07/2020,1363,Unknown,Manila
+KA734,Kuala Lumpur,08/07/2020,1369,Unknown,Kuala Lumpur
+KA734,Kuala Lumpur,08/07/2020,1370,Unknown,Kuala Lumpur
+CX906,Manila,08/07/2020,1392,63E,Manila
+CX906,Manila,09/07/2020,1405,61C,Manila
+AF188,Paris,09/07/2020,1406,39J,Paris
+LH796,Frankfurt,09/07/2020,1411,Unknown,Frankfurt
+TK70,Istanbul,09/07/2020,1412,Unknown,Istanbul
+AZG628,Baku,09/07/2020,1413,Unknown,Baku
+HX782,Manila,10/07/2020,1417,Unknown,Manila
+HX782,Manila,10/07/2020,1418,52F,Manila
+HX782,Manila,10/07/2020,1420,58E,Manila
+PR300,Manila,10/07/2020,1421,Unknown,Manila
+PR300,Manila,10/07/2020,1422,Unknown,Manila
+PR300,Manila,10/07/2020,1423,Unknown,Manila
+Taxi MB7876 (night shift),,27/06/2020 - 05/07/2020,1291,,
+Taxi MB7876 (day shift),,05/07/2020 - 06/07/2020,1357,,
+Taxi KZ3637,,02/07/2020 - 06/07/2020,1301,,
+Taxi TV7,,30/06/2020 - 06/07/2020,1315,,
+Taxi EL7890,,05/07/2020 - 07/07/2020,1329,,
