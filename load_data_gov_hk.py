@@ -95,7 +95,7 @@ def insert_lat_long(org_pd: pd.DataFrame):
     df_comp['long_address'] = df_comp['Building name'].str.replace(' (non-residential)', '', case = False) + ', ' + \
                               df_comp['District']
 
-    # print(df_comp)
+    print(df_comp)
 
     for i, row in df_comp.iterrows():
 
@@ -119,7 +119,7 @@ def return_lat_long(long_address: str):
     addr = requests.get(url_str)
 
     xml_ = addr.text
-
+    print(xml_)
     parser = ET.XMLParser()
     tree = ET.ElementTree(ET.fromstring(xml_, parser=parser))
 
