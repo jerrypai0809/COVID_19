@@ -1,6 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-OZ721,Seoul,30/06/2020,1232,Unknown,Seoul
-EK380,Dubai,30/06/2020,1235,Row 25,Dubai
 GA876,Jakarta,01/07/2020,1234,51D,Jakarta
 KA734,Kuala Lumpur,01/07/2020,1237,Unknown,Kuala Lumpur
 KA734,Kuala Lumpur,01/07/2020,1238,32A,Kuala Lumpur
@@ -14,7 +12,6 @@ KA734,Kuala Lumpur,01/07/2020,1282,40A,Kuala Lumpur
 TK0070,Istanbul,02/07/2020,1246,11A,Istanbul
 CX906,Manila,02/07/2020,1247,52G,Manila
 BA031,London,02/07/2020,1248,32F,London
-KA734,Kuala Lumpur,02/07/2020,1526,Unknown,Kuala Lumpur
 HX782,Manila,03/07/2020,1249,32K,Manila
 EK380,Dubai,03/07/2020,1253,27E,Dubai
 BR871,Taipei,03/07/2020,1254,57H,Taipei
@@ -86,12 +83,18 @@ AY99,Helsinki,12/07/2020,1500,Unknown,Helsinki
 CX906,Manila,12/07/2020,1524,67G,Manila
 CX906,Manila,12/07/2020,1525,65A,Manila
 KA734,Kuala Lumpur,12/07/2020,1527,42K,Kuala Lumpur
+KA734,Kuala Lumpur,12/07/2020,1528,43G,Kuala Lumpur
 KA734,Kuala Lumpur,12/07/2020,1529,40G,Kuala Lumpur
-KA734,Kuala Lumpur,13/07/2020,1528,43G,Kuala Lumpur
 KL887,Amsterdam,13/07/2020,1530,Unknown,Amsterdam
 CX906,Manila,13/07/2020,1554,61K,Manila
+CX906,Manila,13/07/2020,1574,48G,Manila
+CX906,Manila,13/07/2020,1575,66B,Manila
+RL9946,Mumbai,13/07/2020,1576,Unknown,Mumbai
+BR871,Taipei,13/07/2020,1577,54G,Taipei
+PR300,Manila,14/07/2020,1580,Unknown,Manila
 Taxi JW2118,,29/06/2020 – 01/07/2020,1443,,
 Taxi MB7876 (night shift),,27/06/2020 - 05/07/2020,1291,,
+Taxi KH7353,,05/07/2020,1578,,
 Taxi MB7876 (day shift),,05/07/2020 - 06/07/2020,1357,,
 Taxi KZ3637,,02/07/2020 - 06/07/2020,1301,,
 Taxi TV7,,30/06/2020 - 06/07/2020,1315,,
@@ -102,3 +105,4 @@ Taxi RC9667,,07/07/2020,1497,,
 Taxi RG7882,,09/07/2020,1497,,
 Taxi WG4970,,09/07/2020 - 10/07/2020,1483,,
 Taxi WP9381,,11/07/2020 - 12/07/2020,1518,,
+Taxi FY9138,,12/07/2020,1578,,
