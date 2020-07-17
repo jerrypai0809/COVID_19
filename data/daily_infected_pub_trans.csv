@@ -1,14 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-GA876,Jakarta,01/07/2020,1234,51D,Jakarta
-KA734,Kuala Lumpur,01/07/2020,1237,Unknown,Kuala Lumpur
-KA734,Kuala Lumpur,01/07/2020,1238,32A,Kuala Lumpur
-KA734,Kuala Lumpur,01/07/2020,1239,43E,Kuala Lumpur
-KA734,Kuala Lumpur,01/07/2020,1240,42K,Kuala Lumpur
-KA734,Kuala Lumpur,01/07/2020,1241,42H,Kuala Lumpur
-KA734,Kuala Lumpur,01/07/2020,1242,41D,Kuala Lumpur
-KA734,Kuala Lumpur,01/07/2020,1243,35H,Kuala Lumpur
-KA734,Kuala Lumpur,01/07/2020,1245,32C,Kuala Lumpur
-KA734,Kuala Lumpur,01/07/2020,1282,40A,Kuala Lumpur
 TK0070,Istanbul,02/07/2020,1246,11A,Istanbul
 CX906,Manila,02/07/2020,1247,52G,Manila
 BA031,London,02/07/2020,1248,32F,London
@@ -92,7 +82,10 @@ CX906,Manila,13/07/2020,1575,66B,Manila
 RL9946,Mumbai,13/07/2020,1576,Unknown,Mumbai
 BR871,Taipei,13/07/2020,1577,54G,Taipei
 PR300,Manila,14/07/2020,1580,Unknown,Manila
-Taxi JW2118,,29/06/2020 – 01/07/2020,1443,,
+QR818,Doha,15/07/2020,1600,20K,Doha
+CX906,Manila,14/07/2020,1609,Unknown,Manila
+CX906,Manila,15/07/2020,1645,73G,Manila
+GA876,Jakarta,14/07/2020,1646,46A,Jakarta
 Taxi MB7876 (night shift),,27/06/2020 - 05/07/2020,1291,,
 Taxi KH7353,,05/07/2020,1578,,
 Taxi MB7876 (day shift),,05/07/2020 - 06/07/2020,1357,,
@@ -106,3 +99,4 @@ Taxi RG7882,,09/07/2020,1497,,
 Taxi WG4970,,09/07/2020 - 10/07/2020,1483,,
 Taxi WP9381,,11/07/2020 - 12/07/2020,1518,,
 Taxi FY9138,,12/07/2020,1578,,
+Taxi UZ1286,,12/07/2020,1594,,
