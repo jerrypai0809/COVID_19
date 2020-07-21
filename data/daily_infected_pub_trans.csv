@@ -1,41 +1,8 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-TK0070,Istanbul,02/07/2020,1246,11A,Istanbul
-CX906,Manila,02/07/2020,1247,52G,Manila
-BA031,London,02/07/2020,1248,32F,London
-HX782,Manila,03/07/2020,1249,32K,Manila
-EK380,Dubai,03/07/2020,1253,27E,Dubai
-BR871,Taipei,03/07/2020,1254,57H,Taipei
-AC7,Vancouver,03/07/2020,1255,39K,Vancouver
-EK380,Dubai,03/07/2020,1256,26J,Dubai
-EK380,Dubai,03/07/2020,1257,25D,Dubai
-EK380,Dubai,03/07/2020,1258,32A,Dubai
-EK380,Dubai,03/07/2020,1259,17C,Dubai
-EK380,Dubai,03/07/2020,1262,19D,Dubai
-EK380,Dubai,04/07/2020,1264,Unknown,Dubai
-EK380,Dubai,04/07/2020,1265,24D,Dubai
-EK380,Dubai,04/07/2020,1266,28D,Dubai
-EK380,Dubai,04/07/2020,1267,25D,Dubai
-EK380,Dubai,04/07/2020,1270,Unknown,Dubai
-EK380,Dubai,04/07/2020,1271,24B,Dubai
-EK380,Dubai,04/07/2020,1272,31C,Dubai
-EK380,Dubai,04/07/2020,1273,Unknown,Dubai
-EK380,Dubai,04/07/2020,1274,Unknown,Dubai
-EK380,Dubai,04/07/2020,1275,Unknown,Dubai
-AI310,New Delhi,05/07/2020,1277,38E,New Delhi
-AI310,New Delhi,05/07/2020,1278,37F,New Delhi
-AI310,New Delhi,05/07/2020,1279,32D,New Delhi
-AI310,New Delhi,05/07/2020,1280,37C,New Delhi
-EK380,Dubai,05/07/2020,1284,28E,Dubai
-KA734,Kuala Lumpur,05/07/2020,1285,38H,Kuala Lumpur
-KA734,Kuala Lumpur,05/07/2020,1286,33K,Kuala Lumpur
-EK380,Dubai,05/07/2020,1287,26G,Dubai
-EK380,Dubai,05/07/2020,1288,47D,Dubai
-HX782,Manila,05/07/2020,1299,54D,Manila
-HX782,Manila,05/07/2020,1300,64G,Manila
-KA734,Kuala Lumpur,05/07/2020,1303,33C,Kuala Lumpur
 CX906,Manila,06/07/2020,1290,40A,Manila
 CX906,Manila,06/07/2020,1309,61D,Manila
 CX906,Manila,06/07/2020,1399,73A,Manila
+CX906,Manila,06/07/2020,1885,Unknown,Manila
 OZ721,Seoul,07/07/2020,1318,6D,Seoul
 CX906,Manila,07/07/2020,1320,32D,Manila
 EK380,Dubai,07/07/2020,1327,47K,Dubai
@@ -75,19 +42,47 @@ CX906,Manila,12/07/2020,1525,65A,Manila
 KA734,Kuala Lumpur,12/07/2020,1527,42K,Kuala Lumpur
 KA734,Kuala Lumpur,12/07/2020,1528,43G,Kuala Lumpur
 KA734,Kuala Lumpur,12/07/2020,1529,40G,Kuala Lumpur
+KA734,Kuala Lumpur,12/07/2020,1801,48F,Kuala Lumpur
+KA734,Kuala Lumpur,12/07/2020,1840,36D,Kuala Lumpur
 KL887,Amsterdam,13/07/2020,1530,Unknown,Amsterdam
 CX906,Manila,13/07/2020,1554,61K,Manila
 CX906,Manila,13/07/2020,1574,48G,Manila
 CX906,Manila,13/07/2020,1575,66B,Manila
 RL9946,Mumbai,13/07/2020,1576,Unknown,Mumbai
 BR871,Taipei,13/07/2020,1577,54G,Taipei
-PR300,Manila,14/07/2020,1580,Unknown,Manila
-QR818,Doha,15/07/2020,1600,20K,Doha
+CX906,Manila,13/07/2020,1766,42A,Manila
+PR300,Manila,14/07/2020,1580,50K,Manila
 CX906,Manila,14/07/2020,1609,Unknown,Manila
-CX906,Manila,15/07/2020,1645,73G,Manila
 GA876,Jakarta,14/07/2020,1646,46A,Jakarta
-Taxi MB7876 (night shift),,27/06/2020 - 05/07/2020,1291,,
-Taxi KH7353,,05/07/2020,1578,,
+QR818,Doha,15/07/2020,1600,20K,Doha
+CX906,Manila,15/07/2020,1645,73G,Manila
+KA734,Kuala Lumpur,15/07/2020,1674,5A,Kuala Lumpur
+KA734,Kuala Lumpur,15/07/2020,1675,35K,Kuala Lumpur
+KA734,Kuala Lumpur,15/07/2020,1676,49F,Kuala Lumpur
+ET3728,Addis Ababa,16/07/2020,1670,Unknown,Addis Ababa
+CX906,Manila,16/07/2020,1696,48K,Manila
+CX906,Manila,17/07/2020,1788,65J,Manila
+NH1929,Tokyo,17/07/2020,1789,Unknown,Tokyo
+CX906,Manila,17/07/2020,1790,43C,Manila
+NH1929,Tokyo,17/07/2020,1791,21F,Tokyo
+BR871,Taipei,17/07/2020,1793,Unknown,Taipei
+BR871,Taipei,17/07/2020,1794,Unknown,Taipei
+HX782,Manila,17/07/2020,1821,38K,Manila
+HX782,Manila,17/07/2020,1822,Unknown,Manila
+HX782,Manila,17/07/2020,1824,32A,Manila
+HX782,Manila,17/07/2020,1825,Unknown,Manila
+HX782,Manila,17/07/2020,1826,55A,Manila
+HX782,Manila,17/07/2020,1827,Unknown,Manila
+HX782,Manila,17/07/2020,1828,39D,Manila
+PR300,Manila,17/07/2020,1829,Unknown,Manila
+HX782,Manila,17/07/2020,1830,Unknown,Manila
+CX881,Los Angeles,18/07/2020,1810,40J,Los Angeles
+CX906,Manila,18/07/2020,1816,39D,Manila
+KL887,Amsterdam,18/07/2020,1823,Unknown,Amsterdam
+TK070,Istanbul,18/07/2020,1911,Unknown,Istanbul
+CX906,Manila,18/07/2020,1913,20A,Manila
+ET3618,Seoul,18/07/2020,1915,Unknown,Seoul
+QR818,Doha,19/07/2020,1957,20J,Doha
 Taxi MB7876 (day shift),,05/07/2020 - 06/07/2020,1357,,
 Taxi KZ3637,,02/07/2020 - 06/07/2020,1301,,
 Taxi TV7,,30/06/2020 - 06/07/2020,1315,,
@@ -100,3 +95,5 @@ Taxi WG4970,,09/07/2020 - 10/07/2020,1483,,
 Taxi WP9381,,11/07/2020 - 12/07/2020,1518,,
 Taxi FY9138,,12/07/2020,1578,,
 Taxi UZ1286,,12/07/2020,1594,,
+First Bus No. 23,,13/07/2020 - 14/07/2020,1693,,
+Taxi KB8265,,15/07/2020,1815,,
