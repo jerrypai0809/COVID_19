@@ -1,8 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX906,Manila,06/07/2020,1290,40A,Manila
-CX906,Manila,06/07/2020,1309,61D,Manila
-CX906,Manila,06/07/2020,1399,73A,Manila
-CX906,Manila,06/07/2020,1885,Unknown,Manila
 OZ721,Seoul,07/07/2020,1318,6D,Seoul
 CX906,Manila,07/07/2020,1320,32D,Manila
 EK380,Dubai,07/07/2020,1327,47K,Dubai
@@ -83,17 +79,16 @@ TK070,Istanbul,18/07/2020,1911,Unknown,Istanbul
 CX906,Manila,18/07/2020,1913,20A,Manila
 ET3618,Seoul,18/07/2020,1915,Unknown,Seoul
 QR818,Doha,19/07/2020,1957,20J,Doha
-Taxi MB7876 (day shift),,05/07/2020 - 06/07/2020,1357,,
-Taxi KZ3637,,02/07/2020 - 06/07/2020,1301,,
-Taxi TV7,,30/06/2020 - 06/07/2020,1315,,
+CX906,Manila,19/07/2020,1961,72H,Manila
+CX883,Los Angeles,20/07/2020,1986,67H,Los Angeles
 Taxi EL7890,,05/07/2020 - 07/07/2020,1329,,
-Taxi TH8867,,06/07/2020 - 09/07/2020,1438,,
 Taxi VM8302,,06/07/2020 - 07/07/2020,1483,,
+Taxi TH8867,,06/07/2020 - 09/07/2020,1438,,
 Taxi RC9667,,07/07/2020,1497,,
 Taxi RG7882,,09/07/2020,1497,,
 Taxi WG4970,,09/07/2020 - 10/07/2020,1483,,
 Taxi WP9381,,11/07/2020 - 12/07/2020,1518,,
 Taxi FY9138,,12/07/2020,1578,,
 Taxi UZ1286,,12/07/2020,1594,,
-First Bus No. 23,,13/07/2020 - 14/07/2020,1693,,
+First Bus No. 23,,13/07/2020 – 14/07/2020,1693,,
 Taxi KB8265,,15/07/2020,1815,,
