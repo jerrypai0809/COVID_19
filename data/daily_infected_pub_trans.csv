@@ -1,21 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX104,Melbourne,11/07/2020,2507,63C,Melbourne
-HX782,Manila,12/07/2020,1494,Unknown,Manila
-6E8603,New Delhi,12/07/2020,1495,Unknown,New Delhi
-GA876,Jakarta,12/07/2020,1496,Row 29,Jakarta
-AY99,Helsinki,12/07/2020,1500,Unknown,Helsinki
-CX906,Manila,12/07/2020,1524,67G,Manila
-CX906,Manila,12/07/2020,1525,65A,Manila
-KA734,Kuala Lumpur,12/07/2020,1527,42K,Kuala Lumpur
-KA734,Kuala Lumpur,12/07/2020,1528,43G,Kuala Lumpur
-KA734,Kuala Lumpur,12/07/2020,1529,40G,Kuala Lumpur
-KA734,Kuala Lumpur,12/07/2020,1801,48F,Kuala Lumpur
-KA734,Kuala Lumpur,12/07/2020,1840,36D,Kuala Lumpur
-KA734,Kuala Lumpur,12/07/2020,2504,43E,Kuala Lumpur
-KA734,Kuala Lumpur,12/07/2020,2628,46C,Kuala Lumpur
-KA734,Kuala Lumpur,12/07/2020,2629,46A,Kuala Lumpur
-KA734,Kuala Lumpur,12/07/2020,2630,46F,Kuala Lumpur
-KA734,Kuala Lumpur,12/07/2020,2631,30F,Kuala Lumpur
 KL887,Amsterdam,13/07/2020,1530,Unknown,Amsterdam
 CX906,Manila,13/07/2020,1554,61K,Manila
 CX906,Manila,13/07/2020,1574,48G,Manila
@@ -66,7 +49,7 @@ PR300,Manila,21/07/2020,2095,55E,Manila
 PR300,Manila,21/07/2020,2096,58E,Manila
 PR300,Manila,21/07/2020,2097,Unknown,Manila
 HX782,Manila,22/07/2020,2215,53D,Manila
-HX782,Manila,22/07/2020,2216,Unknown,Manila
+HX782,Manila,22/07/2020,2216,12G,Manila
 HX782,Manila,22/07/2020,2217,36E,Manila
 SQ890,Singapore,22/07/2020,2218,54G,Singapore
 SQ890,Singapore,22/07/2020,2219,18F,Singapore
@@ -84,6 +67,7 @@ HX782,Manila,24/07/2020,2466,40D,Manila
 QR818,Doha,24/07/2020,2515,26K,Doha
 HX782,Manila,24/07/2020,2516,47C,Manila
 BA031,London,24/07/2020,2517,31C,London
+BG78,Dhaka,24/07/2020,2518,33A,Dhaka
 QR818,Doha,24/07/2020,2519,24K,Doha
 QR818,Doha,24/07/2020,2520,38H,Doha
 PR300,Manila,24/07/2020,2553,55D,Manila
@@ -97,11 +81,9 @@ CX906,Manila,24/07/2020,2565,16G,Manila
 CX906,Manila,24/07/2020,2566,49G,Manila
 CX906,Manila,24/07/2020,2601,65G,Manila
 CX906,Manila,24/07/2020,2612,43C,Manila
+CX906,Manila,24/07/2020,2699,17A,Manila
 CX906,Manila,25/07/2020,2614,65C,Manila
-BG78,Dhaka,24/07/2020,2518,33A,Dhaka
-Taxi WP9381,,11/07/2020 - 12/07/2020,1518,,
-Taxi FY9138,,12/07/2020,1578,,
-Taxi UZ1286,,12/07/2020,1594,,
+QR818,Doha,26/07/2020,2731,27K,Doha
 First Bus No. 23,,13/07/2020 – 14/07/2020,1693,,
 Taxi KB8265,,15/07/2020,1815,,
 Taxi TA9397,,13/07/2020 – 19/07/2020,2090,,
