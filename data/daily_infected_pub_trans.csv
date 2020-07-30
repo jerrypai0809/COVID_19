@@ -1,9 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-PR300,Manila,14/07/2020,1580,50K,Manila
-CX906,Manila,14/07/2020,1609,Unknown,Manila
-GA876,Jakarta,14/07/2020,1646,46A,Jakarta
-PR300,Manila,14/07/2020,2879,64H,Manila
-CX906,Manila,14/07/2020,2880,43K,Manila
 QR818,Doha,15/07/2020,1600,20K,Doha
 CX906,Manila,15/07/2020,1645,73G,Manila
 KA734,Kuala Lumpur,15/07/2020,1674,5A,Kuala Lumpur
@@ -49,7 +44,7 @@ SQ890,Singapore,22/07/2020,2218,54G,Singapore
 SQ890,Singapore,22/07/2020,2219,18F,Singapore
 SQ890,Singapore,22/07/2020,2220,Unknown,Singapore
 CX906,Manila,22/07/2020,2251,Unknown,Manila
-SQ890,Singapore,22/07/2020,2252,56B,Singapore
+SQ890,Singapore,22/07/2020,2252,Unknown,Singapore
 HX782,Manila,22/07/2020,2336,Unknown,Manila
 CX906,Manila,23/07/2020,2373,Unknown,Manila
 6E8603,New Delhi,23/07/2020,2383,9C,New Delhi
@@ -82,10 +77,16 @@ QR818,Doha,26/07/2020,2731,27K,Doha
 RU645,Moscow,26/07/2020,2780,Cabin crew,Moscow
 CX906,Manila,26/07/2020,2781,62K,Manila
 CX906,Manila,26/07/2020,2885,65C,Manila
+ETH3716,Addis Ababa,26/07/2020,2930,Cabin crew,Addis Ababa
 CX798,Jakarta,26/07/2020,,18K,Jakarta
-First Bus No. 23,,13/07/2020 – 14/07/2020,1693,,
+CX906,Manila,26/07/2020,,31J,Manila
+AC007,Vancouver,27/07/2020,2892,25K,Vancouver
+QR818,Doha,27/07/2020,2931,23H,Doha
+CX906,Manila,27/07/2020,2971,62G,Manila
+CX906,Manila,27/07/2020,2977,69K,Manila
 Taxi KB8265,,15/07/2020,1815,,
 Taxi TA9397,,13/07/2020 – 19/07/2020,2090,,
 Taxi MF3045,,18/07/2020,2142,,
 Taxi VK1469,,21/07/2020,2012,,
 Taxi AH8238,,21/07/2020,2440,,
+Taxi KD6323,,25/07/2020,2981,,
