@@ -1,9 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-QR818,Doha,15/07/2020,1600,20K,Doha
-CX906,Manila,15/07/2020,1645,73G,Manila
-KA734,Kuala Lumpur,15/07/2020,1674,5A,Kuala Lumpur
-KA734,Kuala Lumpur,15/07/2020,1675,35K,Kuala Lumpur
-KA734,Kuala Lumpur,15/07/2020,1676,49F,Kuala Lumpur
 ET3728,Addis Ababa,16/07/2020,1670,Unknown,Addis Ababa
 CX906,Manila,16/07/2020,1696,48K,Manila
 CX906,Manila,17/07/2020,1788,65J,Manila
@@ -50,6 +45,9 @@ CX906,Manila,23/07/2020,2373,Unknown,Manila
 6E8603,New Delhi,23/07/2020,2383,9C,New Delhi
 6E8603,New Delhi,23/07/2020,2384,14D,New Delhi
 LX138,Zurich,23/07/2020,2557,31D,Zurich
+6E8603,New Delhi,23/07/2020,2384,28F,New Delhi
+6E8603,New Delhi,23/07/2020,3113,2A,New Delhi
+6E8603,New Delhi,23/07/2020,3116,27A,New Delhi
 HX782,Manila,24/07/2020,2463,63G,Manila
 PR300,Manila,24/07/2020,2464,23A,Manila
 HX782,Manila,24/07/2020,2466,40D,Manila
@@ -84,7 +82,8 @@ AC007,Vancouver,27/07/2020,2892,25K,Vancouver
 QR818,Doha,27/07/2020,2931,23H,Doha
 CX906,Manila,27/07/2020,2971,62G,Manila
 CX906,Manila,27/07/2020,2977,69K,Manila
-Taxi KB8265,,15/07/2020,1815,,
+ET644,Manila,28/07/2020,3004,Cabin crew,Manila
+QR818,Doha,29/07/2020,3006,40D,Doha
 Taxi TA9397,,13/07/2020 – 19/07/2020,2090,,
 Taxi MF3045,,18/07/2020,2142,,
 Taxi VK1469,,21/07/2020,2012,,
