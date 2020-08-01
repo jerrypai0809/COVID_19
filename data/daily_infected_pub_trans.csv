@@ -1,6 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-ET3728,Addis Ababa,16/07/2020,1670,Unknown,Addis Ababa
-CX906,Manila,16/07/2020,1696,48K,Manila
 CX906,Manila,17/07/2020,1788,65J,Manila
 NH1929,Tokyo,17/07/2020,1789,Unknown,Tokyo
 CX906,Manila,17/07/2020,1790,43C,Manila
@@ -26,6 +24,7 @@ ETH3618,Seoul,18/07/2020,2326,Unknown,Seoul
 QR818,Doha,19/07/2020,1957,20J,Doha
 CX906,Manila,19/07/2020,1961,72H,Manila
 QR818,Doha,19/07/2020,2521,Unknown,Doha
+QR818,Doha,19/07/2020,3169,38F,Doha
 CX883,Los Angeles,20/07/2020,1986,67H,Los Angeles
 CX906,Manila,20/07/2020,2020,40E,Manila
 CX906,Manila,20/07/2020,2805,Unknown,Manila
@@ -43,9 +42,8 @@ SQ890,Singapore,22/07/2020,2252,Unknown,Singapore
 HX782,Manila,22/07/2020,2336,Unknown,Manila
 CX906,Manila,23/07/2020,2373,Unknown,Manila
 6E8603,New Delhi,23/07/2020,2383,9C,New Delhi
-6E8603,New Delhi,23/07/2020,2384,14D,New Delhi
-LX138,Zurich,23/07/2020,2557,31D,Zurich
 6E8603,New Delhi,23/07/2020,2384,28F,New Delhi
+LX138,Zurich,23/07/2020,2557,31D,Zurich
 6E8603,New Delhi,23/07/2020,3113,2A,New Delhi
 6E8603,New Delhi,23/07/2020,3116,27A,New Delhi
 HX782,Manila,24/07/2020,2463,63G,Manila
@@ -70,6 +68,7 @@ CX906,Manila,24/07/2020,2601,65G,Manila
 CX906,Manila,24/07/2020,2612,43C,Manila
 CX906,Manila,24/07/2020,2699,17A,Manila
 CX906,Manila,24/07/2020,2826,16G,Manila
+PR300,Manila,24/07/2020,3168,56K,Manila
 CX906,Manila,25/07/2020,2614,65C,Manila
 QR818,Doha,26/07/2020,2731,27K,Doha
 RU645,Moscow,26/07/2020,2780,Cabin crew,Moscow
@@ -84,6 +83,7 @@ CX906,Manila,27/07/2020,2971,62G,Manila
 CX906,Manila,27/07/2020,2977,69K,Manila
 ET644,Manila,28/07/2020,3004,Cabin crew,Manila
 QR818,Doha,29/07/2020,3006,40D,Doha
+KL887,Amsterdam,29/07/2020,3255,10C,Amsterdam
 Taxi TA9397,,13/07/2020 – 19/07/2020,2090,,
 Taxi MF3045,,18/07/2020,2142,,
 Taxi VK1469,,21/07/2020,2012,,
