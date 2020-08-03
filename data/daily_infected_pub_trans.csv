@@ -1,26 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX906,Manila,17/07/2020,1788,65J,Manila
-NH1929,Tokyo,17/07/2020,1789,Unknown,Tokyo
-CX906,Manila,17/07/2020,1790,43C,Manila
-NH1929,Tokyo,17/07/2020,1791,21F,Tokyo
-BR871,Taipei,17/07/2020,1793,Unknown,Taipei
-BR871,Taipei,17/07/2020,1794,Unknown,Taipei
-HX782,Manila,17/07/2020,1821,38K,Manila
-HX782,Manila,17/07/2020,1822,Unknown,Manila
-HX782,Manila,17/07/2020,1824,32A,Manila
-HX782,Manila,17/07/2020,1825,Unknown,Manila
-HX782,Manila,17/07/2020,1826,55A,Manila
-HX782,Manila,17/07/2020,1827,Unknown,Manila
-HX782,Manila,17/07/2020,1828,39D,Manila
-PR300,Manila,17/07/2020,1829,Unknown,Manila
-HX782,Manila,17/07/2020,1830,Unknown,Manila
-CX881,Los Angeles,18/07/2020,1810,40J,Los Angeles
-CX906,Manila,18/07/2020,1816,39D,Manila
-KL887,Amsterdam,18/07/2020,1823,Unknown,Amsterdam
-TK070,Istanbul,18/07/2020,1911,Unknown,Istanbul
-CX906,Manila,18/07/2020,1913,20A,Manila
-ET3618,Seoul,18/07/2020,1915,Unknown,Seoul
-ETH3618,Seoul,18/07/2020,2326,Unknown,Seoul
 QR818,Doha,19/07/2020,1957,20J,Doha
 CX906,Manila,19/07/2020,1961,72H,Manila
 QR818,Doha,19/07/2020,2521,Unknown,Doha
@@ -84,8 +62,8 @@ CX906,Manila,27/07/2020,2977,69K,Manila
 ET644,Manila,28/07/2020,3004,Cabin crew,Manila
 QR818,Doha,29/07/2020,3006,40D,Doha
 KL887,Amsterdam,29/07/2020,3255,10C,Amsterdam
+CX252,London,31/07/2020,3282,Unknown,London
 Taxi TA9397,,13/07/2020 – 19/07/2020,2090,,
-Taxi MF3045,,18/07/2020,2142,,
 Taxi VK1469,,21/07/2020,2012,,
 Taxi AH8238,,21/07/2020,2440,,
 Taxi KD6323,,25/07/2020,2981,,
