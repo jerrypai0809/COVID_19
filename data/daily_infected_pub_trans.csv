@@ -1,69 +1,69 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-QR818,Doha,19/07/2020,1957,20J,Doha
-CX906,Manila,19/07/2020,1961,72H,Manila
-QR818,Doha,19/07/2020,2521,Unknown,Doha
-QR818,Doha,19/07/2020,3169,38F,Doha
-CX883,Los Angeles,20/07/2020,1986,67H,Los Angeles
-CX906,Manila,20/07/2020,2020,40E,Manila
-CX906,Manila,20/07/2020,2805,Unknown,Manila
-PR300,Manila,21/07/2020,2095,55E,Manila
-PR300,Manila,21/07/2020,2096,58E,Manila
-PR300,Manila,21/07/2020,2097,Unknown,Manila
-HX782,Manila,22/07/2020,2215,53D,Manila
-HX782,Manila,22/07/2020,2216,12G,Manila
-HX782,Manila,22/07/2020,2217,36E,Manila
-SQ890,Singapore,22/07/2020,2218,54G,Singapore
-SQ890,Singapore,22/07/2020,2219,18F,Singapore
-SQ890,Singapore,22/07/2020,2220,Unknown,Singapore
-CX906,Manila,22/07/2020,2251,Unknown,Manila
-SQ890,Singapore,22/07/2020,2252,Unknown,Singapore
-HX782,Manila,22/07/2020,2336,Unknown,Manila
-CX906,Manila,23/07/2020,2373,Unknown,Manila
-6E8603,New Delhi,23/07/2020,2383,9C,New Delhi
-6E8603,New Delhi,23/07/2020,2384,28F,New Delhi
-LX138,Zurich,23/07/2020,2557,31D,Zurich
-6E8603,New Delhi,23/07/2020,3113,2A,New Delhi
-6E8603,New Delhi,23/07/2020,3116,27A,New Delhi
-HX782,Manila,24/07/2020,2463,63G,Manila
-PR300,Manila,24/07/2020,2464,23A,Manila
-HX782,Manila,24/07/2020,2466,40D,Manila
-QR818,Doha,24/07/2020,2515,26K,Doha
-HX782,Manila,24/07/2020,2516,47C,Manila
-BA031,London,24/07/2020,2517,31C,London
-BG78,Dhaka,24/07/2020,2518,33A,Dhaka
-QR818,Doha,24/07/2020,2519,24K,Doha
-QR818,Doha,24/07/2020,2520,38H,Doha
-PR300,Manila,24/07/2020,2553,55D,Manila
-HX782,Manila,24/07/2020,2554,35A,Manila
-HX782,Manila,24/07/2020,2555,60F,Manila
-HX782,Manila,24/07/2020,2556,57K,Manila
-PR300,Manila,24/07/2020,2558,53D,Manila
-CX906,Manila,24/07/2020,2563,17A,Manila
-CX906,Manila,24/07/2020,2564,16D,Manila
-CX906,Manila,24/07/2020,2565,16G,Manila
-CX906,Manila,24/07/2020,2566,49G,Manila
-CX906,Manila,24/07/2020,2601,65G,Manila
-CX906,Manila,24/07/2020,2612,43C,Manila
-CX906,Manila,24/07/2020,2699,17A,Manila
-CX906,Manila,24/07/2020,2826,16G,Manila
-PR300,Manila,24/07/2020,3168,56K,Manila
-CX906,Manila,25/07/2020,2614,65C,Manila
-QR818,Doha,26/07/2020,2731,27K,Doha
-RU645,Moscow,26/07/2020,2780,Cabin crew,Moscow
-CX906,Manila,26/07/2020,2781,62K,Manila
-CX906,Manila,26/07/2020,2885,65C,Manila
-ETH3716,Addis Ababa,26/07/2020,2930,Cabin crew,Addis Ababa
-CX798,Jakarta,26/07/2020,,18K,Jakarta
-CX906,Manila,26/07/2020,,31J,Manila
-AC007,Vancouver,27/07/2020,2892,25K,Vancouver
-QR818,Doha,27/07/2020,2931,23H,Doha
-CX906,Manila,27/07/2020,2971,62G,Manila
-CX906,Manila,27/07/2020,2977,69K,Manila
-ET644,Manila,28/07/2020,3004,Cabin crew,Manila
-QR818,Doha,29/07/2020,3006,40D,Doha
-KL887,Amsterdam,29/07/2020,3255,10C,Amsterdam
-CX252,London,31/07/2020,3282,Unknown,London
-Taxi TA9397,,13/07/2020 – 19/07/2020,2090,,
-Taxi VK1469,,21/07/2020,2012,,
-Taxi AH8238,,21/07/2020,2440,,
-Taxi KD6323,,25/07/2020,2981,,
+PR300,Manila,21/7/2020,2095,55E,Manila
+PR300,Manila,21/7/2020,2096,58E,Manila
+PR300,Manila,21/7/2020,2097,Unknown,Manila
+HX782,Manila,22/7/2020,2215,53D,Manila
+HX782,Manila,22/7/2020,2216,12G,Manila
+HX782,Manila,22/7/2020,2217,36E,Manila
+SQ890,Singapore,22/7/2020,2218,54G,Singapore
+SQ890,Singapore,22/7/2020,2219,18F,Singapore
+SQ890,Singapore,22/7/2020,2220,Unknown,Singapore
+CX906,Manila,22/7/2020,2251,Unknown,Manila
+SQ890,Singapore,22/7/2020,2252,Unknown,Singapore
+HX782,Manila,22/7/2020,2336,Unknown,Manila
+HX782,Manila,22/7/2020,3652,59D,Manila
+HX782,Manila,22/7/2020,3653,44C,Manila
+CX906,Manila,23/7/2020,2373,Unknown,Manila
+6E8603,New Delhi,23/7/2020,2383,9C,New Delhi
+6E8603,New Delhi,23/7/2020,2384,28F,New Delhi
+LX138,Zurich,23/7/2020,2557,31D,Zurich
+6E8603,New Delhi,23/7/2020,3113,2A,New Delhi
+6E8603,New Delhi,23/7/2020,3116,27A,New Delhi
+HX782,Manila,24/7/2020,2463,63G,Manila
+PR300,Manila,24/7/2020,2464,23A,Manila
+HX782,Manila,24/7/2020,2466,40D,Manila
+QR818,Doha,24/7/2020,2515,26K,Doha
+HX782,Manila,24/7/2020,2516,47C,Manila
+BA031,London,24/7/2020,2517,31C,London
+BG78,Dhaka,24/7/2020,2518,33A,Dhaka
+QR818,Doha,24/7/2020,2519,24K,Doha
+QR818,Doha,24/7/2020,2520,38H,Doha
+PR300,Manila,24/7/2020,2553,55D,Manila
+HX782,Manila,24/7/2020,2554,35A,Manila
+HX782,Manila,24/7/2020,2555,60F,Manila
+HX782,Manila,24/7/2020,2556,57K,Manila
+PR300,Manila,24/7/2020,2558,53D,Manila
+CX906,Manila,24/7/2020,2563,17A,Manila
+CX906,Manila,24/7/2020,2564,16D,Manila
+CX906,Manila,24/7/2020,2565,16G,Manila
+CX906,Manila,24/7/2020,2566,49G,Manila
+CX906,Manila,24/7/2020,2601,65G,Manila
+CX906,Manila,24/7/2020,2612,43C,Manila
+CX906,Manila,24/7/2020,2699,17A,Manila
+CX906,Manila,24/7/2020,2826,16G,Manila
+PR300,Manila,24/7/2020,3168,56K,Manila
+CX906,Manila,25/7/2020,2614,65C,Manila
+QR818,Doha,26/7/2020,2731,27K,Doha
+RU645,Moscow,26/7/2020,2780,Cabin crew,Moscow
+CX906,Manila,26/7/2020,2781,62K,Manila
+CX906,Manila,26/7/2020,2885,65C,Manila
+ETH3716,Addis Ababa,26/7/2020,2930,Cabin crew,Addis Ababa
+CX798,Jakarta,26/7/2020,,18K,Jakarta
+CX906,Manila,26/7/2020,,31J,Manila
+AC007,Vancouver,27/7/2020,2892,25K,Vancouver
+QR818,Doha,27/7/2020,2931,23H,Doha
+CX906,Manila,27/7/2020,2971,62G,Manila
+CX906,Manila,27/7/2020,2977,69K,Manila
+ET644,Manila,28/7/2020,3004,Cabin crew,Manila
+QR818,Doha,29/7/2020,3006,40D,Doha
+KL887,Amsterdam,29/7/2020,3255,10C,Amsterdam
+CX252,London,31/7/2020,3282,Unknown,London
+CX906,Manila,31/7/2020,,74G,Manila
+CX798,Jakarta,1/8/2020,3513,Cabin crew,Jakarta
+BA031,London,2/8/2020,3591,37C,London
+ET645,Manila,2/8/2020,3592,Cabin crew,Manila
+Taxi VK1469,,21/7/2020,2012,,
+Taxi AH8238,,21/7/2020,2440,,
+Taxi SK3360,,22-24/07/2020 & 28-31/07/2020,3550,,
+Taxi JZ5878,,23-24/07/2020,3450,,
+Taxi KD6323,,25/7/2020,2981,,
