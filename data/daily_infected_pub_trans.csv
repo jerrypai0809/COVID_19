@@ -1,23 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX881,Los Angeles,21/07/2020,3679,21K,Los Angeles
-TK70,Istanbul,21/07/2020,3749,Unknown,Istanbul
-HX782,Manila,22/07/2020,2215,53D,Manila
-HX782,Manila,22/07/2020,2216,12G,Manila
-HX782,Manila,22/07/2020,2217,36E,Manila
-SQ890,Singapore,22/07/2020,2218,54G,Singapore
-SQ890,Singapore,22/07/2020,2219,18F,Singapore
-SQ890,Singapore,22/07/2020,2220,Unknown,Singapore
-CX906,Manila,22/07/2020,2251,Unknown,Manila
-SQ890,Singapore,22/07/2020,2252,Unknown,Singapore
-HX782,Manila,22/07/2020,2336,Unknown,Manila
-HX782,Manila,22/07/2020,3652,59D,Manila
-HX782,Manila,22/07/2020,3653,44C,Manila
-CX906,Manila,23/07/2020,2373,Unknown,Manila
-6E8603,New Delhi,23/07/2020,2383,9C,New Delhi
-6E8603,New Delhi,23/07/2020,2384,28F,New Delhi
-LX138,Zurich,23/07/2020,2557,31D,Zurich
-6E8603,New Delhi,23/07/2020,3113,2A,New Delhi
-6E8603,New Delhi,23/07/2020,3116,27A,New Delhi
 HX782,Manila,24/07/2020,2463,63G,Manila
 PR300,Manila,24/07/2020,2464,23A,Manila
 HX782,Manila,24/07/2020,2466,40D,Manila
@@ -42,12 +23,14 @@ CX906,Manila,24/07/2020,2699,17A,Manila
 CX906,Manila,24/07/2020,2826,16G,Manila
 PR300,Manila,24/07/2020,3168,56K,Manila
 PR300,Manila,24/07/2020,3680,36H,Manila
+CX906,Manila,24/07/2020,3756,74D,Manila
 CX906,Manila,25/07/2020,2614,65C,Manila
 QR818,Doha,26/07/2020,2731,27K,Doha
 RU645,Moscow,26/07/2020,2780,Cabin crew,Moscow
 CX906,Manila,26/07/2020,2781,62K,Manila
 CX906,Manila,26/07/2020,2885,65C,Manila
 ETH3716,Addis Ababa,26/07/2020,2930,Cabin crew,Addis Ababa
+CX798,Jakarta,26/07/2020,,17K,Jakarta
 CX798,Jakarta,26/07/2020,,18K,Jakarta
 CX906,Manila,26/07/2020,,31J,Manila
 AC007,Vancouver,27/07/2020,2892,25K,Vancouver
@@ -62,6 +45,18 @@ CX906,Manila,31/07/2020,,74G,Manila
 CX798,Jakarta,01/08/2020,3513,Cabin crew,Jakarta
 BA031,London,02/08/2020,3591,37C,London
 ET645,Manila,02/08/2020,3592,Cabin crew,Manila
+AI310,New Delhi,04/08/2020,3796,20F,New Delhi
+AI310,New Delhi,04/08/2020,3797,23C,New Delhi
+AI310,New Delhi,04/08/2020,3798,22C,New Delhi
+SQ890,Singapore,05/08/2020,3851,53J,Singapore
+SQ890,Singapore,05/08/2020,3852,53K,Singapore
+KL887,Amsterdam,05/08/2020,3853,1A,Amsterdam
+KL887,Amsterdam,05/08/2020,3854,1C,Amsterdam
+QR818,Doha,05/08/2020,3863,38H,Doha
+CX906,Manila,05/08/2020,3887,46D,Manila
 Taxi SK3360,,22-24/07/2020 & 28-31/07/2020,3550,,
 Taxi JZ5878,,23-24/07/2020,3450,,
 Taxi KD6323,,25/07/2020,2981,,
+Taxi HF8999,,01/08/2020,3911,,
+Taxi CM3870,,03/08/2020,3911,,
+Taxi MN7894,,04/08/2020,3911,,
