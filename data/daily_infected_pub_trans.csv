@@ -1,29 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-HX782,Manila,24/07/2020,2463,63G,Manila
-PR300,Manila,24/07/2020,2464,23A,Manila
-HX782,Manila,24/07/2020,2466,40D,Manila
-QR818,Doha,24/07/2020,2515,26K,Doha
-HX782,Manila,24/07/2020,2516,47C,Manila
-BA031,London,24/07/2020,2517,31C,London
-BG78,Dhaka,24/07/2020,2518,33A,Dhaka
-QR818,Doha,24/07/2020,2519,24K,Doha
-QR818,Doha,24/07/2020,2520,38H,Doha
-PR300,Manila,24/07/2020,2553,55D,Manila
-HX782,Manila,24/07/2020,2554,35A,Manila
-HX782,Manila,24/07/2020,2555,60F,Manila
-HX782,Manila,24/07/2020,2556,57K,Manila
-PR300,Manila,24/07/2020,2558,53D,Manila
-CX906,Manila,24/07/2020,2563,17A,Manila
-CX906,Manila,24/07/2020,2564,16D,Manila
-CX906,Manila,24/07/2020,2565,16G,Manila
-CX906,Manila,24/07/2020,2566,49G,Manila
-CX906,Manila,24/07/2020,2601,65G,Manila
-CX906,Manila,24/07/2020,2612,43C,Manila
-CX906,Manila,24/07/2020,2699,17A,Manila
-CX906,Manila,24/07/2020,2826,16G,Manila
-PR300,Manila,24/07/2020,3168,56K,Manila
-PR300,Manila,24/07/2020,3680,36H,Manila
-CX906,Manila,24/07/2020,3756,74D,Manila
 CX906,Manila,25/07/2020,2614,65C,Manila
 QR818,Doha,26/07/2020,2731,27K,Doha
 RU645,Moscow,26/07/2020,2780,Cabin crew,Moscow
@@ -48,14 +23,15 @@ ET645,Manila,02/08/2020,3592,Cabin crew,Manila
 AI310,New Delhi,04/08/2020,3796,20F,New Delhi
 AI310,New Delhi,04/08/2020,3797,23C,New Delhi
 AI310,New Delhi,04/08/2020,3798,22C,New Delhi
+AI310,New Delhi,04/08/2020,4008,12F,New Delhi
 SQ890,Singapore,05/08/2020,3851,53J,Singapore
 SQ890,Singapore,05/08/2020,3852,53K,Singapore
 KL887,Amsterdam,05/08/2020,3853,1A,Amsterdam
 KL887,Amsterdam,05/08/2020,3854,1C,Amsterdam
 QR818,Doha,05/08/2020,3863,38H,Doha
 CX906,Manila,05/08/2020,3887,46D,Manila
+SQ890,Singapore,05/08/2020,3944,53H,Singapore
 Taxi SK3360,,22-24/07/2020 & 28-31/07/2020,3550,,
-Taxi JZ5878,,23-24/07/2020,3450,,
 Taxi KD6323,,25/07/2020,2981,,
 Taxi HF8999,,01/08/2020,3911,,
 Taxi CM3870,,03/08/2020,3911,,
