@@ -1,13 +1,12 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX906,Manila,25/07/2020,2614,65C,Manila
 QR818,Doha,26/07/2020,2731,27K,Doha
 RU645,Moscow,26/07/2020,2780,Cabin crew,Moscow
 CX906,Manila,26/07/2020,2781,62K,Manila
 CX906,Manila,26/07/2020,2885,65C,Manila
 ETH3716,Addis Ababa,26/07/2020,2930,Cabin crew,Addis Ababa
-CX798,Jakarta,26/07/2020,,17K,Jakarta
 CX798,Jakarta,26/07/2020,,18K,Jakarta
 CX906,Manila,26/07/2020,,31J,Manila
+CX798,Jakarta,26/07/2020,,17K,Jakarta
 AC007,Vancouver,27/07/2020,2892,25K,Vancouver
 QR818,Doha,27/07/2020,2931,23H,Doha
 CX906,Manila,27/07/2020,2971,62G,Manila
@@ -31,8 +30,9 @@ KL887,Amsterdam,05/08/2020,3854,1C,Amsterdam
 QR818,Doha,05/08/2020,3863,38H,Doha
 CX906,Manila,05/08/2020,3887,46D,Manila
 SQ890,Singapore,05/08/2020,3944,53H,Singapore
+ET608,Bangkok,07/08/2020,4014,C1,Bangkok
+CX906,Manila,07/08/2020,4025,69D,Manila
 Taxi SK3360,,22-24/07/2020 & 28-31/07/2020,3550,,
-Taxi KD6323,,25/07/2020,2981,,
 Taxi HF8999,,01/08/2020,3911,,
 Taxi CM3870,,03/08/2020,3911,,
 Taxi MN7894,,04/08/2020,3911,,
