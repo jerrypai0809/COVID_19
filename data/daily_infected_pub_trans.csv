@@ -1,8 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-AC007,Vancouver,27/07/2020,2892,25K,Vancouver
-QR818,Doha,27/07/2020,2931,23H,Doha
-CX906,Manila,27/07/2020,2971,62G,Manila
-CX906,Manila,27/07/2020,2977,69K,Manila
 ET644,Manila,28/07/2020,3004,Cabin crew,Manila
 QR818,Doha,29/07/2020,3006,40D,Doha
 KL887,Amsterdam,29/07/2020,3255,10C,Amsterdam
@@ -25,6 +21,7 @@ SQ890,Singapore,05/08/2020,3944,53H,Singapore
 SQ890,Singapore,05/08/2020,4120,53E,Singapore
 ET608,Bangkok,07/08/2020,4014,C1,Bangkok
 CX906,Manila,07/08/2020,4025,69D,Manila
+QR818,Doha,10/08/2020,4182,37G,Doha
 Taxi SK3360,,22-24/07/2020 & 28-31/07/2020,3550,,
 Taxi HF8999,,01/08/2020,3911,,
 Taxi CM3870,,03/08/2020,3911,,
