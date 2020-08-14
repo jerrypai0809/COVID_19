@@ -1,6 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-QR818,Doha,29/07/2020,3006,40D,Doha
-KL887,Amsterdam,29/07/2020,3255,10C,Amsterdam
 CX252,London,31/07/2020,3282,Unknown,London
 CX906,Manila,31/07/2020,,74G,Manila
 CX798,Jakarta,01/08/2020,3513,Cabin crew,Jakarta
@@ -21,6 +19,8 @@ SQ890,Singapore,05/08/2020,4120,53E,Singapore
 ET608,Bangkok,07/08/2020,4014,C1,Bangkok
 CX906,Manila,07/08/2020,4025,69D,Manila
 QR818,Doha,10/08/2020,4182,37G,Doha
+AI310,New Delhi,11/08/2020,4254,13C,New Delhi
+CX906,Manila,11/08/2020,4274,42A,Manila
 Taxi SK3360,,22-24/07/2020 & 28-31/07/2020,3550,,
 Taxi HF8999,,01/08/2020,3911,,
 Taxi CM3870,,03/08/2020,3911,,
