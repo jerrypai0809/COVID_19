@@ -1,6 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX252,London,31/07/2020,3282,Unknown,London
-CX906,Manila,31/07/2020,,74G,Manila
 CX798,Jakarta,01/08/2020,3513,Cabin crew,Jakarta
 BA031,London,02/08/2020,3591,37C,London
 ET645,Manila,02/08/2020,3592,Cabin crew,Manila
@@ -20,8 +18,11 @@ ET608,Bangkok,07/08/2020,4014,C1,Bangkok
 CX906,Manila,07/08/2020,4025,69D,Manila
 QR818,Doha,10/08/2020,4182,37G,Doha
 AI310,New Delhi,11/08/2020,4254,13C,New Delhi
-CX906,Manila,11/08/2020,4274,42A,Manila
-Taxi SK3360,,22-24/07/2020 & 28-31/07/2020,3550,,
+CX906,Manila,10/08/2020,4274,42A,Manila
+KA734,Kuala Lumpur,12/08/2020,4360,15A,Kuala Lumpur
+CX906,Manila,13/08/2020,4362,64A,Manila
+HX782,Manila,13/08/2020,4363,Unknown,Manila
+CX906,Manila,13/08/2020,4364,55B,Manila
 Taxi HF8999,,01/08/2020,3911,,
 Taxi CM3870,,03/08/2020,3911,,
 Taxi MN7894,,04/08/2020,3911,,
