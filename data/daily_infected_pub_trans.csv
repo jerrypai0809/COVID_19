@@ -1,6 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-BA031,London,02/08/2020,3591,37C,London
-ET645,Manila,02/08/2020,3592,Cabin crew,Manila
 AI310,New Delhi,04/08/2020,3796,20F,New Delhi
 AI310,New Delhi,04/08/2020,3797,23C,New Delhi
 AI310,New Delhi,04/08/2020,3798,22C,New Delhi
@@ -26,5 +24,18 @@ PR300,Manila,14/08/2020,4408,31A,Manila
 AI314,New Delhi,14/08/2020,4464,30H,New Delhi
 AI314,New Delhi,14/08/2020,4465,22B,New Delhi
 AI314,New Delhi,14/08/2020,4466,33J,New Delhi
+AI314,New Delhi,14/08/2020,4483,17F,New Delhi
+AI314,New Delhi,14/08/2020,4484,17H,New Delhi
+AI314,New Delhi,14/08/2020,4485,31E,New Delhi
+AI314,New Delhi,14/08/2020,4486,36E,New Delhi
+AI314,New Delhi,14/08/2020,4487,31D,New Delhi
+AI314,New Delhi,14/08/2020,4506,32B,New Delhi
+AI314,New Delhi,14/08/2020,4507,36B,New Delhi
+AI314,New Delhi,14/08/2020,4508,15B,New Delhi
+CX881,Los Angeles,14/08/2020,,19G,Los Angeles
+GA876,Jakarta,15/08/2020,4488,Unknown,Jakarta
+AY101,Helsinki,15/08/2020,4489,Unknown,Helsinki
+CX906,Manila,15/08/2020,4490,65A,Manila
+TK070,Istanbul,15/08/2020,4509,40A,Istanbul
 Taxi CM3870,,03/08/2020,3911,,
 Taxi MN7894,,04/08/2020,3911,,
