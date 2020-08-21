@@ -1,12 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-SQ890,Singapore,05/08/2020,3851,53J,Singapore
-SQ890,Singapore,05/08/2020,3852,53K,Singapore
-KL887,Amsterdam,05/08/2020,3853,1A,Amsterdam
-KL887,Amsterdam,05/08/2020,3854,1C,Amsterdam
-QR818,Doha,05/08/2020,3863,38H,Doha
-CX906,Manila,05/08/2020,3887,46D,Manila
-SQ890,Singapore,05/08/2020,3944,53H,Singapore
-SQ890,Singapore,05/08/2020,4120,53E,Singapore
 ET608,Bangkok,07/08/2020,4014,C1,Bangkok
 CX906,Manila,07/08/2020,4025,69D,Manila
 CX906,Manila,07/08/2020,4556,72A,Manila
@@ -31,6 +23,7 @@ AI314,New Delhi,14/08/2020,4507,36B,New Delhi
 AI314,New Delhi,14/08/2020,4508,15B,New Delhi
 AI314,New Delhi,14/08/2020,4578,17G,New Delhi
 AI314,New Delhi,14/08/2020,4579,21A,New Delhi
+AI314,New Delhi,14/08/2020,4594,30G,New Delhi
 CX881,Los Angeles,14/08/2020,,19G,Los Angeles
 GA876,Jakarta,15/08/2020,4488,Unknown,Jakarta
 AY101,Helsinki,15/08/2020,4489,Unknown,Helsinki
