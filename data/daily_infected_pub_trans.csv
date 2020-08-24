@@ -1,10 +1,11 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-ET608,Bangkok,07/08/2020,4014,C1,Bangkok
-CX906,Manila,07/08/2020,4025,69D,Manila
-CX906,Manila,07/08/2020,4556,72A,Manila
 QR818,Doha,10/08/2020,4182,37G,Doha
 CX906,Manila,10/08/2020,4274,42A,Manila
 AI310,New Delhi,11/08/2020,4254,13C,New Delhi
+AI310,New Delhi,11/08/2020,4673,unknown,New Delhi
+AI310,New Delhi,11/08/2020,4674,23J,New Delhi
+AI310,New Delhi,11/08/2020,4675,23G,New Delhi
+AI310,New Delhi,11/08/2020,4680,26H,New Delhi
 KA734,Kuala Lumpur,12/08/2020,4360,15H,Kuala Lumpur
 CX906,Manila,13/08/2020,4362,64A,Manila
 HX782,Manila,13/08/2020,4363,Unknown,Manila
@@ -29,6 +30,8 @@ GA876,Jakarta,15/08/2020,4488,Unknown,Jakarta
 AY101,Helsinki,15/08/2020,4489,Unknown,Helsinki
 CX906,Manila,15/08/2020,4490,65A,Manila
 TK070,Istanbul,15/08/2020,4509,40A,Istanbul
+CX883,Los Angeles,19/08/2020,4611,43C,Los Angeles
 AC007,Vancouver,19/08/2020,4612,24G,Vancouver
 KA734,Kuala Lumpur,19/08/2020,4620,67K,Kuala Lumpur
-CX883,Los Angeles,20/08/2020,4611,43C,Los Angeles
+BG078,Dhaka,21/08/2020,4659,41A,Dhaka
+Taxi JX5193 (night shift),,19/08/2020,4641,,
