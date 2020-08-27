@@ -1,9 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-AI310,New Delhi,11/08/2020,4254,13C,New Delhi
-AI310,New Delhi,11/08/2020,4673,unknown,New Delhi
-AI310,New Delhi,11/08/2020,4674,23J,New Delhi
-AI310,New Delhi,11/08/2020,4675,23G,New Delhi
-AI310,New Delhi,11/08/2020,4680,26H,New Delhi
 KA734,Kuala Lumpur,12/08/2020,4360,15H,Kuala Lumpur
 CX906,Manila,13/08/2020,4362,64A,Manila
 HX782,Manila,13/08/2020,4363,Unknown,Manila
