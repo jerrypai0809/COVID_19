@@ -1,5 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-KA734,Kuala Lumpur,12/08/2020,4360,15H,Kuala Lumpur
 CX906,Manila,13/08/2020,4362,64A,Manila
 HX782,Manila,13/08/2020,4363,Unknown,Manila
 CX906,Manila,13/08/2020,4364,55B,Manila
@@ -34,4 +33,9 @@ BG078,Dhaka,21/08/2020,4659,41A,Dhaka
 PR300,Manila,21/08/2020,,57A,Manila
 LX138,Zurich,23/08/2020,4687,34J,Zurich
 EK384,Bangkok,23/08/2020,4698,28A,Bangkok
+TK070,Istanbul,25/08/2020,4736,14C,Istanbul
+ET3703,Addis Ababa,25/08/2020,4737,Cabin Crew,Addis Ababa
+QR818,Doha,26/08/2020,4750,27C,Doha
 Taxi JX5193 (night shift),,19/08/2020,4641,,
+Taxi UW3237 (morning shift),,21/08/2020,4742,,
+Taxi RY9747 (night shift),,21/08/2020,4755,,
