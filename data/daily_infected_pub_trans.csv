@@ -1,8 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX906,Manila,13/08/2020,4362,64A,Manila
-HX782,Manila,13/08/2020,4363,Unknown,Manila
-CX906,Manila,13/08/2020,4364,55B,Manila
-CX906,Manila,13/08/2020,4690,50K,Manila
 PR300,Manila,14/08/2020,4408,31A,Manila
 AI314,New Delhi,14/08/2020,4464,30H,New Delhi
 AI314,New Delhi,14/08/2020,4465,22B,New Delhi
