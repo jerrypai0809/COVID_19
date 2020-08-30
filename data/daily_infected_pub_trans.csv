@@ -1,22 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-PR300,Manila,14/08/2020,4408,31A,Manila
-AI314,New Delhi,14/08/2020,4464,30H,New Delhi
-AI314,New Delhi,14/08/2020,4465,22B,New Delhi
-AI314,New Delhi,14/08/2020,4466,33J,New Delhi
-AI314,New Delhi,14/08/2020,4483,17F,New Delhi
-AI314,New Delhi,14/08/2020,4484,17H,New Delhi
-AI314,New Delhi,14/08/2020,4485,31E,New Delhi
-AI314,New Delhi,14/08/2020,4486,36E,New Delhi
-AI314,New Delhi,14/08/2020,4487,31D,New Delhi
-AI314,New Delhi,14/08/2020,4506,32B,New Delhi
-AI314,New Delhi,14/08/2020,4507,36B,New Delhi
-AI314,New Delhi,14/08/2020,4508,15B,New Delhi
-AI314,New Delhi,14/08/2020,4578,17G,New Delhi
-AI314,New Delhi,14/08/2020,4579,21A,New Delhi
-AI314,New Delhi,14/08/2020,4594,30G,New Delhi
-AI314,New Delhi,14/08/2020,4697,24A,New Delhi
-AI314,New Delhi,14/08/2020,4707,14B,New Delhi
-CX881,Los Angeles,14/08/2020,,19G,Los Angeles
 GA876,Jakarta,15/08/2020,4488,Unknown,Jakarta
 AY101,Helsinki,15/08/2020,4489,Unknown,Helsinki
 CX906,Manila,15/08/2020,4490,65A,Manila
@@ -32,6 +14,8 @@ EK384,Bangkok,23/08/2020,4698,28A,Bangkok
 TK070,Istanbul,25/08/2020,4736,14C,Istanbul
 ET3703,Addis Ababa,25/08/2020,4737,Cabin Crew,Addis Ababa
 QR818,Doha,26/08/2020,4750,27C,Doha
+EK384,Bangkok,26/08/2020,4775,Unknown,Bangkok
+HX782,Manila,28/08/2020,4782,60G,Manila
 Taxi JX5193 (night shift),,19/08/2020,4641,,
 Taxi UW3237 (morning shift),,21/08/2020,4742,,
 Taxi RY9747 (night shift),,21/08/2020,4755,,
