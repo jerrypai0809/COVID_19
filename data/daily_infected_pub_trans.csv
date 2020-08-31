@@ -1,9 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-GA876,Jakarta,15/08/2020,4488,Unknown,Jakarta
-AY101,Helsinki,15/08/2020,4489,Unknown,Helsinki
-CX906,Manila,15/08/2020,4490,65A,Manila
-TK070,Istanbul,15/08/2020,4509,40A,Istanbul
-CX6630,Zurich,16/08/2020,,5B,Zurich
 AC007,Vancouver,19/08/2020,4612,24G,Vancouver
 KA734,Kuala Lumpur,19/08/2020,4620,67K,Kuala Lumpur
 CX883,Los Angeles,20/08/2020,4611,43C,Los Angeles
@@ -16,6 +11,13 @@ ET3703,Addis Ababa,25/08/2020,4737,Cabin Crew,Addis Ababa
 QR818,Doha,26/08/2020,4750,27C,Doha
 EK384,Bangkok,26/08/2020,4775,Unknown,Bangkok
 HX782,Manila,28/08/2020,4782,60G,Manila
+CX906,Manila,28/08/2020,4793,68F,Manila
+CX906,Manila,28/08/2020,4794,72G,Manila
+KA734,Kuala Lumpur,28/08/2020,4795,61C,Kuala Lumpur
+KA734,Kuala Lumpur,28/08/2020,4796,61A,Kuala Lumpur
+CX5734,Kuala Lumpur,28/08/2020,4797,34C,Kuala Lumpur
+CX906,Manila,29/08/2020,4804,40G,Manila
+Taxi TS473 (morning shift),,"14/08/2020, 18-21/08/2020 & 24-27/08/2020",4788,,
 Taxi JX5193 (night shift),,19/08/2020,4641,,
 Taxi UW3237 (morning shift),,21/08/2020,4742,,
 Taxi RY9747 (night shift),,21/08/2020,4755,,
