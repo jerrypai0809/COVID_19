@@ -1,6 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-BG078,Dhaka,21/08/2020,4659,41A,Dhaka
-PR300,Manila,21/08/2020,,57A,Manila
 LX138,Zurich,23/08/2020,4687,34J,Zurich
 EK384,Bangkok,23/08/2020,4698,28A,Bangkok
 CX906,Manila,24/08/2020,4847,50C,Manila
@@ -21,5 +19,3 @@ CX906,Manila,29/08/2020,4804,40G,Manila
 QR818,Doha,02/09/2020,4836,32A,Doha
 GA876,Jakarta,02/09/2020,4842,43G,Jakarta
 Taxi TS473 (morning shift),,"14/08/2020, 18-21/08/2020 & 24-27/08/2020",4788,,
-Taxi UW3237 (morning shift),,21/08/2020,4742,,
-Taxi RY9747 (night shift),,21/08/2020,4755,,
