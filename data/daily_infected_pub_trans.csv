@@ -1,6 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-LX138,Zurich,23/08/2020,4687,34J,Zurich
-EK384,Bangkok,23/08/2020,4698,28A,Bangkok
 CX906,Manila,24/08/2020,4847,50C,Manila
 CX906,Manila,24/08/2020,4848,50A,Manila
 EK384,Dubai,24/08/2020,4849,44E,Dubai
@@ -21,4 +19,5 @@ GA876,Jakarta,02/09/2020,4842,43G,Jakarta
 BA031,London,04/09/2020,4859,11J,London
 RL9953,Moscow,04/09/2020,4865,Cabin Crew,Moscow
 HX782,Manila,04/09/2020,4876,51A,Manila
+PR300,Manila,05/09/2020,4883,65H,Manila
 Taxi TS473 (morning shift),,"14/08/2020, 18-21/08/2020 & 24-27/08/2020",4788,,
