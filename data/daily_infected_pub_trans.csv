@@ -1,7 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX906,Manila,24/08/2020,4847,50C,Manila
-CX906,Manila,24/08/2020,4848,50A,Manila
-EK384,Dubai,24/08/2020,4849,44E,Dubai
 TK070,Istanbul,25/08/2020,4736,14C,Istanbul
 ET3703,Addis Ababa,25/08/2020,4737,Cabin Crew,Addis Ababa
 QR818,Doha,26/08/2020,4750,27C,Doha
@@ -20,4 +17,5 @@ BA031,London,04/09/2020,4859,11J,London
 RL9953,Moscow,04/09/2020,4865,Cabin Crew,Moscow
 HX782,Manila,04/09/2020,4876,51A,Manila
 PR300,Manila,05/09/2020,4883,65H,Manila
+TK70,Istanbul,06/09/2020,4891,29A,Istanbul
 Taxi TS473 (morning shift),,"14/08/2020, 18-21/08/2020 & 24-27/08/2020",4788,,
