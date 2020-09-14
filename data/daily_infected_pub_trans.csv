@@ -1,5 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX906,Manila,29/08/2020,4804,40G,Manila
 QR818,Doha,02/09/2020,4836,32A,Doha
 GA876,Jakarta,02/09/2020,4842,43G,Jakarta
 BA031,London,04/09/2020,4859,11J,London
@@ -22,7 +21,15 @@ HX782,Manila,09/09/2020,4919,51E,Manila
 HX782,Manila,09/09/2020,4920,51G,Manila
 HX782,Manila,09/09/2020,4921,49F,Manila
 BA031,London,09/09/2020,4923,14K,London
+HX782,Manila,09/09/2020,4953,50G,Manila
+HX782,Manila,09/09/2020,4954,50A,Manila
+HX782,Manila,09/09/2020,4955,51K,Manila
 CX906,Manila,10/09/2020,4929,70C,Manila
 CX906,Manila,10/09/2020,4930,43E,Manila
 BA031,London,10/09/2020,4931,40H,London
 TK070,Istanbul,10/09/2020,4932,24C,Istanbul
+AI310,New Delhi,11/09/2020,4943,36C,New Delhi
+KA734,Kuala Lumpur,11/09/2020,4949,55D,Kuala Lumpur
+KA734,Kuala Lumpur,11/09/2020,4950,65A,Kuala Lumpur
+KA734,Kuala Lumpur,11/09/2020,4951,64D,Kuala Lumpur
+KA734,Kuala Lumpur,11/09/2020,4952,65C,Kuala Lumpur
