@@ -1,6 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-QR818,Doha,02/09/2020,4836,32A,Doha
-GA876,Jakarta,02/09/2020,4842,43G,Jakarta
 BA031,London,04/09/2020,4859,11J,London
 RL9953,Moscow,04/09/2020,4865,Cabin Crew,Moscow
 HX782,Manila,04/09/2020,4876,51A,Manila
@@ -37,3 +35,5 @@ KA734,Kuala Lumpur,11/09/2020,4952,65C,Kuala Lumpur
 PR300,Manila,12/09/2020,4961,57G,Manila
 JL029,Tokyo,13/09/2020,4973,18G,Tokyo
 ET644,Addis Ababa,13/09/2020,4975,2A,Addis Ababa
+LH796,Frankfurt,14/09/2020,4978,3D,Frankfurt
+PR300,Manila,15/09/2020,4985,41J,Manila
