@@ -1,7 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-BA031,London,04/09/2020,4859,11J,London
-RL9953,Moscow,04/09/2020,4865,Cabin Crew,Moscow
-HX782,Manila,04/09/2020,4876,51A,Manila
 PR300,Manila,05/09/2020,4883,65H,Manila
 CX252,London,05/09/2020,4997,12G,London
 TK70,Istanbul,06/09/2020,4891,29A,Istanbul
@@ -41,3 +38,9 @@ PR300,Manila,15/09/2020,4985,41J,Manila
 QR818,Doha,15/09/2020,4986,22K,Doha
 TK070,Istanbul,15/09/2020,4987,15A,Istanbul
 CX252,London,16/09/2020,4991,40H,London
+LH796,Frankfurt,17/09/2020,4998,24A,Frankfurt
+LH796,Frankfurt,17/09/2020,4999,29F,Frankfurt
+LH796,Frankfurt,17/09/2020,5000,29G,Frankfurt
+AI310,New Delhi,18/09/2020,5004,34J,New Delhi
+AI310,New Delhi,18/09/2020,5009,31B,New Delhi
+AI310,New Delhi,18/09/2020,5010,17J,New Delhi
