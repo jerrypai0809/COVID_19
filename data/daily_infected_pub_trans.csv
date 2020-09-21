@@ -1,6 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-PR300,Manila,05/09/2020,4883,65H,Manila
-CX252,London,05/09/2020,4997,12G,London
 TK70,Istanbul,06/09/2020,4891,29A,Istanbul
 AI314,New Delhi,08/09/2020,4902,3J,New Delhi
 AI314,New Delhi,08/09/2020,4903,33E,New Delhi
@@ -21,6 +19,13 @@ BA031,London,09/09/2020,4923,14K,London
 HX782,Manila,09/09/2020,4953,50G,Manila
 HX782,Manila,09/09/2020,4954,50A,Manila
 HX782,Manila,09/09/2020,4955,51K,Manila
+RA409,Kathmandu,09/09/2020,5027,23A,Kathmandu
+RA409,Kathmandu,09/09/2020,5028,23B,Kathmandu
+RA409,Kathmandu,09/09/2020,5029,24A,Kathmandu
+RA409,Kathmandu,09/09/2020,5030,24B,Kathmandu
+RA409,Kathmandu,09/09/2020,5031,23E,Kathmandu
+RA409,Kathmandu,09/09/2020,5032,23D,Kathmandu
+RA409,Kathmandu,09/09/2020,5033,23F,Kathmandu
 CX906,Manila,10/09/2020,4929,70C,Manila
 CX906,Manila,10/09/2020,4930,43E,Manila
 BA031,London,10/09/2020,4931,40H,London
@@ -44,3 +49,15 @@ LH796,Frankfurt,17/09/2020,5000,29G,Frankfurt
 AI310,New Delhi,18/09/2020,5004,34J,New Delhi
 AI310,New Delhi,18/09/2020,5009,31B,New Delhi
 AI310,New Delhi,18/09/2020,5010,17J,New Delhi
+AI310,New Delhi,18/09/2020,5011,26H,New Delhi
+AI310,New Delhi,18/09/2020,5012,31E,New Delhi
+HX782,Manila,18/09/2020,5013,33B,Manila
+AI310,New Delhi,18/09/2020,5014,32J,New Delhi
+CX922,Cebu,18/09/2020,5015,62F,Cebu
+BR871,Taipei,18/09/2020,5016,56H,Taipei
+KA734,Kuala Lumpur,18/09/2020,5017,66F,Kuala Lumpur
+KA734,Kuala Lumpur,18/09/2020,5018,66D,Kuala Lumpur
+KA734,Kuala Lumpur,18/09/2020,5019,66G,Kuala Lumpur
+KA734,Kuala Lumpur,18/09/2020,5020,66E,Kuala Lumpur
+KA734,Kuala Lumpur,18/09/2020,5026,58F,Kuala Lumpur
+AY101,Helsinki,19/09/2020,5025,29B,Helsinki
