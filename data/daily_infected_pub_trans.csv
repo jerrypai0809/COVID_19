@@ -1,5 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-TK70,Istanbul,06/09/2020,4891,29A,Istanbul
 AI314,New Delhi,08/09/2020,4902,3J,New Delhi
 AI314,New Delhi,08/09/2020,4903,33E,New Delhi
 AI314,New Delhi,08/09/2020,4904,26A,New Delhi
@@ -26,6 +25,7 @@ RA409,Kathmandu,09/09/2020,5030,24B,Kathmandu
 RA409,Kathmandu,09/09/2020,5031,23E,Kathmandu
 RA409,Kathmandu,09/09/2020,5032,23D,Kathmandu
 RA409,Kathmandu,09/09/2020,5033,23F,Kathmandu
+HX782,Manila,09/09/2020,5036,47F,Manila
 CX906,Manila,10/09/2020,4929,70C,Manila
 CX906,Manila,10/09/2020,4930,43E,Manila
 BA031,London,10/09/2020,4931,40H,London
@@ -61,3 +61,4 @@ KA734,Kuala Lumpur,18/09/2020,5019,66G,Kuala Lumpur
 KA734,Kuala Lumpur,18/09/2020,5020,66E,Kuala Lumpur
 KA734,Kuala Lumpur,18/09/2020,5026,58F,Kuala Lumpur
 AY101,Helsinki,19/09/2020,5025,29B,Helsinki
+CX906,Manila,19/09/2020,5034,48D,Manila
