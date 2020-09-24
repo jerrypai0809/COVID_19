@@ -1,12 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-AI314,New Delhi,08/09/2020,4902,3J,New Delhi
-AI314,New Delhi,08/09/2020,4903,33E,New Delhi
-AI314,New Delhi,08/09/2020,4904,26A,New Delhi
-AI314,New Delhi,08/09/2020,4905,26B,New Delhi
-AI314,New Delhi,08/09/2020,4906,28F,New Delhi
-CX906,Manila,08/09/2020,4907,42G,Manila
-AI314,New Delhi,08/09/2020,4909,17J,New Delhi
-AI314,New Delhi,08/09/2020,4963,23F,New Delhi
 QR818,Doha,09/09/2020,4908,27K,Doha
 RA409,Kathmandu,09/09/2020,4915,4E,Kathmandu
 HX782,Manila,09/09/2020,4916,47C,Manila
