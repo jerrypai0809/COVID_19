@@ -1,8 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX906,Manila,10/09/2020,4929,70C,Manila
-CX906,Manila,10/09/2020,4930,43E,Manila
-BA031,London,10/09/2020,4931,40H,London
-TK070,Istanbul,10/09/2020,4932,24C,Istanbul
 AI310,New Delhi,11/09/2020,4943,36C,New Delhi
 KA734,Kuala Lumpur,11/09/2020,4949,55D,Kuala Lumpur
 KA734,Kuala Lumpur,11/09/2020,4950,65A,Kuala Lumpur
