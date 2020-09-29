@@ -1,18 +1,13 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-PR300,Manila,12/09/2020,4961,57G,Manila
-CX906,Manila,12/09/2020,5052,61A,Manila
-PR300,Manila,12/09/2020,5053,53K,Manila
-CX906,Manila,12/09/2020,5054,42A,Manila
-JL029,Tokyo,13/09/2020,4973,18G,Tokyo
-ET644,Addis Ababa,13/09/2020,4975,2A,Addis Ababa
-LH796,Frankfurt,14/09/2020,4978,3D,Frankfurt
 PR300,Manila,15/09/2020,4985,41J,Manila
 QR818,Doha,15/09/2020,4986,22K,Doha
 TK070,Istanbul,15/09/2020,4987,15A,Istanbul
 CX252,London,16/09/2020,4991,40H,London
+EK384,Dubai,16/09/2020,5066,7F,Dubai
 LH796,Frankfurt,17/09/2020,4998,24A,Frankfurt
 LH796,Frankfurt,17/09/2020,4999,29F,Frankfurt
 LH796,Frankfurt,17/09/2020,5000,29G,Frankfurt
+LH796,Frankfurt,17/09/2020,5070,29G,Frankfurt
 AI310,New Delhi,18/09/2020,5004,34J,New Delhi
 AI310,New Delhi,18/09/2020,5009,31B,New Delhi
 AI310,New Delhi,18/09/2020,5010,17J,New Delhi
@@ -27,9 +22,21 @@ KA734,Kuala Lumpur,18/09/2020,5018,66D,Kuala Lumpur
 KA734,Kuala Lumpur,18/09/2020,5019,66G,Kuala Lumpur
 KA734,Kuala Lumpur,18/09/2020,5020,66E,Kuala Lumpur
 KA734,Kuala Lumpur,18/09/2020,5026,58F,Kuala Lumpur
+AI310,New Delhi,18/09/2020,5079,24F,New Delhi
+AI310,New Delhi,18/09/2020,5080,24G,New Delhi
 AY101,Helsinki,19/09/2020,5025,29B,Helsinki
 CX906,Manila,19/09/2020,5034,48D,Manila
 EK384,Dubai,20/09/2020,5040,21K,Dubai
-BA031,London,22/09/2020,5051,Cabin Crew,London
-BA031,London,24/09/2020,,Cabin Crew,London
-BA031,London,24/09/2020,,Cabin Crew,London
+BA031,London,22/09/2020,5051,Cabin crew,London
+BA031,London,24/09/2020,,Cabin crew,London
+BA031,London,24/09/2020,,Cabin crew,London
+HX782,Manila,25/09/2020,5061,53K,Manila
+TK070,Tunisia,25/09/2020,5062,12K,Tunisia
+CX252,London,26/09/2020,5065,18D,London
+AY101,Helsinki,26/09/2020,5067,33H,Helsinki
+EK384,Dubai,26/09/2020,5068,19J,Dubai
+KE607,Seoul,26/09/2020,5069,7H,Seoul
+LX138,Zurich,27/09/2020,5073,9G,Zurich
+CX252,London,27/09/2020,5074,30G,London
+TK070,Istanbul,27/09/2020,5077,23E,Istanbul
+CX829,Toronto,28/09/2020,5078,56C,Toronto
