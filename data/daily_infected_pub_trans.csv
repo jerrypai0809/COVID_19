@@ -1,9 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-PR300,Manila,15/09/2020,4985,41J,Manila
-QR818,Doha,15/09/2020,4986,22K,Doha
-TK070,Istanbul,15/09/2020,4987,15A,Istanbul
-CX252,London,16/09/2020,4991,40H,London
-EK384,Dubai,16/09/2020,5066,7F,Dubai
 LH796,Frankfurt,17/09/2020,4998,24A,Frankfurt
 LH796,Frankfurt,17/09/2020,4999,29F,Frankfurt
 LH796,Frankfurt,17/09/2020,5000,29G,Frankfurt
@@ -24,8 +19,10 @@ KA734,Kuala Lumpur,18/09/2020,5020,66E,Kuala Lumpur
 KA734,Kuala Lumpur,18/09/2020,5026,58F,Kuala Lumpur
 AI310,New Delhi,18/09/2020,5079,24F,New Delhi
 AI310,New Delhi,18/09/2020,5080,24G,New Delhi
+AI310,New Delhi,18/09/2020,5086,24J,New Delhi
 AY101,Helsinki,19/09/2020,5025,29B,Helsinki
 CX906,Manila,19/09/2020,5034,48D,Manila
+PR300,Manila,19/09/2020,5085,46B,Manila
 EK384,Dubai,20/09/2020,5040,21K,Dubai
 BA031,London,22/09/2020,5051,Cabin crew,London
 BA031,London,24/09/2020,,Cabin crew,London
@@ -40,3 +37,13 @@ LX138,Zurich,27/09/2020,5073,9G,Zurich
 CX252,London,27/09/2020,5074,30G,London
 TK070,Istanbul,27/09/2020,5077,23E,Istanbul
 CX829,Toronto,28/09/2020,5078,56C,Toronto
+SU212,Moscow,28/09/2020,5081,Cabin crew,Moscow
+CX252,London,29/09/2020,5087,74C,London
+CX252,London,29/09/2020,5088,74A,London
+CX881,Los Angeles,29/09/2020,,31C,Los Angeles
+CX216,Manchester,29/09/2020,5089,71C,Manchester
+CX216,Manchester,29/09/2020,5090,14G,Manchester
+CX216,Manchester,29/09/2020,5091,18A,Manchester
+TK070,Istanbul,29/09/2020,5092,12A,Istanbul
+TK070,Istanbul,29/09/2020,5093,24D,Istanbul
+PR300,Manila,29/09/2020,5094,51C,Manila
