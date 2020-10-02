@@ -1,8 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-LH796,Frankfurt,17/09/2020,4998,24A,Frankfurt
-LH796,Frankfurt,17/09/2020,4999,29F,Frankfurt
-LH796,Frankfurt,17/09/2020,5000,29G,Frankfurt
-LH796,Frankfurt,17/09/2020,5070,29G,Frankfurt
 AI310,New Delhi,18/09/2020,5004,34J,New Delhi
 AI310,New Delhi,18/09/2020,5009,31B,New Delhi
 AI310,New Delhi,18/09/2020,5010,17J,New Delhi
@@ -24,6 +20,7 @@ AY101,Helsinki,19/09/2020,5025,29B,Helsinki
 CX906,Manila,19/09/2020,5034,48D,Manila
 PR300,Manila,19/09/2020,5085,46B,Manila
 EK384,Dubai,20/09/2020,5040,21K,Dubai
+RA4099,Kathmandu,21/09/2020,5105,12E,Kathmandu
 BA031,London,22/09/2020,5051,Cabin crew,London
 BA031,London,24/09/2020,,Cabin crew,London
 BA031,London,24/09/2020,,Cabin crew,London
@@ -40,10 +37,12 @@ CX829,Toronto,28/09/2020,5078,56C,Toronto
 SU212,Moscow,28/09/2020,5081,Cabin crew,Moscow
 CX252,London,29/09/2020,5087,74C,London
 CX252,London,29/09/2020,5088,74A,London
-CX881,Los Angeles,29/09/2020,,31C,Los Angeles
 CX216,Manchester,29/09/2020,5089,71C,Manchester
 CX216,Manchester,29/09/2020,5090,14G,Manchester
 CX216,Manchester,29/09/2020,5091,18A,Manchester
 TK070,Istanbul,29/09/2020,5092,12A,Istanbul
 TK070,Istanbul,29/09/2020,5093,24D,Istanbul
 PR300,Manila,29/09/2020,5094,51C,Manila
+CX881,Los Angeles,29/09/2020,,31C,Los Angeles
+CX252,London,30/09/2020,5100,14A,London
+HX782,Manila,30/09/2020,5101,54A,Manila
