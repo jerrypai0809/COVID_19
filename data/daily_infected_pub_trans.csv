@@ -1,21 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-AI310,New Delhi,18/09/2020,5004,34J,New Delhi
-AI310,New Delhi,18/09/2020,5009,31B,New Delhi
-AI310,New Delhi,18/09/2020,5010,17J,New Delhi
-AI310,New Delhi,18/09/2020,5011,26H,New Delhi
-AI310,New Delhi,18/09/2020,5012,31E,New Delhi
-HX782,Manila,18/09/2020,5013,33B,Manila
-AI310,New Delhi,18/09/2020,5014,32J,New Delhi
-CX922,Cebu,18/09/2020,5015,62F,Cebu
-BR871,Taipei,18/09/2020,5016,56H,Taipei
-KA734,Kuala Lumpur,18/09/2020,5017,66F,Kuala Lumpur
-KA734,Kuala Lumpur,18/09/2020,5018,66D,Kuala Lumpur
-KA734,Kuala Lumpur,18/09/2020,5019,66G,Kuala Lumpur
-KA734,Kuala Lumpur,18/09/2020,5020,66E,Kuala Lumpur
-KA734,Kuala Lumpur,18/09/2020,5026,58F,Kuala Lumpur
-AI310,New Delhi,18/09/2020,5079,24F,New Delhi
-AI310,New Delhi,18/09/2020,5080,24G,New Delhi
-AI310,New Delhi,18/09/2020,5086,24J,New Delhi
 AY101,Helsinki,19/09/2020,5025,29B,Helsinki
 CX906,Manila,19/09/2020,5034,48D,Manila
 PR300,Manila,19/09/2020,5085,46B,Manila
@@ -46,3 +29,6 @@ PR300,Manila,29/09/2020,5094,51C,Manila
 CX881,Los Angeles,29/09/2020,,31C,Los Angeles
 CX252,London,30/09/2020,5100,14A,London
 HX782,Manila,30/09/2020,5101,54A,Manila
+EK384,Dubai,30/09/2020,5108,1A,Dubai
+KL887,Amsterdam,30/09/2020,5109,17H,Amsterdam
+CX906,Manila,01/10/2020,5106,69G,Manila
