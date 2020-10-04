@@ -1,10 +1,8 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-AY101,Helsinki,19/09/2020,5025,29B,Helsinki
-CX906,Manila,19/09/2020,5034,48D,Manila
-PR300,Manila,19/09/2020,5085,46B,Manila
 EK384,Dubai,20/09/2020,5040,21K,Dubai
 RA4099,Kathmandu,21/09/2020,5105,12E,Kathmandu
 BA031,London,22/09/2020,5051,Cabin crew,London
+RA409,Kathmandu,23/09/2020,5114,37A,Kathmandu
 BA031,London,24/09/2020,,Cabin crew,London
 BA031,London,24/09/2020,,Cabin crew,London
 HX782,Manila,25/09/2020,5061,53K,Manila
