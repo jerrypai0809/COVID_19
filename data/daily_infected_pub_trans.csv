@@ -1,5 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-EK384,Dubai,20/09/2020,5040,21K,Dubai
 RA4099,Kathmandu,21/09/2020,5105,12E,Kathmandu
 BA031,London,22/09/2020,5051,Cabin crew,London
 RA409,Kathmandu,23/09/2020,5114,37A,Kathmandu
@@ -30,3 +29,10 @@ HX782,Manila,30/09/2020,5101,54A,Manila
 EK384,Dubai,30/09/2020,5108,1A,Dubai
 KL887,Amsterdam,30/09/2020,5109,17H,Amsterdam
 CX906,Manila,01/10/2020,5106,69G,Manila
+EK384,Dubai,03/10/2020,5115,9A,Dubai
+RA4099,Kathmandu,03/10/2020,5116,4F,Kathmandu
+RA4099,Kathmandu,03/10/2020,5117,14C,Kathmandu
+RA4099,Kathmandu,03/10/2020,5118,21B,Kathmandu
+RA4099,Kathmandu,03/10/2020,5119,24C,Kathmandu
+RA4099,Kathmandu,03/10/2020,5120,3C,Kathmandu
+RA4099,Kathmandu,03/10/2020,5121,16C,Kathmandu
