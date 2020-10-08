@@ -1,5 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-BA031,London,22/09/2020,5051,Cabin crew,London
 RA409,Kathmandu,23/09/2020,5114,37A,Kathmandu
 BA031,London,24/09/2020,,Cabin crew,London
 BA031,London,24/09/2020,,Cabin crew,London
@@ -37,3 +36,5 @@ RA4099,Kathmandu,03/10/2020,5119,24C,Kathmandu
 RA4099,Kathmandu,03/10/2020,5121,16C,Kathmandu
 HX782,Manila,04/10/2020,5127,54C,Manila
 TK070,Istanbul,04/10/2020,5128,11K,Istanbul
+AI310,New Delhi,05/10/2020,5138,22D,New Delhi
+AI310,New Delhi,05/10/2020,5139,31G,New Delhi
