@@ -1,37 +1,18 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-BA031,London,24/09/2020,,Cabin crew,London
-BA031,London,24/09/2020,,Cabin crew,London
-HX782,Manila,25/09/2020,5061,53K,Manila
-TK070,Tunisia,25/09/2020,5062,12K,Tunisia
-CX252,London,26/09/2020,5065,18D,London
-AY101,Helsinki,26/09/2020,5067,33H,Helsinki
-EK384,Dubai,26/09/2020,5068,19J,Dubai
-KE607,Seoul,26/09/2020,5069,7H,Seoul
-LX138,Zurich,27/09/2020,5073,9G,Zurich
-CX252,London,27/09/2020,5074,30G,London
-TK070,Istanbul,27/09/2020,5077,23E,Istanbul
-CX829,Toronto,28/09/2020,5078,56C,Toronto
-SU212,Moscow,28/09/2020,5081,Cabin crew,Moscow
-CX252,London,29/09/2020,5087,74C,London
-CX252,London,29/09/2020,5088,74A,London
-CX216,Manchester,29/09/2020,5089,71C,Manchester
-CX216,Manchester,29/09/2020,5090,14G,Manchester
-CX216,Manchester,29/09/2020,5091,18A,Manchester
-TK070,Istanbul,29/09/2020,5092,12A,Istanbul
-TK070,Istanbul,29/09/2020,5093,24D,Istanbul
-PR300,Manila,29/09/2020,5094,51C,Manila
-CX881,Los Angeles,29/09/2020,,31C,Los Angeles
 CX252,London,30/09/2020,5100,14A,London
 HX782,Manila,30/09/2020,5101,54A,Manila
 EK384,Dubai,30/09/2020,5108,1A,Dubai
 KL887,Amsterdam,30/09/2020,5109,17H,Amsterdam
+RA409,Kathmandu,30/09/2020,5182,14D,Kathmandu
 CX906,Manila,01/10/2020,5106,69G,Manila
+TK070,Istanbul,01/10/2020,5190,51B,Istanbul
+CX906,Manila,02/10/2020,5198,65D,Manila
 EK384,Dubai,03/10/2020,5115,9A,Dubai
 RA4099,Kathmandu,03/10/2020,5116,4F,Kathmandu
 RA4099,Kathmandu,03/10/2020,5117,14C,Kathmandu
-RA4099,Kathmandu,03/10/2020,5120,3C,Kathmandu
 RA4099,Kathmandu,03/10/2020,5118,21B,Kathmandu
 RA4099,Kathmandu,03/10/2020,5119,24C,Kathmandu
+RA4099,Kathmandu,03/10/2020,5120,3C,Kathmandu
 RA4099,Kathmandu,03/10/2020,5121,16C,Kathmandu
 HX782,Manila,04/10/2020,5127,54C,Manila
 TK070,Istanbul,04/10/2020,5128,11K,Istanbul
@@ -39,5 +20,16 @@ TK070,Istanbul,04/10/2020,5162,12C,Istanbul
 AI310,New Delhi,05/10/2020,5138,22D,New Delhi
 AI310,New Delhi,05/10/2020,5139,31G,New Delhi
 RL9953,Moscow,05/10/2020,5145,Cabin crew,Moscow
+AI310,New Delhi,05/10/2020,5167,37F,New Delhi
 UK6371,Hyderabad,06/10/2020,5146,19F,Hyderabad
 TK070,Istanbul,06/10/2020,5147,13A,Istanbul
+AI314,New Delhi,08/10/2020,5171,15A,New Delhi
+AI314,New Delhi,08/10/2020,5172,39E,New Delhi
+AI314,New Delhi,08/10/2020,5173,24B,New Delhi
+AI314,New Delhi,08/10/2020,5202,33D,New Delhi
+PR300,Manila,09/10/2020,5177,46J,Manila
+KL887,Amsterdam,09/10/2020,5178,31K,Amsterdam
+LH796,Frankfurt,10/10/2020,5184,Cabin crew,Frankfurt
+SG9702,New Delhi,10/10/2020,5192,8C,New Delhi
+LX138,Zurich,11/10/2020,5188,4K,Zurich
+QR818,Doha,11/10/2020,5196,33A,Doha
