@@ -1,11 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX252,London,30/09/2020,5100,14A,London
-HX782,Manila,30/09/2020,5101,54A,Manila
-EK384,Dubai,30/09/2020,5108,1A,Dubai
-KL887,Amsterdam,30/09/2020,5109,17H,Amsterdam
-RA409,Kathmandu,30/09/2020,5182,14D,Kathmandu
-CX906,Manila,01/10/2020,5106,69G,Manila
-TK070,Istanbul,01/10/2020,5190,51B,Istanbul
 CX906,Manila,02/10/2020,5198,65D,Manila
 EK384,Dubai,03/10/2020,5115,9A,Dubai
 RA4099,Kathmandu,03/10/2020,5116,4F,Kathmandu
@@ -14,6 +7,12 @@ RA4099,Kathmandu,03/10/2020,5118,21B,Kathmandu
 RA4099,Kathmandu,03/10/2020,5119,24C,Kathmandu
 RA4099,Kathmandu,03/10/2020,5120,3C,Kathmandu
 RA4099,Kathmandu,03/10/2020,5121,16C,Kathmandu
+RA4099,Kathmandu,03/10/2020,5208,7D,Kathmandu
+RA4099,Kathmandu,03/10/2020,5209,15D,Kathmandu
+RA4099,Kathmandu,03/10/2020,5213,10A,Kathmandu
+RA4099,Kathmandu,03/10/2020,5214,22f,Kathmandu
+TK70,Istanbul,03/10/2020,5215,Pending,Istanbul
+RA4099,Kathmandu,03/10/2020,5218,14D,Kathmandu
 HX782,Manila,04/10/2020,5127,54C,Manila
 TK070,Istanbul,04/10/2020,5128,11K,Istanbul
 TK070,Istanbul,04/10/2020,5162,12C,Istanbul
@@ -33,3 +32,12 @@ LH796,Frankfurt,10/10/2020,5184,Cabin crew,Frankfurt
 SG9702,New Delhi,10/10/2020,5192,8C,New Delhi
 LX138,Zurich,11/10/2020,5188,4K,Zurich
 QR818,Doha,11/10/2020,5196,33A,Doha
+TK70,Istanbul,11/10/2020,,4K,Istanbul
+KL887,Bangkok,13/10/2020,5203,33A,Bangkok
+CX906,Manila,13/10/2020,5204,69G,Manila
+KL887,Bangkok,13/10/2020,5211,32C,Bangkok
+GA876,Jakarta,14/10/2020,5212,26G,Jakarta
+AI314,New Delhi,15/10/2020,5217,20C,New Delhi
+AI314,New Delhi,15/10/2020,5219,20G,New Delhi
+AI314,New Delhi,15/10/2020,5220,28F,New Delhi
+AI314,New Delhi,15/10/2020,5221,22D,New Delhi
