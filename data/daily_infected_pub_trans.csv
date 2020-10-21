@@ -1,22 +1,17 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-HX782,Manila,04/10/2020,5127,54C,Manila
-TK070,Istanbul,04/10/2020,5128,11K,Istanbul
-TK070,Istanbul,04/10/2020,5162,12C,Istanbul
-AI310,New Delhi,05/10/2020,5138,22D,New Delhi
-AI310,New Delhi,05/10/2020,5139,31G,New Delhi
-RL9953,Moscow,05/10/2020,5145,Cabin crew,Moscow
-AI310,New Delhi,05/10/2020,5167,37F,New Delhi
-AI310,New Delhi,05/10/2020,5234,16J,New Delhi
-AI314,New Delhi,05/10/2020,5236,18F,New Delhi
 UK6371,Hyderabad,06/10/2020,5146,19F,Hyderabad
 TK070,Istanbul,06/10/2020,5147,13A,Istanbul
 UK6371,Hyderabad,06/10/2020,5235,9E,Hyderabad
 UK6371,Hyderabad,06/10/2020,5242,23F,Hyderabad
+CX252,London,07/10/2020,,15A,London
 AI314,New Delhi,08/10/2020,5171,15A,New Delhi
 AI314,New Delhi,08/10/2020,5172,39E,New Delhi
 AI314,New Delhi,08/10/2020,5173,24B,New Delhi
 AI314,New Delhi,08/10/2020,5202,33D,New Delhi
 AI314,New Delhi,08/10/2020,5237,33D,New Delhi
+AI314,New Delhi,08/10/2020,5256,14A,New Delhi
+AI314,New Delhi,08/10/2020,5257,22A,New Delhi
+AI314,New Delhi,08/10/2020,5258,23G,New Delhi
 PR300,Manila,09/10/2020,5177,46J,Manila
 KL887,Amsterdam,09/10/2020,5178,31K,Amsterdam
 LH796,Frankfurt,10/10/2020,5184,Cabin crew,Frankfurt
@@ -46,3 +41,10 @@ AI314,New Delhi,15/10/2020,5231,Cabin crew,New Delhi
 CX798,Jakarta,16/10/2020,5232,60H,Jakarta
 CX798,Jakarta,16/10/2020,5233,70A,Jakarta
 KL887,Amsterdam,16/10/2020,5239,30E,Amsterdam
+CX906,Manila,17/10/2020,5243,44D,Manila
+TK070,Istanbul,17/10/2020,5244,4B,Istanbul
+TK070,Istanbul,17/10/2020,5245,A1,Istanbul
+CX252,London,18/10/2020,5247,73H,London
+CX252,London,18/10/2020,5248,72H,London
+CX798,Jakarta,18/10/2020,5249,64C,Jakarta
+CX270,Amsterdam,19/10/2020,5262,14D,Amsterdam
