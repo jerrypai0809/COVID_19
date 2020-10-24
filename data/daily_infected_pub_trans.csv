@@ -1,24 +1,11 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-UK6371,Hyderabad,06/10/2020,5146,19F,Hyderabad
-TK070,Istanbul,06/10/2020,5147,13A,Istanbul
-UK6371,Hyderabad,06/10/2020,5235,9E,Hyderabad
-UK6371,Hyderabad,06/10/2020,5242,23F,Hyderabad
-CX252,London,07/10/2020,,15A,London
-AI314,New Delhi,08/10/2020,5171,15A,New Delhi
-AI314,New Delhi,08/10/2020,5172,39E,New Delhi
-AI314,New Delhi,08/10/2020,5173,24B,New Delhi
-AI314,New Delhi,08/10/2020,5202,33D,New Delhi
-AI314,New Delhi,08/10/2020,5237,33D,New Delhi
-AI314,New Delhi,08/10/2020,5256,14A,New Delhi
-AI314,New Delhi,08/10/2020,5257,22A,New Delhi
-AI314,New Delhi,08/10/2020,5258,23G,New Delhi
 PR300,Manila,09/10/2020,5177,46J,Manila
 KL887,Amsterdam,09/10/2020,5178,31K,Amsterdam
 LH796,Frankfurt,10/10/2020,5184,Cabin crew,Frankfurt
 SG9702,New Delhi,10/10/2020,5192,8C,New Delhi
 LX138,Zurich,11/10/2020,5188,4K,Zurich
 QR818,Doha,11/10/2020,5196,33A,Doha
-TK70,Istanbul,11/10/2020,,4K,Istanbul
+TK070,Istanbul,11/10/2020,,4K,Istanbul
 KL887,Amsterdam,13/10/2020,5203,33A,Amsterdam
 CX906,Manila,13/10/2020,5204,69G,Manila
 KL887,Amsterdam,13/10/2020,5211,32C,Amsterdam
@@ -48,3 +35,20 @@ CX252,London,18/10/2020,5247,73H,London
 CX252,London,18/10/2020,5248,72H,London
 CX798,Jakarta,18/10/2020,5249,64C,Jakarta
 CX270,Amsterdam,19/10/2020,5262,14D,Amsterdam
+ET608,Bangkok,19/10/2020,5263,3A,Bangkok
+LH796,Frankfurt,19/10/2020,5264,39G,Frankfurt
+LH796,Frankfurt,19/10/2020,5265,43D,Frankfurt
+LH796,Frankfurt,19/10/2020,5266,43G,Frankfurt
+RA4099,Kathmandu,20/10/2020,5271,5K,Kathmandu
+RA4099,Kathmandu,20/10/2020,5272,29F,Kathmandu
+RA4099,Kathmandu,20/10/2020,5273,6D,Kathmandu
+RA4099,Kathmandu,20/10/2020,5274,14G,Kathmandu
+RA4099,Kathmandu,20/10/2020,5275,28A,Kathmandu
+RA4099,Kathmandu,20/10/2020,5276,24A,Kathmandu
+RA4099,Kathmandu,20/10/2020,5277,31D,Kathmandu
+RA4099,Kathmandu,20/10/2020,5278,22D,Kathmandu
+QR818,Doha,20/10/2020,5279,22C,Doha
+RA4099,Kathmandu,20/10/2020,5280,18D,Kathmandu
+QR818,Doha,21/10/2020,5282,40B,Doha
+CX843,New York,22/10/2020,5284,73B,New York
+VS206,London,22/10/2020,,54G,London
