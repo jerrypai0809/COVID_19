@@ -1,15 +1,9 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-PR300,Manila,09/10/2020,5177,46J,Manila
-KL887,Amsterdam,09/10/2020,5178,31K,Amsterdam
-LH796,Frankfurt,10/10/2020,5184,Cabin crew,Frankfurt
-SG9702,New Delhi,10/10/2020,5192,8C,New Delhi
-LX138,Zurich,11/10/2020,5188,4K,Zurich
-QR818,Doha,11/10/2020,5196,33A,Doha
-TK070,Istanbul,11/10/2020,,4K,Istanbul
 KL887,Amsterdam,13/10/2020,5203,33A,Amsterdam
 CX906,Manila,13/10/2020,5204,69G,Manila
 KL887,Amsterdam,13/10/2020,5211,32C,Amsterdam
 KL887,Amsterdam,13/10/2020,5238,32A,Amsterdam
+CX906,Manila,13/10/2020,5294,71G,Manila
 GA876,Jakarta,14/10/2020,5212,26G,Jakarta
 AI314,New Delhi,15/10/2020,5217,20C,New Delhi
 AI314,New Delhi,15/10/2020,5219,20G,New Delhi
@@ -25,6 +19,8 @@ QR818,Doha,15/10/2020,5228,26A,Doha
 AI314,New Delhi,15/10/2020,5229,21A,New Delhi
 UK6375,Chennai,15/10/2020,5230,26D,Chennai
 AI314,New Delhi,15/10/2020,5231,Cabin crew,New Delhi
+UK6375,Chennai,15/10/2020,5303,16A,Chennai
+UK6375,Chennai,15/10/2020,5304,16F,Chennai
 CX798,Jakarta,16/10/2020,5232,60H,Jakarta
 CX798,Jakarta,16/10/2020,5233,70A,Jakarta
 KL887,Amsterdam,16/10/2020,5239,30E,Amsterdam
@@ -34,6 +30,7 @@ TK070,Istanbul,17/10/2020,5245,A1,Istanbul
 CX252,London,18/10/2020,5247,73H,London
 CX252,London,18/10/2020,5248,72H,London
 CX798,Jakarta,18/10/2020,5249,64C,Jakarta
+CX252,London,18/10/2020,5290,71A,London
 CX270,Amsterdam,19/10/2020,5262,14D,Amsterdam
 ET608,Bangkok,19/10/2020,5263,3A,Bangkok
 LH796,Frankfurt,19/10/2020,5264,39G,Frankfurt
@@ -50,5 +47,16 @@ RA4099,Kathmandu,20/10/2020,5278,22D,Kathmandu
 QR818,Doha,20/10/2020,5279,22C,Doha
 RA4099,Kathmandu,20/10/2020,5280,18D,Kathmandu
 QR818,Doha,21/10/2020,5282,40B,Doha
+QR818,Doha,21/10/2020,5295,40A,Doha
+QR818,Doha,21/10/2020,5297,40C,Doha
 CX843,New York,22/10/2020,5284,73B,New York
 VS206,London,22/10/2020,,54G,London
+KL887,Amsterdam,22/10/2020,5286,11C,Amsterdam
+CX798,Jakarta,23/10/2020,5287,43D,Jakarta
+QR818,Doha,23/10/2020,5291,3A,Doha
+CX270,Amsterdam,24/10/2020,5296,19D,Amsterdam
+LH796,Frankfurt,24/10/2020,5298,34E,Frankfurt
+TK070,Istanbul,24/10/2020,5299,14K,Istanbul
+TK070,Istanbul,24/10/2020,5300,11C,Istanbul
+QR818,Doha,24/10/2020,5301,27A,Doha
+CX798,Jakarta,25/10/2020,5302,74K,Jakarta
