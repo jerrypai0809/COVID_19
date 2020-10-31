@@ -1,26 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-KL887,Amsterdam,13/10/2020,5203,33A,Amsterdam
-CX906,Manila,13/10/2020,5204,69G,Manila
-KL887,Amsterdam,13/10/2020,5211,32C,Amsterdam
-KL887,Amsterdam,13/10/2020,5238,32A,Amsterdam
-CX906,Manila,13/10/2020,5294,71G,Manila
-GA876,Jakarta,14/10/2020,5212,26G,Jakarta
-AI314,New Delhi,15/10/2020,5217,20C,New Delhi
-AI314,New Delhi,15/10/2020,5219,20G,New Delhi
-AI314,New Delhi,15/10/2020,5220,28F,New Delhi
-AI314,New Delhi,15/10/2020,5221,22D,New Delhi
-UK6375,Chennai,15/10/2020,5222,21D,Chennai
-UK6375,Chennai,15/10/2020,5223,17E,Chennai
-UK6375,Chennai,15/10/2020,5224,17A,Chennai
-UK6375,Chennai,15/10/2020,5225,17C,Chennai
-CX906,Manila,15/10/2020,5226,67G,Manila
-QR818,Doha,15/10/2020,5227,24C,Doha
-QR818,Doha,15/10/2020,5228,26A,Doha
-AI314,New Delhi,15/10/2020,5229,21A,New Delhi
-UK6375,Chennai,15/10/2020,5230,26D,Chennai
-AI314,New Delhi,15/10/2020,5231,Cabin crew,New Delhi
-UK6375,Chennai,15/10/2020,5303,16A,Chennai
-UK6375,Chennai,15/10/2020,5304,16F,Chennai
 CX798,Jakarta,16/10/2020,5232,60H,Jakarta
 CX798,Jakarta,16/10/2020,5233,70A,Jakarta
 KL887,Amsterdam,16/10/2020,5239,30E,Amsterdam
@@ -36,6 +14,8 @@ ET608,Bangkok,19/10/2020,5263,3A,Bangkok
 LH796,Frankfurt,19/10/2020,5264,39G,Frankfurt
 LH796,Frankfurt,19/10/2020,5265,43D,Frankfurt
 LH796,Frankfurt,19/10/2020,5266,43G,Frankfurt
+QR818,Doha,19/10/2020,5317,35H,Doha
+QR818,Doha,19/10/2020,5318,34K,Doha
 RA4099,Kathmandu,20/10/2020,5271,5K,Kathmandu
 RA4099,Kathmandu,20/10/2020,5272,29F,Kathmandu
 RA4099,Kathmandu,20/10/2020,5273,6D,Kathmandu
@@ -60,3 +40,11 @@ TK070,Istanbul,24/10/2020,5299,14K,Istanbul
 TK070,Istanbul,24/10/2020,5300,11C,Istanbul
 QR818,Doha,24/10/2020,5301,27A,Doha
 CX798,Jakarta,25/10/2020,5302,74K,Jakarta
+QR818,Doha,25/10/2020,5305,25A,Doha
+AI1316,Mumbai,26/10/2020,5306,16F,Mumbai
+AI1316,Mumbai,26/10/2020,5307,31D,Mumbai
+AI1316,Mumbai,26/10/2020,5308,25G,Mumbai
+AI1316,Mumbai,26/10/2020,5309,1A,Mumbai
+AI1316,Mumbai,26/10/2020,5311,16D,Mumbai
+AI1316,Mumbai,26/10/2020,5319,31E,Mumbai
+AI1316,Mumbai,26/10/2020,5320,31E,Mumbai
