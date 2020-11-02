@@ -1,10 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX798,Jakarta,16/10/2020,5232,60H,Jakarta
-CX798,Jakarta,16/10/2020,5233,70A,Jakarta
-KL887,Amsterdam,16/10/2020,5239,30E,Amsterdam
-CX906,Manila,17/10/2020,5243,44D,Manila
-TK070,Istanbul,17/10/2020,5244,4B,Istanbul
-TK070,Istanbul,17/10/2020,5245,A1,Istanbul
 CX252,London,18/10/2020,5247,73H,London
 CX252,London,18/10/2020,5248,72H,London
 CX798,Jakarta,18/10/2020,5249,64C,Jakarta
@@ -48,3 +42,11 @@ AI1316,Mumbai,26/10/2020,5309,1A,Mumbai
 AI1316,Mumbai,26/10/2020,5311,16D,Mumbai
 AI1316,Mumbai,26/10/2020,5319,31E,Mumbai
 AI1316,Mumbai,26/10/2020,5320,31E,Mumbai
+LH796,Frankfurt,29/10/2020,5323,19D,Frankfurt
+QR818,Doha,29/10/2020,5324,22A,Doha
+SQ890,Singapore,29/10/2020,5326,66A,Singapore
+CX796,Jakarta,30/10/2020,5325,47D,Jakarta
+HX782,Manila,30/10/2020,5327,47C,Manila
+TK070,Istanbul,30/10/2020,5328,Cabin crew,Istanbul
+BA027,London,30/10/2020,5329,38K,London
+TK070,Istanbul,30/10/2020,5330,2B,Istanbul
