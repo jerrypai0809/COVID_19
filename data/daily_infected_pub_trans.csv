@@ -1,8 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX252,London,18/10/2020,5247,73H,London
-CX252,London,18/10/2020,5248,72H,London
-CX798,Jakarta,18/10/2020,5249,64C,Jakarta
-CX252,London,18/10/2020,5290,71A,London
 CX270,Amsterdam,19/10/2020,5262,14D,Amsterdam
 ET608,Bangkok,19/10/2020,5263,3A,Bangkok
 LH796,Frankfurt,19/10/2020,5264,39G,Frankfurt
@@ -50,3 +46,6 @@ HX782,Manila,30/10/2020,5327,47C,Manila
 TK070,Istanbul,30/10/2020,5328,Cabin crew,Istanbul
 BA027,London,30/10/2020,5329,38K,London
 TK070,Istanbul,30/10/2020,5330,2B,Istanbul
+QR818,Doha,31/10/2020,5333,5A,Doha
+TK070,Istanbul,31/10/2020,5334,3K,Istanbul
+CX780,Surabaya,31/10/2020,5335,61C,Surabaya
