@@ -1,29 +1,6 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-RA4099,Kathmandu,20/10/2020,5271,5K,Kathmandu
-RA4099,Kathmandu,20/10/2020,5272,29F,Kathmandu
-RA4099,Kathmandu,20/10/2020,5273,6D,Kathmandu
-RA4099,Kathmandu,20/10/2020,5274,14G,Kathmandu
-RA4099,Kathmandu,20/10/2020,5275,28A,Kathmandu
-RA4099,Kathmandu,20/10/2020,5276,24A,Kathmandu
-RA4099,Kathmandu,20/10/2020,5277,31D,Kathmandu
-RA4099,Kathmandu,20/10/2020,5278,22D,Kathmandu
-QR818,Doha,20/10/2020,5279,22C,Doha
-RA4099,Kathmandu,20/10/2020,5280,18D,Kathmandu
-QR818,Doha,21/10/2020,5282,40B,Doha
-QR818,Doha,21/10/2020,5295,40A,Doha
-QR818,Doha,21/10/2020,5297,40C,Doha
-CX843,New York,22/10/2020,5284,73B,New York
-VS206,London,22/10/2020,,54G,London
-KL887,Amsterdam,22/10/2020,5286,11C,Amsterdam
-5J 142,Manila,22/10/2020,5344,20A,Manila
-CX798,Jakarta,23/10/2020,5287,43D,Jakarta
-QR818,Doha,23/10/2020,5291,3A,Doha
-CX252,London,23/10/2020,5345,60C,London
-CX270,Amsterdam,24/10/2020,5296,19D,Amsterdam
-LH796,Frankfurt,24/10/2020,5298,34E,Frankfurt
-TK070,Istanbul,24/10/2020,5299,14K,Istanbul
-TK070,Istanbul,24/10/2020,5300,11C,Istanbul
-QR818,Doha,24/10/2020,5301,27A,Doha
+QR818,Doha,24/10/2020,5367,2F,Doha
+QR818,Doha,24/10/2020,5371,2E,Doha
 CX798,Jakarta,25/10/2020,5302,74K,Jakarta
 QR818,Doha,25/10/2020,5305,25A,Doha
 AI1316,Mumbai,26/10/2020,5306,16F,Mumbai
@@ -42,8 +19,30 @@ TK070,Istanbul,30/10/2020,5328,Cabin crew,Istanbul
 BA027,London,30/10/2020,5329,38K,London
 TK070,Istanbul,30/10/2020,5330,2B,Istanbul
 CX796,Jakarta,30/10/2020,5346,62F,Jakarta
+BA027,London,30/10/2020,,Unknown,London
 QR818,Doha,31/10/2020,5333,5A,Doha
 TK070,Istanbul,31/10/2020,5334,3K,Istanbul
 CX780,Surabaya,31/10/2020,5335,61C,Surabaya
 BA027,London,01/11/2020,5340,Cabin crew,London
 BA027,London,01/11/2020,5341,Cabin crew,London
+AI314,New Delhi,03/11/2020,5349,30F,New Delhi
+PR300,Manila,03/11/2020,5350,42J,Manila
+PR300,Manila,03/11/2020,5351,37E,Manila
+TK070,Istanbul,03/11/2020,5352,Cabin crew,Istanbul
+KL847,Bangkok,03/11/2020,5353,22C,Bangkok
+SU212,Moscow,03/11/2020,5356,Cabin crew,Moscow
+AI314,New Delhi,03/11/2020,,8F;10F,New Delhi
+UK6377,Mumbai,04/11/2020,5355,24A,Mumbai
+UK6377,Mumbai,04/11/2020,5357,9D,Mumbai
+CX252,London,04/11/2020,5358,18K,London
+UK6377,Mumbai,04/11/2020,5359,20A,Mumbai
+HX782,Manila,04/11/2020,5360,34A,Manila
+ET3446,Addis Ababa,04/11/2020,5361,Cabin crew,Addis Ababa
+HX782,Manila,04/11/2020,5374,47H,Manila
+CX252,London,05/11/2020,5363,66C,London
+BA027,London,05/11/2020,5364,40F,London
+CX252,London,05/11/2020,,17K,London
+PR300,Manila,06/11/2020,5368,59k,Manila
+TK070,Istanbul,06/11/2020,5369,13C,Istanbul
+TK070,Istanbul,06/11/2020,5370,14J,Istanbul
+CX796,Jakarta,07/11/2020,5366,48A,Jakarta
