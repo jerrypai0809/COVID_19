@@ -1,8 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-QR818,Doha,24/10/2020,5367,2F,Doha
-QR818,Doha,24/10/2020,5371,2E,Doha
-CX798,Jakarta,25/10/2020,5302,74K,Jakarta
-QR818,Doha,25/10/2020,5305,25A,Doha
 AI1316,Mumbai,26/10/2020,5306,16F,Mumbai
 AI1316,Mumbai,26/10/2020,5307,31D,Mumbai
 AI1316,Mumbai,26/10/2020,5308,25G,Mumbai
@@ -26,12 +22,12 @@ CX780,Surabaya,31/10/2020,5335,61C,Surabaya
 BA027,London,01/11/2020,5340,Cabin crew,London
 BA027,London,01/11/2020,5341,Cabin crew,London
 AI314,New Delhi,03/11/2020,5349,30F,New Delhi
+AI314,New Delhi,03/11/2020,,8F;10F,New Delhi
 PR300,Manila,03/11/2020,5350,42J,Manila
 PR300,Manila,03/11/2020,5351,37E,Manila
 TK070,Istanbul,03/11/2020,5352,Cabin crew,Istanbul
 KL847,Bangkok,03/11/2020,5353,22C,Bangkok
 SU212,Moscow,03/11/2020,5356,Cabin crew,Moscow
-AI314,New Delhi,03/11/2020,,8F;10F,New Delhi
 UK6377,Mumbai,04/11/2020,5355,24A,Mumbai
 UK6377,Mumbai,04/11/2020,5357,9D,Mumbai
 CX252,London,04/11/2020,5358,18K,London
@@ -40,9 +36,13 @@ HX782,Manila,04/11/2020,5360,34A,Manila
 ET3446,Addis Ababa,04/11/2020,5361,Cabin crew,Addis Ababa
 HX782,Manila,04/11/2020,5374,47H,Manila
 CX252,London,05/11/2020,5363,66C,London
-BA027,London,05/11/2020,5364,40F,London
 CX252,London,05/11/2020,,17K,London
+BA027,London,05/11/2020,5364,40F,London
 PR300,Manila,06/11/2020,5368,59k,Manila
 TK070,Istanbul,06/11/2020,5369,13C,Istanbul
 TK070,Istanbul,06/11/2020,5370,14J,Istanbul
 CX796,Jakarta,07/11/2020,5366,48A,Jakarta
+BA027,London,07/11/2020,5378,49A,London
+SV986,Riyadh,07/11/2020,5379,Cabin crew,Riyadh
+VS206,London,07/11/2020,5380,Cabin crew,London
+CX796,Jakarta,08/11/2020,5381,67H,Jakarta
