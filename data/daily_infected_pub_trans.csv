@@ -1,11 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-AI1316,Mumbai,26/10/2020,5306,16F,Mumbai
-AI1316,Mumbai,26/10/2020,5307,31D,Mumbai
-AI1316,Mumbai,26/10/2020,5308,25G,Mumbai
-AI1316,Mumbai,26/10/2020,5309,1A,Mumbai
-AI1316,Mumbai,26/10/2020,5311,16D,Mumbai
-AI1316,Mumbai,26/10/2020,5319,31E,Mumbai
-AI1316,Mumbai,26/10/2020,5320,31E,Mumbai
 LH796,Frankfurt,29/10/2020,5323,19D,Frankfurt
 QR818,Doha,29/10/2020,5324,22A,Doha
 SQ890,Singapore,29/10/2020,5326,66A,Singapore
@@ -45,4 +38,22 @@ CX796,Jakarta,07/11/2020,5366,48A,Jakarta
 BA027,London,07/11/2020,5378,49A,London
 SV986,Riyadh,07/11/2020,5379,Cabin crew,Riyadh
 VS206,London,07/11/2020,5380,Cabin crew,London
+GA876,Jakarta,07/11/2020,5408,45D,Jakarta
 CX796,Jakarta,08/11/2020,5381,67H,Jakarta
+GA876,Jakarta,08/11/2020,5383,41D,Jakarta
+KL847,Amsterdam,08/11/2020,5385,3D,Amsterdam
+KL847,Amsterdam,08/11/2020,5386,3K,Amsterdam
+LX138,Zurich,08/11/2020,5387,32H,Zurich
+KL847,Amsterdam,08/11/2020,5392,3G,Amsterdam
+BA027,London,09/11/2020,5394,29C,London
+EK384,Bangkok,09/11/2020,5395,46K,Bangkok
+CX093,Alaska,09/11/2020,5396,Cabin crew,Alaska
+AI314,New Delhi,09/11/2020,5397,40F,New Delhi
+RA409,Kathmandu,10/11/2020,5400,39K,Kathmandu
+RA409,Kathmandu,10/11/2020,5401,31G,Kathmandu
+RA409,Kathmandu,10/11/2020,5402,17H,Kathmandu
+RA409,Kathmandu,10/11/2020,5403,7D,Kathmandu
+RA409,Kathmandu,10/11/2020,5404,21A,Kathmandu
+RA409,Kathmandu,10/11/2020,5405,33C,Kathmandu
+RA409,Kathmandu,10/11/2020,5406,17K,Kathmandu
+AI314,New Delhi,10/11/2020,5407,38J,New Delhi
