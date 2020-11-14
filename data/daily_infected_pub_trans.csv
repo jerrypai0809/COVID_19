@@ -1,14 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-LH796,Frankfurt,29/10/2020,5323,19D,Frankfurt
-QR818,Doha,29/10/2020,5324,22A,Doha
-SQ890,Singapore,29/10/2020,5326,66A,Singapore
-CX796,Jakarta,30/10/2020,5325,47D,Jakarta
-HX782,Manila,30/10/2020,5327,47C,Manila
-TK070,Istanbul,30/10/2020,5328,Cabin crew,Istanbul
-BA027,London,30/10/2020,5329,38K,London
-TK070,Istanbul,30/10/2020,5330,2B,Istanbul
-CX796,Jakarta,30/10/2020,5346,62F,Jakarta
-BA027,London,30/10/2020,,Unknown,London
 QR818,Doha,31/10/2020,5333,5A,Doha
 TK070,Istanbul,31/10/2020,5334,3K,Istanbul
 CX780,Surabaya,31/10/2020,5335,61C,Surabaya
@@ -71,5 +61,11 @@ RA409,Kathmandu,10/11/2020,5423,31F,Kathmandu
 RA409,Kathmandu,10/11/2020,5424,38D,Kathmandu
 TK070,Istanbul,10/11/2020,5426,7A,Istanbul
 QR818,Doha,10/11/2020,5428,2A,Doha
-"Taxi UT3819, VM4727 (day shift)",,"08/11/2020, 09/11/2020",5419,,
+RA409,Kathmandu,10/11/2020,5443,21A,Kathmandu
+LX138,Zurich,11/11/2020,5434,34K,Zurich
+TK070,Istanbul,12/11/2020,5438,28A,Istanbul
+QR818,Doha,12/11/2020,5441,22H,Doha
+QR818,Doha,12/11/2020,5442,31A,Doha
+TK070,Istanbul,12/11/2020,5445,32C,Istanbul
+"Taxi UT3819, VM 4727 (day shift)",,"08/11/2020, 09/11/2020",5419,,
 Taxi SH3091(day shift),,09/11/2020,5420,,
