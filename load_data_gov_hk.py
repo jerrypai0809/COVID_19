@@ -120,7 +120,7 @@ def return_lat_long(long_address: str):
     addr = requests.get(url_str)
 
     xml_ = addr.text
-
+    # print(xml_)
     parser = ET.XMLParser()
     tree = ET.ElementTree(ET.fromstring(xml_, parser=parser))
 
@@ -130,9 +130,21 @@ def return_lat_long(long_address: str):
     address = suggestedAddress.find('Address')
     premisesAddress = address.find('PremisesAddress')
     geospatialInformation = premisesAddress.find('GeospatialInformation')
+    engPremisesAddress = premisesAddress.find('EngPremisesAddress')
+    engStreet = engPremisesAddress.find('EngStreet')
+    try:
+        locationName = engStreet.find('LocationName').text
+        streetName = engStreet.find('StreetName').text
+        buildingNoFrom = engStreet.find('BuildingNoFrom').text
+
+    except AttributeError:
+        locationName = 'N/A'
+        streetName = 'N/A'
+        buildingNoFrom = 'N/A'
+
     latitude = geospatialInformation.find('Latitude').text
     longitude = geospatialInformation.find('Longitude').text
-    print(SuggestedAddress)
+    print('Address: {} {} {}'.format(locationName, streetName, buildingNoFrom))
     #  print(latitude)
     #  print(longitude)
 
