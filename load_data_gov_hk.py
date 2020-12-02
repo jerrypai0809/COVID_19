@@ -120,7 +120,7 @@ def return_lat_long(long_address: str):
     addr = requests.get(url_str)
 
     xml_ = addr.text
-    print(xml_)
+
     parser = ET.XMLParser()
     tree = ET.ElementTree(ET.fromstring(xml_, parser=parser))
 
@@ -132,7 +132,7 @@ def return_lat_long(long_address: str):
     geospatialInformation = premisesAddress.find('GeospatialInformation')
     latitude = geospatialInformation.find('Latitude').text
     longitude = geospatialInformation.find('Longitude').text
-
+    print(SuggestedAddress)
     #  print(latitude)
     #  print(longitude)
 

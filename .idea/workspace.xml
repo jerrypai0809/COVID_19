@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3769d125-057c-4fe8-a1eb-827c5dc47b48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/daily_cn_cases.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/daily_cn_cases.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/daily_hk_building.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/daily_hk_building.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/daily_infected_pub_trans.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/daily_infected_pub_trans.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/load_data_gov_hk.py" beforeDir="false" afterPath="$PROJECT_DIR$/load_data_gov_hk.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -61,6 +58,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
