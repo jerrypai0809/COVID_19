@@ -11,7 +11,7 @@ def load_data_gov_to_csv(data: str, save: bool):
 
     if data == 'daily_hk_cases':
         params = {
-           'q': '{"resource":"http://www.chp.gov.hk/files/misc/enhanced_sur_pneumonia_wuhan_eng.csv",'
+           'q': '{"resource":"http://www.chp.gov.hk/files/misc/enhanced_sur_covid_19_eng.csv",'
                 '"section":1,"format":"json"}'
         }
 
@@ -66,6 +66,7 @@ def strip_case_no(org_pd: pd.DataFrame):
 
     # print(org_pd)
     return org_pd
+
 
 def splitDataFrameList(df, target_column,separator):
     """ df = dataframe to split,
@@ -133,7 +134,7 @@ def return_lat_long(long_address: str):
     longitude = geospatialInformation.find('Longitude').text
 
     #  print(latitude)
-    # print(longitude)
+    #  print(longitude)
 
     return str(latitude) + ',' + str(longitude)
 

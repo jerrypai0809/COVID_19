@@ -1,27 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-TK070,Istanbul,12/11/2020,5438,28A,Istanbul
-QR818,Doha,12/11/2020,5441,22H,Doha
-QR818,Doha,12/11/2020,5442,31A,Doha
-TK070,Istanbul,12/11/2020,5445,32C,Istanbul
-QR818,Doha,12/11/2020,5871,37H,Doha
-CX796,Jakarta,13/11/2020,5447,60H,Jakarta
-CX796,Jakarta,13/11/2020,5448,65E,Jakarta
-TK070,Istanbul,13/11/2020,5449,11A,Istanbul
-CX906,Manila,13/11/2020,5450,61C,Manila
-TK070,Istanbul,13/11/2020,5451,15H,Istanbul
-EK384,Dubai,13/11/2020,5452,6K,Dubai
-KL847,Amsterdam,13/11/2020,5453,19K,Amsterdam
-CX252,London,13/11/2020,,14K,London
-QR818,Doha,13/11/2020,5465,33A,Doha
-EK384,Bangkok,13/11/2020,5686,17B,Bangkok
-CX906,Manila,14/11/2020,5460,45K,Manila
-QR818,Doha,14/11/2020,5461,3K,Doha
-EK384,Dubai,14/11/2020,5462,31G,Dubai
-CX796,Jakarta,14/11/2020,5475,46K,Jakarta
-TK070,Istanbul,15/11/2020,5468,Cabin crew,Istanbul
-LH796,Frankfurt,16/11/2020,5473,31D,Frankfurt
-QR818,Doha,16/11/2020,5480,41K,Doha
-CX252,London,16/11/2020,5486,64A,London
 CX906,Manila,17/11/2020,5481,71C,Manila
 CX252,London,17/11/2020,5485,18K,London
 AI310,New Delhi,18/11/2020,5489,33J,New Delhi
@@ -58,5 +35,27 @@ BA027,London,23/11/2020,5784,32A,London
 TK070,Istanbul,24/11/2020,5876,16J,Istanbul
 KE607,Seoul,24/11/2020,5878,30C,Seoul
 CX873,San Francisco,24/11/2020,5912,14D,San Francisco
-Taxi AZ3740,,09/11/2020 - 16/11/2020,5479,,
-Taxi KB4484 (day shift),,14/11/2020 - 16/11/2020,5504,,
+EK384,Dubai,25/11/2020,5953,36K,Dubai
+KL847,Bangkok,25/11/2020,5954,20G,Bangkok
+LX138,Zurich,25/11/2020,5968,4A,Zurich
+CX521,Tokyo,26/11/2020,6288,47H,Tokyo
+CX796,Jakarta,27/11/2020,6126,45B,Jakarta
+CX796,Jakarta,27/11/2020,6127,65K,Jakarta
+KL847,Amsterdam,27/11/2020,6128,22C,Amsterdam
+CX841,New York,27/11/2020,6129,19K,New York
+CX796,Jakarta,27/11/2020,6130,45G,Jakarta
+CX796,Jakarta,27/11/2020,6155,41C,Jakarta
+KL847,Bangkok,28/11/2020,6240,11K,Bangkok
+EK384,Dubai,28/11/2020,6241,19G,Dubai
+TK070,Istanbul,28/11/2020,6242,30A,Istanbul
+KL847,Bangkok,28/11/2020,6244,18H,Bangkok
+CX796,Jakarta,28/11/2020,6245,60H,Jakarta
+CX883,Los Angeles,29/11/2020,6243,67A,Los Angeles
+GA876,Jakarta,29/11/2020,6328,40H,Jakarta
+GA876,Jakarta,29/11/2020,6329,Row 45,Jakarta
+GA876,Jakarta,29/11/2020,6330,48D,Jakarta
+GA876,Jakarta,29/11/2020,6337,51D,Jakarta
+KL847,Bangkok,29/11/2020,6340,21A,Bangkok
+CX829,Toronto,30/11/2020,6352,16A,Toronto
+CX829,Toronto,30/11/2020,6353,61D,Toronto
+Taxi SL8379,,19/11/2020 - 20/11/2020,6323,,
