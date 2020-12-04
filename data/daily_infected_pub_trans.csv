@@ -1,15 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX906,Manila,17/11/2020,5481,71C,Manila
-CX252,London,17/11/2020,5485,18K,London
-AI310,New Delhi,18/11/2020,5489,33J,New Delhi
-AI310,New Delhi,18/11/2020,5490,39H,New Delhi
-AI310,New Delhi,18/11/2020,5491,18K,New Delhi
-QR818,Doha,18/11/2020,5493,22A,Doha
-KL847,Bangkok,18/11/2020,5494,21E,Bangkok
-AI310,New Delhi,18/11/2020,5495,37A,New Delhi
-AI310,New Delhi,18/11/2020,5508,33H,New Delhi
-QR818,Doha,18/11/2020,5623,25A,Doha
-AI310,New Delhi,18/11/2020,5687,52K,New Delhi
 CX906,Manila,19/11/2020,5519,32A,Manila
 AY101,Helsinki,19/11/2020,5522,33A,Helsinki
 LH796,Frankfurt,19/11/2020,,3C,Frankfurt
@@ -35,10 +24,11 @@ BA027,London,23/11/2020,5784,32A,London
 TK070,Istanbul,24/11/2020,5876,16J,Istanbul
 KE607,Seoul,24/11/2020,5878,30C,Seoul
 CX873,San Francisco,24/11/2020,5912,14D,San Francisco
+CX875,Alaska,24/11/2020,6312,Cabin Crew,Alaska
 EK384,Dubai,25/11/2020,5953,36K,Dubai
 KL847,Bangkok,25/11/2020,5954,20G,Bangkok
 LX138,Zurich,25/11/2020,5968,4A,Zurich
-CX521,Tokyo,26/11/2020,6288,47H,Tokyo
+CX521,Tokyo,26/11/2020,6288,47K,Tokyo
 CX796,Jakarta,27/11/2020,6126,45B,Jakarta
 CX796,Jakarta,27/11/2020,6127,65K,Jakarta
 KL847,Amsterdam,27/11/2020,6128,22C,Amsterdam
@@ -58,4 +48,19 @@ GA876,Jakarta,29/11/2020,6337,51D,Jakarta
 KL847,Bangkok,29/11/2020,6340,21A,Bangkok
 CX829,Toronto,30/11/2020,6352,16A,Toronto
 CX829,Toronto,30/11/2020,6353,61D,Toronto
+CX252,London,30/11/2020,6400,67B,London
+RA409,Kathmandu,01/12/2020,6441,19F,Kathmandu
+RA409,Kathmandu,01/12/2020,6442,5C,Kathmandu
+RA409,Kathmandu,01/12/2020,6443,10H,Kathmandu
+RA409,Kathmandu,01/12/2020,6530,14H,Kathmandu
+RA409,Kathmandu,01/12/2020,6531,7C,Kathmandu
+RA409,Kathmandu,01/12/2020,6532,34A,Kathmandu
+EK384,Bangkok,01/12/2020,6535,21K,Bangkok
+EK384,Bangkok,01/12/2020,6536,18C,Bangkok
+TK070,Istanbul,01/12/2020,6537,40A,Istanbul
+CX521,Tokyo,01/12/2020,6538,42G,Tokyo
+HX782,Manila,02/12/2020,6561,34H,Manila
 Taxi SL8379,,19/11/2020 - 20/11/2020,6323,,
+Taxi NJ4401,,25/11/2020 - 27/11/2020,6433,,
+Taxi TC1509,,26/11/2020 - 29/11/2020,6495,,
+Taxi TL6399 Taxi TJ7883 Taxi UX1397 Taxi EK8293,,25/11/2020 - 02/12/2020,6588,,
