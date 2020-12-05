@@ -5337,9 +5337,9 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5336,02/11/2020,30/10/2020,M,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5337,02/11/2020,31/10/2020,M,15,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5338,03/11/2020,30/10/2020,M,26,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
-5339,03/11/2020,Asymptomatic,M,58,,Discharged,non-HK resident,Imported case,Confirmed
-5340,03/11/2020,Asymptomatic,F,25,,Discharged,non-HK resident,Imported case,Confirmed
-5341,03/11/2020,Asymptomatic,F,31,,Discharged,non-HK resident,Imported case,Confirmed
+5339,03/11/2020,Asymptomatic,M,58,,Discharged,Non-HK resident,Imported case,Confirmed
+5340,03/11/2020,Asymptomatic,F,25,,Discharged,Non-HK resident,Imported case,Confirmed
+5341,03/11/2020,Asymptomatic,F,31,,Discharged,Non-HK resident,Imported case,Confirmed
 5342,03/11/2020,01/11/2020,M,24,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5343,03/11/2020,30/10/2020,M,36,,Discharged,HK resident,Local case,Confirmed
 5344,03/11/2020,02/11/2020,F,29,,Discharged,HK resident,Imported case,Confirmed
@@ -5472,14 +5472,14 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5471,17/11/2020,Asymptomatic,M,27,,Discharged,HK resident,Imported case,Confirmed
 5472,18/11/2020,Asymptomatic,M,50,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5473,18/11/2020,Asymptomatic,M,41,,Discharged,Non-HK resident,Imported case,Confirmed
-5474,18/11/2020,14/11/2020,M,82,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5474,18/11/2020,14/11/2020,M,82,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5475,18/11/2020,Asymptomatic,F,34,,Discharged,HK resident,Imported case,Confirmed
 5476,18/11/2020,Asymptomatic,M,18,,Discharged,HK resident,Imported case,Confirmed
 5477,18/11/2020,Asymptomatic,F,19,,Discharged,HK resident,Imported case,Confirmed
 5478,18/11/2020,Asymptomatic,F,37,,Discharged,HK resident,Imported case,Confirmed
 5479,18/11/2020,10/11/2020,M,76,,Discharged,HK resident,Local case,Confirmed
 5480,18/11/2020,Asymptomatic,M,12,,Discharged,HK resident,Imported case,Confirmed
-5481,19/11/2020,Asymptomatic,F,35,,Hospitalised,HK resident,Imported case,Confirmed
+5481,19/11/2020,Asymptomatic,F,35,,Discharged,HK resident,Imported case,Confirmed
 5482,19/11/2020,18/11/2020,M,47,,Discharged,Non-HK resident,Imported case,Confirmed
 5483,19/11/2020,Asymptomatic,M,52,,Hospitalised,Non-HK resident,Imported case,Confirmed
 5484,19/11/2020,14/11/2020,F,65,,Hospitalised,HK resident,Local case,Confirmed
@@ -5492,7 +5492,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5491,19/11/2020,16/11/2020,M,75,,Discharged,Non-HK resident,Imported case,Confirmed
 5492,19/11/2020,Asymptomatic,F,74,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5493,20/11/2020,18/11/2020,M,40,,Discharged,HK resident,Imported case,Confirmed
-5494,20/11/2020,Asymptomatic,M,37,,Hospitalised,Non-HK resident,Imported case,Confirmed
+5494,20/11/2020,Asymptomatic,M,37,,Discharged,Non-HK resident,Imported case,Confirmed
 5495,20/11/2020,Asymptomatic,M,28,,Discharged,HK resident,Imported case,Confirmed
 5496,20/11/2020,Asymptomatic,M,59,,Discharged,Non-HK resident,Imported case,Confirmed
 5497,20/11/2020,14/11/2020,M,37,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
@@ -5512,8 +5512,8 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5511,20/11/2020,Asymptomatic,M,73,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5512,20/11/2020,17/11/2020,F,64,,Hospitalised,HK resident,Local case,Confirmed
 5513,20/11/2020,18/11/2020,M,35,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
-5514,20/11/2020,18/11/2020,M,31,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5515,20/11/2020,Asymptomatic,M,29,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5514,20/11/2020,18/11/2020,M,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+5515,20/11/2020,Asymptomatic,M,29,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5516,20/11/2020,Asymptomatic,M,35,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5517,20/11/2020,Asymptomatic,F,56,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5518,20/11/2020,18/11/2020,F,67,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -5523,26 +5523,26 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5522,21/11/2020,11/11/2020,F,25,,Discharged,HK resident,Imported case,Confirmed
 5523,21/11/2020,16/11/2020,M,66,,Hospitalised,HK resident,Local case,Confirmed
 5524,21/11/2020,13/11/2020,M,57,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5525,21/11/2020,19/11/2020,F,31,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5525,21/11/2020,19/11/2020,F,31,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5526,21/11/2020,05/11/2020,F,71,,Discharged,HK resident,Local case,Confirmed
 5527,21/11/2020,Asymptomatic,F,36,,Hospitalised,HK resident,Imported case,Confirmed
 5528,21/11/2020,20/11/2020,F,18,,Hospitalised,HK resident,Imported case,Confirmed
-5529,21/11/2020,16/11/2020,F,62,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5529,21/11/2020,16/11/2020,F,62,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5530,21/11/2020,Asymptomatic,M,79,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5531,21/11/2020,17/11/2020,M,24,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5532,21/11/2020,19/11/2020,M,57,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5533,21/11/2020,15/11/2020,M,45,,Hospitalised,Non-HK resident,Epidemiologically linked with local case,Confirmed
-5534,21/11/2020,19/11/2020,M,42,,Hospitalised,HK resident,Local case,Confirmed
+5533,21/11/2020,15/11/2020,M,45,,Discharged,Non-HK resident,Epidemiologically linked with local case,Confirmed
+5534,21/11/2020,19/11/2020,M,42,,Discharged,HK resident,Local case,Confirmed
 5535,21/11/2020,16/11/2020,F,64,,Discharged,HK resident,Local case,Confirmed
 5536,21/11/2020,Asymptomatic,M,47,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5537,21/11/2020,18/11/2020,F,68,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5537,21/11/2020,18/11/2020,F,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5538,21/11/2020,16/11/2020,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5539,21/11/2020,19/11/2020,M,63,,Hospitalised,HK resident,Local case,Confirmed
 5540,21/11/2020,19/11/2020,F,35,,Discharged,HK resident,Imported case,Confirmed
 5541,21/11/2020,14/11/2020,F,59,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5542,21/11/2020,17/11/2020,F,62,,Hospitalised,HK resident,Local case,Confirmed
 5543,21/11/2020,19/11/2020,F,77,,Hospitalised,HK resident,Local case,Confirmed
-5544,21/11/2020,17/11/2020,M,25,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5544,21/11/2020,17/11/2020,M,25,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5545,21/11/2020,19/11/2020,M,34,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5546,21/11/2020,17/11/2020,F,55,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5547,21/11/2020,19/11/2020,F,64,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -5554,7 +5554,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5553,21/11/2020,Asymptomatic,F,57,,Discharged,HK resident,Local case,Confirmed
 5554,21/11/2020,18/11/2020,F,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5555,21/11/2020,18/11/2020,M,36,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
-5556,21/11/2020,18/11/2020,M,63,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5556,21/11/2020,18/11/2020,M,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5557,21/11/2020,19/11/2020,F,76,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5558,21/11/2020,Asymptomatic,F,51,,Discharged,HK resident,Imported case,Confirmed
 5559,21/11/2020,Asymptomatic,F,34,,Discharged,HK resident,Imported case,Confirmed
@@ -5566,20 +5566,20 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5565,22/11/2020,Asymptomatic,F,39,,Discharged,Non-HK resident,Imported case,Confirmed
 5566,22/11/2020,Asymptomatic,F,38,,Discharged,Non-HK resident,Imported case,Confirmed
 5567,22/11/2020,17/11/2020,M,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
-5568,22/11/2020,02/11/2020,F,61,,Hospitalised,HK resident,Local case,Confirmed
+5568,22/11/2020,02/11/2020,F,61,,Discharged,HK resident,Local case,Confirmed
 5569,22/11/2020,Asymptomatic,F,65,,Discharged,HK resident,Local case,Confirmed
 5570,22/11/2020,Asymptomatic,F,66,,Hospitalised,HK resident,Local case,Confirmed
 5571,22/11/2020,14/11/2020,F,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5572,22/11/2020,19/11/2020,F,70,,Hospitalised,HK resident,Local case,Confirmed
 5573,22/11/2020,20/11/2020,F,62,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5574,22/11/2020,14/11/2020,M,66,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
-5575,22/11/2020,11/11/2020,F,56,,Hospitalised,HK resident,Local case,Confirmed
+5575,22/11/2020,11/11/2020,F,56,,Discharged,HK resident,Local case,Confirmed
 5576,22/11/2020,16/11/2020,F,61,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5577,22/11/2020,20/11/2020,F,59,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5578,22/11/2020,19/11/2020,M,48,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5579,22/11/2020,20/11/2020,F,45,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5580,22/11/2020,Asymptomatic,M,24,,Discharged,Non-HK resident,Imported case,Confirmed
-5581,22/11/2020,15/11/2020,F,60,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5581,22/11/2020,15/11/2020,F,60,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5582,22/11/2020,18/11/2020,F,76,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5583,22/11/2020,Asymptomatic,F,59,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5584,22/11/2020,Asymptomatic,M,50,,Hospitalised,Non-HK resident,Imported case,Confirmed
@@ -5595,10 +5595,10 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5594,22/11/2020,21/11/2020,F,72,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5595,22/11/2020,Asymptomatic,F,35,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5596,22/11/2020,21/11/2020,M,52,,Hospitalised,Non-HK resident,Epidemiologically linked with local case,Confirmed
-5597,22/11/2020,Asymptomatic,M,53,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5597,22/11/2020,Asymptomatic,M,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5598,22/11/2020,19/11/2020,M,81,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5599,22/11/2020,20/11/2020,F,63,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5600,22/11/2020,Asymptomatic,M,71,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5600,22/11/2020,Asymptomatic,M,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5601,22/11/2020,Asymptomatic,M,35,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5602,22/11/2020,20/11/2020,F,66,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5603,22/11/2020,19/11/2020,M,48,,Hospitalised,HK resident,Local case,Confirmed
@@ -5613,7 +5613,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5612,22/11/2020,Asymptomatic,F,65,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5613,22/11/2020,17/11/2020,F,64,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5614,22/11/2020,21/11/2020,F,77,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5615,22/11/2020,19/11/2020,M,20,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5615,22/11/2020,19/11/2020,M,20,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5616,22/11/2020,21/11/2020,M,43,,Hospitalised,Non-HK resident,Epidemiologically linked with local case,Confirmed
 5617,22/11/2020,Asymptomatic,M,62,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5618,22/11/2020,16/11/2020,F,79,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -5634,14 +5634,14 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5633,23/11/2020,20/11/2020,M,58,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5634,23/11/2020,20/11/2020,F,64,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5635,23/11/2020,Asymptomatic,M,19,,Discharged,HK resident,Imported case,Confirmed
-5636,23/11/2020,21/11/2020,F,67,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5636,23/11/2020,21/11/2020,F,67,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5637,23/11/2020,20/11/2020,F,61,,Hospitalised,HK resident,Local case,Confirmed
 5638,23/11/2020,17/11/2020,F,68,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5639,23/11/2020,Asymptomatic,M,51,,Hospitalised,HK resident,Imported case,Confirmed
 5640,23/11/2020,21/11/2020,F,70,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5641,23/11/2020,21/11/2020,F,69,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5642,23/11/2020,19/11/2020,F,47,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5643,23/11/2020,Asymptomatic,F,57,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5643,23/11/2020,Asymptomatic,F,57,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5644,23/11/2020,19/11/2020,F,69,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5645,23/11/2020,21/11/2020,M,63,,Hospitalised,HK resident,Local case,Confirmed
 5646,23/11/2020,22/11/2020,M,70,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -5670,7 +5670,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5669,23/11/2020,21/11/2020,F,61,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5670,23/11/2020,19/11/2020,M,48,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5671,23/11/2020,20/11/2020,F,49,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
-5672,23/11/2020,20/11/2020,F,64,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5672,23/11/2020,20/11/2020,F,64,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5673,23/11/2020,14/11/2020,F,61,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5674,23/11/2020,Asymptomatic,F,53,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5675,23/11/2020,Asymptomatic,F,65,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -5687,9 +5687,9 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5686,23/11/2020,Asymptomatic,M,0,,Discharged,Non-HK resident,Imported case,Confirmed
 5687,23/11/2020,Asymptomatic,M,0,,Discharged,Non-HK resident,Imported case,Confirmed
 5688,23/11/2020,20/11/2020,M,65,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5689,23/11/2020,19/11/2020,F,69,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5689,23/11/2020,19/11/2020,F,69,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5690,23/11/2020,21/11/2020,F,72,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5691,23/11/2020,21/11/2020,F,53,,Hospitalised,HK resident,Local case,Confirmed
+5691,23/11/2020,21/11/2020,F,53,,Discharged,HK resident,Local case,Confirmed
 5692,23/11/2020,22/11/2020,F,30,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5693,23/11/2020,22/11/2020,M,27,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5694,23/11/2020,Asymptomatic,M,59,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -5702,7 +5702,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5701,23/11/2020,Asymptomatic,F,69,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5702,23/11/2020,22/11/2020,F,46,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5703,24/11/2020,22/11/2020,F,60,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5704,24/11/2020,20/11/2020,F,47,,Hospitalised,HK resident,Local case,Confirmed
+5704,24/11/2020,20/11/2020,F,47,,Discharged,HK resident,Local case,Confirmed
 5705,24/11/2020,Asymptomatic,M,42,,Discharged,Non-HK resident,Imported case,Confirmed
 5706,24/11/2020,Asymptomatic,M,33,,Discharged,Non-HK resident,Imported case,Confirmed
 5707,24/11/2020,23/11/2020,F,30,,Hospitalised,Non-HK resident,Imported case,Confirmed
@@ -5712,13 +5712,13 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5711,24/11/2020,Asymptomatic,M,73,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5712,24/11/2020,18/11/2020,M,47,,Discharged,Non-HK resident,Imported case,Confirmed
 5713,24/11/2020,16/11/2020,F,85,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5714,24/11/2020,22/11/2020,F,65,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5714,24/11/2020,22/11/2020,F,65,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5715,24/11/2020,20/11/2020,M,63,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5716,24/11/2020,22/11/2020,F,48,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5717,24/11/2020,22/11/2020,F,39,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5718,24/11/2020,21/11/2020,F,74,,Hospitalised,HK resident,Local case,Confirmed
 5719,24/11/2020,21/11/2020,F,31,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5720,24/11/2020,21/11/2020,F,38,,Hospitalised,HK resident,Local case,Confirmed
+5720,24/11/2020,21/11/2020,F,38,,Discharged,HK resident,Local case,Confirmed
 5721,24/11/2020,22/11/2020,F,58,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5722,24/11/2020,22/11/2020,F,75,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5723,24/11/2020,21/11/2020,F,69,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -5786,8 +5786,8 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5785,25/11/2020,Asymptomatic,F,70,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5786,25/11/2020,24/11/2020,F,48,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5787,25/11/2020,23/11/2020,F,31,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5788,25/11/2020,Asymptomatic,F,63,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5789,25/11/2020,23/11/2020,M,51,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5788,25/11/2020,Asymptomatic,F,63,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
+5789,25/11/2020,23/11/2020,M,51,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5790,25/11/2020,22/11/2020,F,57,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5791,25/11/2020,23/11/2020,F,75,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5792,25/11/2020,Asymptomatic,M,31,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -5814,9 +5814,9 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5813,25/11/2020,17/11/2020,M,60,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5814,25/11/2020,Asymptomatic,F,46,,Hospitalised,HK resident,Local case,Confirmed
 5815,25/11/2020,22/11/2020,F,52,,Hospitalised,HK resident,Local case,Confirmed
-5816,25/11/2020,22/11/2020,F,44,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5816,25/11/2020,22/11/2020,F,44,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5817,25/11/2020,23/11/2020,M,49,,Hospitalised,HK resident,Local case,Confirmed
-5818,25/11/2020,Asymptomatic,F,71,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5818,25/11/2020,Asymptomatic,F,71,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5819,25/11/2020,Asymptomatic,F,7,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5820,25/11/2020,22/11/2020,F,52,,Hospitalised,HK resident,Local case,Confirmed
 5821,25/11/2020,Asymptomatic,F,74,,Hospitalised,HK resident,Local case,Confirmed
@@ -5843,7 +5843,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5842,25/11/2020,Asymptomatic,M,55,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5843,25/11/2020,22/11/2020,F,61,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5844,25/11/2020,24/11/2020,F,51,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5845,25/11/2020,Asymptomatic,M,89,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5845,25/11/2020,Asymptomatic,M,89,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5846,25/11/2020,21/11/2020,M,48,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5847,25/11/2020,Asymptomatic,F,56,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5848,25/11/2020,23/11/2020,F,44,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -5918,7 +5918,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 5917,26/11/2020,24/11/2020,M,59,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5918,26/11/2020,23/11/2020,M,77,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5919,26/11/2020,25/11/2020,F,73,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-5920,26/11/2020,23/11/2020,M,41,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+5920,26/11/2020,23/11/2020,M,41,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 5921,26/11/2020,24/11/2020,F,55,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5922,26/11/2020,Asymptomatic,M,64,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 5923,26/11/2020,25/11/2020,M,66,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6008,7 +6008,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6007,27/11/2020,24/11/2020,F,53,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6008,27/11/2020,23/11/2020,M,19,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6009,27/11/2020,23/11/2020,M,71,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6010,27/11/2020,17/11/2020,F,62,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6010,27/11/2020,17/11/2020,F,62,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 6011,27/11/2020,26/11/2020,F,46,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 6012,27/11/2020,23/11/2020,F,69,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6013,27/11/2020,23/11/2020,F,50,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6114,7 +6114,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6113,28/11/2020,Asymptomatic,M,53,,Hospitalised,Non-HK resident,Epidemiologically linked with local case,Confirmed
 6114,28/11/2020,25/11/2020,M,37,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6115,28/11/2020,22/11/2020,F,54,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6116,28/11/2020,18/11/2020,F,37,,Hospitalised,HK resident,Imported case,Confirmed
+6116,28/11/2020,18/11/2020,F,37,,Discharged,HK resident,Imported case,Confirmed
 6117,28/11/2020,Asymptomatic,M,19,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6118,28/11/2020,24/11/2020,F,49,,Hospitalised,HK resident,Local case,Confirmed
 6119,28/11/2020,Asymptomatic,M,50,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6216,7 +6216,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6215,29/11/2020,Asymptomatic,M,23,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6216,29/11/2020,26/11/2020,M,51,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6217,29/11/2020,26/11/2020,F,51,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6218,29/11/2020,23/11/2020,M,44,,Hospitalised,HK resident,Local case,Confirmed
+6218,29/11/2020,23/11/2020,M,44,,Discharged,HK resident,Local case,Confirmed
 6219,29/11/2020,26/11/2020,F,48,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6220,29/11/2020,25/11/2020,F,70,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6221,29/11/2020,Asymptomatic,M,62,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6238,8 +6238,8 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6237,29/11/2020,27/11/2020,F,77,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6238,29/11/2020,25/11/2020,F,77,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6239,29/11/2020,28/11/2020,F,63,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6240,30/11/2020,Asymptomatic,F,23,,Hospitalised,Non-HK resident,Imported case,Confirmed
-6241,30/11/2020,Asymptomatic,M,41,,Hospitalised,HK resident,Imported case,Confirmed
+6240,30/11/2020,Asymptomatic,F,23,,Discharged,Non-HK resident,Imported case,Confirmed
+6241,30/11/2020,Asymptomatic,M,41,,Discharged,HK resident,Imported case,Confirmed
 6242,30/11/2020,Asymptomatic,F,21,,Discharged,Non-HK resident,Imported case,Confirmed
 6243,30/11/2020,Asymptomatic,F,18,,Hospitalised,HK resident,Imported case,Confirmed
 6244,30/11/2020,Asymptomatic,M,41,,Discharged,Non-HK resident,Imported case,Confirmed
@@ -6267,10 +6267,10 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6266,30/11/2020,Asymptomatic,F,39,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6267,30/11/2020,27/11/2020,F,42,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6268,30/11/2020,27/11/2020,F,19,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6269,30/11/2020,Asymptomatic,F,53,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6269,30/11/2020,Asymptomatic,F,53,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6270,30/11/2020,27/11/2020,F,47,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6271,30/11/2020,28/11/2020,M,78,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6272,30/11/2020,Asymptomatic,M,38,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6272,30/11/2020,Asymptomatic,M,38,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed
 6273,30/11/2020,27/11/2020,F,22,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6274,30/11/2020,27/11/2020,M,1,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6275,30/11/2020,Asymptomatic,F,59,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6319,7 +6319,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6318,01/12/2020,30/11/2020,M,49,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6319,01/12/2020,Asymptomatic,F,66,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6320,01/12/2020,29/11/2020,F,83,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6321,01/12/2020,Asymptomatic,M,34,,Hospitalised,HK resident,Local case,Confirmed
+6321,01/12/2020,Asymptomatic,M,34,,Discharged,HK resident,Local case,Confirmed
 6322,01/12/2020,28/11/2020,F,41,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6323,01/12/2020,21/11/2020,M,59,,Hospitalised,HK resident,Local case,Confirmed
 6324,01/12/2020,29/11/2020,M,56,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6336,7 +6336,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6335,01/12/2020,Asymptomatic,F,59,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6336,01/12/2020,28/11/2020,F,56,,Hospitalised,HK resident,Local case,Confirmed
 6337,01/12/2020,Asymptomatic,F,29,,Discharged,HK resident,Imported case,Confirmed
-6338,01/12/2020,27/11/2020,M,47,,Hospitalised,Non-HK resident,Imported case,Confirmed
+6338,01/12/2020,27/11/2020,M,47,,Discharged,Non-HK resident,Imported case,Confirmed
 6339,01/12/2020,Asymptomatic,F,59,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6340,01/12/2020,Asymptomatic,M,37,,Hospitalised,HK resident,Imported case,Confirmed
 6341,01/12/2020,29/11/2020,F,61,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6355,7 +6355,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6354,01/12/2020,28/11/2020,M,38,,Hospitalised,HK resident,Local case,Confirmed
 6355,01/12/2020,20/11/2020,F,54,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6356,01/12/2020,Asymptomatic,F,9,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6357,01/12/2020,Asymptomatic,F,54,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6357,01/12/2020,Asymptomatic,F,54,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 6358,01/12/2020,26/11/2020,M,52,,Hospitalised,HK resident,Local case,Confirmed
 6359,01/12/2020,Asymptomatic,M,78,,Discharged,HK resident,Epidemiologically linked with local case,Confirmed
 6360,01/12/2020,Asymptomatic,F,55,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6365,8 +6365,8 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6364,01/12/2020,25/11/2020,F,50,,Hospitalised,HK resident,Local case,Confirmed
 6365,01/12/2020,29/11/2020,F,67,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6366,01/12/2020,Asymptomatic,F,39,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6367,01/12/2020,Asymptomatic,F,52,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
-6368,01/12/2020,Asymptomatic,F,24,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6367,01/12/2020,Asymptomatic,F,52,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6368,01/12/2020,Asymptomatic,F,24,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6369,01/12/2020,27/11/2020,F,48,,Hospitalised,HK resident,Local case,Confirmed
 6370,01/12/2020,Asymptomatic,F,48,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6371,01/12/2020,Asymptomatic,M,55,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6388,7 +6388,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6387,01/12/2020,28/11/2020,M,22,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6388,01/12/2020,29/11/2020,F,46,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6389,01/12/2020,29/11/2020,F,54,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6390,01/12/2020,Asymptomatic,F,43,,Hospitalised,HK resident,Imported case,Confirmed
+6390,01/12/2020,Asymptomatic,F,43,,Discharged,HK resident,Imported case,Confirmed
 6391,01/12/2020,Asymptomatic,F,31,,Hospitalised,HK resident,Imported case,Confirmed
 6392,01/12/2020,26/11/2020,M,55,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6393,01/12/2020,Asymptomatic,F,36,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6402,7 +6402,7 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6401,02/12/2020,28/11/2020,F,39,,Hospitalised,HK resident,Local case,Confirmed
 6402,02/12/2020,30/11/2020,M,33,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6403,02/12/2020,Pending,M,67,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6404,02/12/2020,Pending,F,39,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6404,02/12/2020,Pending,F,39,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6405,02/12/2020,Pending,F,44,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6406,02/12/2020,Pending,M,55,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6407,02/12/2020,Pending,M,37,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6444,8 +6444,8 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6443,02/12/2020,Asymptomatic,F,32,,Hospitalised,Non-HK resident,Imported case,Confirmed
 6444,02/12/2020,30/11/2020,M,63,,Hospitalised,HK resident,Local case,Confirmed
 6445,02/12/2020,Asymptomatic,F,48,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6446,02/12/2020,30/11/2020,F,45,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
-6447,02/12/2020,01/12/2020,F,82,,Hospitalised,HK resident,Local case,Confirmed
+6446,02/12/2020,30/11/2020,F,45,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6447,02/12/2020,01/12/2020,F,82,,Deceased,HK resident,Local case,Confirmed
 6448,02/12/2020,30/11/2020,F,24,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6449,02/12/2020,29/11/2020,F,62,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6450,02/12/2020,28/11/2020,F,41,,Hospitalised,HK resident,Local case,Confirmed
@@ -6466,10 +6466,10 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6465,02/12/2020,Asymptomatic,F,55,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6466,02/12/2020,25/11/2020,M,86,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6467,02/12/2020,25/11/2020,M,63,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6468,02/12/2020,Asymptomatic,M,62,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6468,02/12/2020,Asymptomatic,M,62,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6469,02/12/2020,Asymptomatic,M,57,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6470,02/12/2020,Asymptomatic,M,27,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6471,02/12/2020,Asymptomatic,M,40,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6471,02/12/2020,Asymptomatic,M,40,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6472,02/12/2020,Asymptomatic,M,55,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6473,02/12/2020,Asymptomatic,M,36,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6474,02/12/2020,Asymptomatic,M,36,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
@@ -6494,98 +6494,210 @@ Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospital
 6493,02/12/2020,30/11/2020,F,46,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6494,02/12/2020,29/11/2020,M,54,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6495,02/12/2020,28/11/2020,M,57,,Hospitalised,HK resident,Local case,Confirmed
-6496,02/12/2020,Asymptomatic,F,33,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6496,02/12/2020,Asymptomatic,F,33,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6497,02/12/2020,Asymptomatic,F,57,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6498,02/12/2020,Asymptomatic,F,49,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6498,02/12/2020,Asymptomatic,F,49,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6499,02/12/2020,Asymptomatic,M,38,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
 6500,02/12/2020,Asymptomatic,M,22,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
-6501,03/12/2020,02/12/2020,F,47,,To be provided,HK resident,Local case,Confirmed
-6502,03/12/2020,Asymptomatic,F,52,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6503,03/12/2020,29/11/2020,F,49,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6504,03/12/2020,29/11/2020,F,30,,To be provided,HK resident,Local case,Confirmed
-6505,03/12/2020,01/12/2020,M,60,,To be provided,HK resident,Local case,Confirmed
-6506,03/12/2020,30/11/2020,M,57,,To be provided,HK resident,Local case,Confirmed
-6507,03/12/2020,30/11/2020,M,36,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6508,03/12/2020,Asymptomatic,F,38,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6509,03/12/2020,29/11/2020,F,57,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6510,03/12/2020,Asymptomatic,F,45,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6511,03/12/2020,01/12/2020,M,9,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6512,03/12/2020,Asymptomatic,M,4,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6513,03/12/2020,Asymptomatic,M,58,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6514,03/12/2020,Asymptomatic,F,23,,To be provided,HK resident,Imported case,Confirmed
-6515,03/12/2020,01/12/2020,M,42,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6516,03/12/2020,23/11/2020,M,67,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6517,03/12/2020,01/12/2020,M,23,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6518,03/12/2020,Asymptomatic,M,50,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6519,03/12/2020,28/11/2020,M,17,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6520,03/12/2020,Asymptomatic,M,10,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6521,03/12/2020,02/12/2020,F,60,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6522,03/12/2020,27/11/2020,M,39,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6523,03/12/2020,Asymptomatic,F,21,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6524,03/12/2020,Asymptomatic,F,89,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6525,03/12/2020,Asymptomatic,F,31,,To be provided,HK resident,Imported case,Confirmed
-6526,03/12/2020,29/11/2020,M,33,,To be provided,HK resident,Local case,Confirmed
-6527,03/12/2020,28/11/2020,F,56,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6528,03/12/2020,Asymptomatic,F,35,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6529,03/12/2020,26/11/2020,M,73,,To be provided,HK resident,Local case,Confirmed
-6530,03/12/2020,Asymptomatic,F,70,,To be provided,HK resident,Imported case,Confirmed
-6531,03/12/2020,Asymptomatic,M,17,,To be provided,HK resident,Imported case,Confirmed
-6532,03/12/2020,Asymptomatic,F,49,,To be provided,HK resident,Imported case,Confirmed
-6533,03/12/2020,01/12/2020,F,86,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6534,03/12/2020,Asymptomatic,M,57,,To be provided,Non-HK resident,Imported case,Confirmed
-6535,03/12/2020,Asymptomatic,M,22,,To be provided,HK resident,Imported case,Confirmed
-6536,03/12/2020,Asymptomatic,M,52,,To be provided,HK resident,Imported case,Confirmed
-6537,03/12/2020,Asymptomatic,M,21,,To be provided,HK resident,Imported case,Confirmed
-6538,03/12/2020,Asymptomatic,M,29,,To be provided,Non-HK resident,Imported case,Confirmed
-6539,03/12/2020,30/11/2020,F,23,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6540,03/12/2020,25/11/2020,M,62,,To be provided,HK resident,Local case,Confirmed
-6541,03/12/2020,Asymptomatic,M,33,,To be provided,HK resident,Local case,Confirmed
-6542,03/12/2020,01/12/2020,F,33,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6543,03/12/2020,20/11/2020,M,61,,To be provided,HK resident,Local case,Confirmed
-6544,03/12/2020,25/11/2020,M,49,,To be provided,Non-HK resident,Epidemiologically linked with local case,Confirmed
-6545,03/12/2020,01/12/2020,M,83,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6546,03/12/2020,27/11/2020,M,55,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6547,03/12/2020,30/11/2020,M,73,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6548,03/12/2020,23/11/2020,F,56,,To be provided,HK resident,Local case,Confirmed
-6549,03/12/2020,29/11/2020,M,43,,To be provided,HK resident,Local case,Confirmed
-6550,03/12/2020,Asymptomatic,F,40,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6551,03/12/2020,27/11/2020,F,62,,To be provided,HK resident,Local case,Confirmed
-6552,03/12/2020,01/12/2020,M,88,,To be provided,HK resident,Local case,Confirmed
-6553,03/12/2020,30/11/2020,M,35,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6554,03/12/2020,01/12/2020,F,48,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6555,03/12/2020,29/11/2020,M,44,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6556,03/12/2020,25/11/2020,M,33,,To be provided,HK resident,Local case,Confirmed
-6557,03/12/2020,28/11/2020,F,61,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6558,03/12/2020,Asymptomatic,M,39,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6559,03/12/2020,Asymptomatic,F,77,,To be provided,HK resident,Local case,Confirmed
-6560,03/12/2020,01/12/2020,F,78,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6561,03/12/2020,29/11/2020,F,68,,To be provided,Non-HK resident,Imported case,Confirmed
-6562,03/12/2020,25/11/2020,M,31,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6563,03/12/2020,29/11/2020,F,43,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6564,03/12/2020,30/11/2020,F,25,,To be provided,HK resident,Local case,Confirmed
-6565,03/12/2020,Asymptomatic,M,71,,To be provided,HK resident,Local case,Confirmed
-6566,03/12/2020,Asymptomatic,F,58,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6567,03/12/2020,29/11/2020,M,46,,To be provided,HK resident,Local case,Confirmed
-6568,03/12/2020,29/11/2020,F,39,,To be provided,HK resident,Local case,Confirmed
-6569,03/12/2020,Asymptomatic,F,46,,To be provided,HK resident,Local case,Confirmed
-6570,03/12/2020,01/12/2020,F,33,,To be provided,HK resident,Local case,Confirmed
-6571,03/12/2020,29/11/2020,F,48,,To be provided,HK resident,Local case,Confirmed
-6572,03/12/2020,Asymptomatic,M,60,,To be provided,HK resident,Local case,Confirmed
-6573,03/12/2020,28/11/2020,M,48,,To be provided,HK resident,Local case,Confirmed
-6574,03/12/2020,28/11/2020,F,90,,To be provided,HK resident,Local case,Confirmed
-6575,03/12/2020,01/12/2020,F,55,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6576,03/12/2020,28/11/2020,M,54,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6577,03/12/2020,27/11/2020,M,67,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6578,03/12/2020,28/11/2020,M,72,,To be provided,HK resident,Local case,Confirmed
-6579,03/12/2020,30/11/2020,M,76,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6580,03/12/2020,30/11/2020,M,43,,To be provided,HK resident,Local case,Confirmed
-6581,03/12/2020,02/12/2020,M,74,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6582,03/12/2020,30/11/2020,M,44,,To be provided,HK resident,Local case,Confirmed
-6583,03/12/2020,29/11/2020,F,84,,To be provided,HK resident,Local case,Confirmed
-6584,03/12/2020,27/11/2020,F,39,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6585,03/12/2020,Asymptomatic,F,54,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6586,03/12/2020,Asymptomatic,F,45,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6587,03/12/2020,01/12/2020,F,37,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6588,03/12/2020,27/11/2020,M,60,,To be provided,HK resident,Local case,Confirmed
-6589,03/12/2020,02/12/2020,F,41,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
-6590,03/12/2020,29/11/2020,M,60,,To be provided,HK resident,Local case,Confirmed
+6501,03/12/2020,02/12/2020,F,47,,Hospitalised,HK resident,Local case,Confirmed
+6502,03/12/2020,Asymptomatic,F,52,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6503,03/12/2020,29/11/2020,F,49,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6504,03/12/2020,29/11/2020,F,30,,Hospitalised,HK resident,Local case,Confirmed
+6505,03/12/2020,01/12/2020,M,60,,Hospitalised,HK resident,Local case,Confirmed
+6506,03/12/2020,30/11/2020,M,57,,Hospitalised,HK resident,Local case,Confirmed
+6507,03/12/2020,30/11/2020,M,36,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6508,03/12/2020,Asymptomatic,F,38,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6509,03/12/2020,29/11/2020,F,57,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6510,03/12/2020,Asymptomatic,F,45,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6511,03/12/2020,01/12/2020,M,9,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6512,03/12/2020,Asymptomatic,M,4,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6513,03/12/2020,Asymptomatic,M,58,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6514,03/12/2020,Asymptomatic,F,23,,Hospitalised,HK resident,Imported case,Confirmed
+6515,03/12/2020,01/12/2020,M,42,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6516,03/12/2020,23/11/2020,M,67,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6517,03/12/2020,01/12/2020,M,23,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6518,03/12/2020,Asymptomatic,M,50,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6519,03/12/2020,28/11/2020,M,17,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6520,03/12/2020,Asymptomatic,M,10,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6521,03/12/2020,02/12/2020,F,60,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6522,03/12/2020,27/11/2020,M,39,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6523,03/12/2020,Asymptomatic,F,21,,Pending admission,HK resident,Epidemiologically linked with local case,Confirmed
+6524,03/12/2020,Asymptomatic,F,89,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6525,03/12/2020,Asymptomatic,F,31,,Hospitalised,HK resident,Imported case,Confirmed
+6526,03/12/2020,29/11/2020,M,33,,Hospitalised,HK resident,Local case,Confirmed
+6527,03/12/2020,28/11/2020,F,56,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6528,03/12/2020,Asymptomatic,F,35,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6529,03/12/2020,26/11/2020,M,73,,Hospitalised,HK resident,Local case,Confirmed
+6530,03/12/2020,Asymptomatic,F,70,,Hospitalised,HK resident,Imported case,Confirmed
+6531,03/12/2020,Asymptomatic,M,17,,Pending admission,HK resident,Imported case,Confirmed
+6532,03/12/2020,Asymptomatic,F,49,,Discharged,HK resident,Imported case,Confirmed
+6533,03/12/2020,01/12/2020,F,86,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6534,03/12/2020,Asymptomatic,M,57,,Hospitalised,Non-HK resident,Imported case,Confirmed
+6535,03/12/2020,Asymptomatic,M,22,,Hospitalised,HK resident,Imported case,Confirmed
+6536,03/12/2020,Asymptomatic,M,52,,Hospitalised,HK resident,Imported case,Confirmed
+6537,03/12/2020,Asymptomatic,M,21,,Hospitalised,HK resident,Imported case,Confirmed
+6538,03/12/2020,Asymptomatic,M,29,,Hospitalised,Non-HK resident,Imported case,Confirmed
+6539,03/12/2020,30/11/2020,F,23,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6540,03/12/2020,25/11/2020,M,62,,Hospitalised,HK resident,Local case,Confirmed
+6541,03/12/2020,Asymptomatic,M,33,,Hospitalised,HK resident,Local case,Confirmed
+6542,03/12/2020,01/12/2020,F,33,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6543,03/12/2020,20/11/2020,M,61,,Hospitalised,HK resident,Local case,Confirmed
+6544,03/12/2020,25/11/2020,M,49,,Hospitalised,Non-HK resident,Epidemiologically linked with local case,Confirmed
+6545,03/12/2020,01/12/2020,M,83,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6546,03/12/2020,27/11/2020,M,55,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6547,03/12/2020,30/11/2020,M,73,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6548,03/12/2020,23/11/2020,F,56,,Hospitalised,HK resident,Local case,Confirmed
+6549,03/12/2020,29/11/2020,M,43,,Hospitalised,HK resident,Local case,Confirmed
+6550,03/12/2020,Asymptomatic,F,40,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6551,03/12/2020,27/11/2020,F,62,,Hospitalised,HK resident,Local case,Confirmed
+6552,03/12/2020,01/12/2020,M,88,,Hospitalised,HK resident,Local case,Confirmed
+6553,03/12/2020,30/11/2020,M,35,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6554,03/12/2020,01/12/2020,F,48,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6555,03/12/2020,29/11/2020,M,44,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6556,03/12/2020,25/11/2020,M,33,,Hospitalised,HK resident,Local case,Confirmed
+6557,03/12/2020,28/11/2020,F,61,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6558,03/12/2020,Asymptomatic,M,39,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6559,03/12/2020,Asymptomatic,F,77,,Hospitalised,HK resident,Local case,Confirmed
+6560,03/12/2020,01/12/2020,F,78,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6561,03/12/2020,29/11/2020,F,68,,Hospitalised,Non-HK resident,Imported case,Confirmed
+6562,03/12/2020,25/11/2020,M,31,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6563,03/12/2020,29/11/2020,F,43,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6564,03/12/2020,30/11/2020,F,25,,Hospitalised,HK resident,Local case,Confirmed
+6565,03/12/2020,Asymptomatic,M,71,,Hospitalised,HK resident,Local case,Confirmed
+6566,03/12/2020,Asymptomatic,F,58,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6567,03/12/2020,29/11/2020,M,46,,Hospitalised,HK resident,Local case,Confirmed
+6568,03/12/2020,29/11/2020,F,39,,Hospitalised,HK resident,Local case,Confirmed
+6569,03/12/2020,Asymptomatic,F,46,,Hospitalised,HK resident,Local case,Confirmed
+6570,03/12/2020,01/12/2020,F,33,,Hospitalised,HK resident,Local case,Confirmed
+6571,03/12/2020,29/11/2020,F,48,,Hospitalised,HK resident,Local case,Confirmed
+6572,03/12/2020,Asymptomatic,M,60,,Hospitalised,HK resident,Local case,Confirmed
+6573,03/12/2020,28/11/2020,M,48,,Hospitalised,HK resident,Local case,Confirmed
+6574,03/12/2020,28/11/2020,F,90,,Hospitalised,HK resident,Local case,Confirmed
+6575,03/12/2020,01/12/2020,F,55,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6576,03/12/2020,28/11/2020,M,54,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6577,03/12/2020,27/11/2020,M,67,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6578,03/12/2020,28/11/2020,M,72,,Hospitalised,HK resident,Local case,Confirmed
+6579,03/12/2020,30/11/2020,M,76,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6580,03/12/2020,30/11/2020,M,43,,Hospitalised,HK resident,Local case,Confirmed
+6581,03/12/2020,02/12/2020,M,74,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6582,03/12/2020,30/11/2020,M,44,,Hospitalised,HK resident,Local case,Confirmed
+6583,03/12/2020,29/11/2020,F,84,,Hospitalised,HK resident,Local case,Confirmed
+6584,03/12/2020,27/11/2020,F,39,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6585,03/12/2020,Asymptomatic,F,54,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6586,03/12/2020,Asymptomatic,F,45,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6587,03/12/2020,01/12/2020,F,37,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6588,03/12/2020,27/11/2020,M,60,,Hospitalised,HK resident,Local case,Confirmed
+6589,03/12/2020,02/12/2020,F,41,,Hospitalised,HK resident,Epidemiologically linked with local case,Confirmed
+6590,03/12/2020,29/11/2020,M,60,,Hospitalised,HK resident,Local case,Confirmed
+6591,04/12/2020,27/11/2020,F,36,,To be provided,HK resident,Local case,Confirmed
+6592,04/12/2020,Asymptomatic,F,47,,To be provided,Non-HK resident,Imported case,Confirmed
+6593,04/12/2020,Asymptomatic,M,36,,To be provided,HK resident,Imported case,Confirmed
+6594,04/12/2020,Asymptomatic,M,45,,To be provided,HK resident,Imported case,Confirmed
+6595,04/12/2020,Asymptomatic,F,18,,To be provided,HK resident,Imported case,Confirmed
+6596,04/12/2020,Asymptomatic,M,20,,To be provided,HK resident,Imported case,Confirmed
+6597,04/12/2020,01/12/2020,M,39,,To be provided,HK resident,Local case,Confirmed
+6598,04/12/2020,01/12/2020,M,60,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6599,04/12/2020,28/11/2020,F,81,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6600,04/12/2020,28/11/2020,M,62,,To be provided,HK resident,Local case,Confirmed
+6601,04/12/2020,02/12/2020,F,17,,To be provided,HK resident,Local case,Confirmed
+6602,04/12/2020,30/11/2020,M,14,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6603,04/12/2020,02/12/2020,F,32,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6604,04/12/2020,02/12/2020,M,25,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6605,04/12/2020,01/12/2020,M,24,,To be provided,HK resident,Local case,Confirmed
+6606,04/12/2020,14/11/2020,F,82,,To be provided,HK resident,Local case,Confirmed
+6607,04/12/2020,28/11/2020,F,53,,To be provided,HK resident,Local case,Confirmed
+6608,04/12/2020,02/12/2020,M,47,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6609,04/12/2020,30/11/2020,M,66,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6610,04/12/2020,01/12/2020,F,64,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6611,04/12/2020,01/12/2020,F,31,,To be provided,Non-HK resident,Epidemiologically linked with local case,Confirmed
+6612,04/12/2020,30/11/2020,F,79,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6613,04/12/2020,30/11/2020,F,23,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6614,04/12/2020,03/12/2020,F,71,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6615,04/12/2020,02/12/2020,F,36,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6616,04/12/2020,01/12/2020,M,59,,To be provided,HK resident,Local case,Confirmed
+6617,04/12/2020,Asymptomatic,M,44,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6618,04/12/2020,28/11/2020,F,58,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6619,04/12/2020,28/11/2020,M,42,,To be provided,HK resident,Local case,Confirmed
+6620,04/12/2020,01/12/2020,F,65,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6621,04/12/2020,27/11/2020,F,62,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6622,04/12/2020,Asymptomatic,F,39,,To be provided,HK resident,Imported case,Confirmed
+6623,04/12/2020,01/12/2020,M,37,,To be provided,HK resident,Local case,Confirmed
+6624,04/12/2020,30/11/2020,M,62,,To be provided,HK resident,Local case,Confirmed
+6625,04/12/2020,01/12/2020,M,45,,To be provided,HK resident,Local case,Confirmed
+6626,04/12/2020,01/12/2020,F,55,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6627,04/12/2020,27/11/2020,M,31,,To be provided,HK resident,Local case,Confirmed
+6628,04/12/2020,Asymptomatic,M,56,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6629,04/12/2020,Asymptomatic,M,28,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6630,04/12/2020,29/11/2020,M,67,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6631,04/12/2020,02/12/2020,F,81,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6632,04/12/2020,02/12/2020,F,56,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6633,04/12/2020,23/11/2020,M,15,,To be provided,HK resident,Local case,Confirmed
+6634,04/12/2020,02/12/2020,F,40,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6635,04/12/2020,27/11/2020,F,61,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6636,04/12/2020,25/11/2020,F,54,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6637,04/12/2020,01/12/2020,F,46,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6638,04/12/2020,30/11/2020,M,41,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6639,04/12/2020,Asymptomatic,M,43,,To be provided,HK resident,Local case,Confirmed
+6640,04/12/2020,01/12/2020,F,36,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6641,04/12/2020,Asymptomatic,M,33,,To be provided,HK resident,Imported case,Confirmed
+6642,04/12/2020,Asymptomatic,M,26,,To be provided,HK resident,Imported case,Confirmed
+6643,04/12/2020,Asymptomatic,F,29,,To be provided,Non-HK resident,Imported case,Confirmed
+6644,04/12/2020,30/11/2020,F,35,,To be provided,Non-HK resident,Epidemiologically linked with local case,Confirmed
+6645,04/12/2020,Asymptomatic,M,54,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6646,04/12/2020,Asymptomatic,F,53,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6647,04/12/2020,29/11/2020,M,47,,To be provided,Non-HK resident,Epidemiologically linked with local case,Confirmed
+6648,04/12/2020,30/11/2020,F,51,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6649,04/12/2020,01/12/2020,F,62,,To be provided,HK resident,Local case,Confirmed
+6650,04/12/2020,01/12/2020,F,57,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6651,04/12/2020,26/11/2020,F,67,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6652,04/12/2020,02/12/2020,F,57,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6653,04/12/2020,30/11/2020,M,62,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6654,04/12/2020,01/12/2020,M,40,,To be provided,HK resident,Local case,Confirmed
+6655,04/12/2020,29/11/2020,F,59,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6656,04/12/2020,30/11/2020,F,77,,To be provided,HK resident,Local case,Confirmed
+6657,04/12/2020,27/11/2020,M,47,,To be provided,HK resident,Local case,Confirmed
+6658,04/12/2020,29/11/2020,M,76,,To be provided,HK resident,Local case,Confirmed
+6659,04/12/2020,30/11/2020,M,25,,To be provided,HK resident,Local case,Confirmed
+6660,04/12/2020,Asymptomatic,M,60,,To be provided,HK resident,Imported case,Confirmed
+6661,04/12/2020,Asymptomatic,M,28,,To be provided,HK resident,Imported case,Confirmed
+6662,04/12/2020,Asymptomatic,F,41,,To be provided,HK resident,Imported case,Confirmed
+6663,04/12/2020,26/11/2020,F,51,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6664,04/12/2020,27/11/2020,M,56,,To be provided,HK resident,Local case,Confirmed
+6665,04/12/2020,23/11/2020,M,59,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6666,04/12/2020,Asymptomatic,F,43,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6667,04/12/2020,30/11/2020,M,28,,To be provided,HK resident,Local case,Confirmed
+6668,04/12/2020,29/11/2020,M,84,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6669,04/12/2020,29/11/2020,F,38,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6670,04/12/2020,30/11/2020,F,48,,To be provided,HK resident,Local case,Confirmed
+6671,04/12/2020,28/11/2020,M,66,,To be provided,HK resident,Local case,Confirmed
+6672,04/12/2020,28/11/2020,F,53,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6673,04/12/2020,30/11/2020,F,65,,To be provided,HK resident,Local case,Confirmed
+6674,04/12/2020,29/11/2020,F,39,,To be provided,HK resident,Local case,Confirmed
+6675,04/12/2020,01/12/2020,F,37,,To be provided,HK resident,Local case,Confirmed
+6676,04/12/2020,28/11/2020,M,75,,To be provided,HK resident,Local case,Confirmed
+6677,04/12/2020,30/11/2020,M,47,,To be provided,HK resident,Local case,Confirmed
+6678,04/12/2020,Asymptomatic,M,72,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6679,04/12/2020,28/11/2020,M,26,,To be provided,HK resident,Local case,Confirmed
+6680,04/12/2020,29/11/2020,F,28,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6681,04/12/2020,26/11/2020,F,69,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6682,04/12/2020,30/11/2020,M,45,,To be provided,HK resident,Local case,Confirmed
+6683,04/12/2020,01/12/2020,F,50,,To be provided,HK resident,Local case,Confirmed
+6684,04/12/2020,24/11/2020,M,77,,To be provided,HK resident,Local case,Confirmed
+6685,04/12/2020,30/11/2020,M,50,,To be provided,HK resident,Local case,Confirmed
+6686,04/12/2020,01/12/2020,F,75,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6687,04/12/2020,02/12/2020,F,68,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6688,04/12/2020,03/12/2020,F,16,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6689,04/12/2020,25/11/2020,M,4,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6690,04/12/2020,Asymptomatic,F,26,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6691,04/12/2020,01/12/2020,M,77,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6692,04/12/2020,02/12/2020,F,50,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6693,04/12/2020,30/11/2020,F,58,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6694,04/12/2020,25/11/2020,F,69,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6695,04/12/2020,30/11/2020,M,59,,To be provided,HK resident,Local case,Confirmed
+6696,04/12/2020,03/12/2020,F,47,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6697,04/12/2020,Asymptomatic,F,69,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6698,04/12/2020,02/12/2020,M,62,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6699,04/12/2020,02/12/2020,F,34,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6700,04/12/2020,Asymptomatic,F,61,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6701,04/12/2020,01/12/2020,M,69,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
+6702,04/12/2020,03/12/2020,M,55,,To be provided,HK resident,Epidemiologically linked with local case,Confirmed
