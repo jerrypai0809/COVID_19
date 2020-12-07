@@ -1,14 +1,8 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-RL9923,Moscow,21/11/2020,5566,1A,Moscow
-CX252,London,21/11/2020,5635,70A,London
-BA027,London,21/11/2020,5650,Row 33 Window seat,London
-SQ872,Singapore,21/11/2020,5651,41K,Singapore
-CX252,London,21/11/2020,5654,65C,London
-BA027,London,21/11/2020,5655,26K,London
-LX138,Zurich,21/11/2020,5705,30G,Zurich
 CX796,Surabaya,22/11/2020,5653,64B,Surabaya
 TK070,Istanbul,22/11/2020,5707,Cabin crew,Istanbul
 EK384,Dubai,22/11/2020,5709,19D,Dubai
+EK384,Dubai,22/11/2020,6862,9F,Dubai
 CX252,London,23/11/2020,5732,72D,London
 BA027,London,23/11/2020,5784,32A,London
 TK070,Istanbul,24/11/2020,5876,16J,Istanbul
@@ -66,8 +60,15 @@ TK070,Istanbul,03/12/2020,6714,13C,Istanbul
 EK384,Dubai,03/12/2020,6716,41A,Dubai
 CX796,Jakarta,04/12/2020,6802,47C,Jakarta
 CX881,Los Angeles,04/12/2020,6803,41G,Los Angeles
+CX252,London,04/12/2020,6804,46B,London
+QR818,Doha,04/12/2020,6806,39A,Doha
+QR818,Doha,04/12/2020,6807,37B,Doha
+QR818,Doha,04/12/2020,6808,32H,Doha
+EK384,Dubai,04/12/2020,6809,18B,Dubai
+CX780,Surabaya,04/12/2020,6810,72A,Surabaya
 Taxi NJ4401,,25/11/2020 - 27/11/2020,6433,,
 Taxi TC1509,,26/11/2020 - 29/11/2020,6495,,
 Taxi TL6399 Taxi TJ7883 Taxi UX1397 Taxi EK8293,,25/11/2020 - 02/12/2020,6588,,
 Taxi VF4177,,26/11/2020 - 02/12/2020,6671,,
 Taxi VK7413,,01/12/2020 - 03/12/2020,6737,,
+Taxi KK6656,,04/12/2020,6883,,
