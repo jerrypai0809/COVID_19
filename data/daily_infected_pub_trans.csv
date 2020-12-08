@@ -1,8 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX796,Surabaya,22/11/2020,5653,64B,Surabaya
-TK070,Istanbul,22/11/2020,5707,Cabin crew,Istanbul
-EK384,Dubai,22/11/2020,5709,19D,Dubai
-EK384,Dubai,22/11/2020,6862,9F,Dubai
 CX252,London,23/11/2020,5732,72D,London
 BA027,London,23/11/2020,5784,32A,London
 TK070,Istanbul,24/11/2020,5876,16J,Istanbul
@@ -66,6 +62,12 @@ QR818,Doha,04/12/2020,6807,37B,Doha
 QR818,Doha,04/12/2020,6808,32H,Doha
 EK384,Dubai,04/12/2020,6809,18B,Dubai
 CX780,Surabaya,04/12/2020,6810,72A,Surabaya
+AC007,Vancouver,04/12/2020,,43A,Vancouver
+TK070,Istanbul,05/12/2020,6899,13K,Istanbul
+QR818,Doha,05/12/2020,6900,19A,Doha
+QR818,Doha,05/12/2020,6901,26K,Doha
+KE607,Seoul,05/12/2020,6902,35H,Seoul
+CX250,London,05/12/2020,6903,72K,London
 Taxi NJ4401,,25/11/2020 - 27/11/2020,6433,,
 Taxi TC1509,,26/11/2020 - 29/11/2020,6495,,
 Taxi TL6399 Taxi TJ7883 Taxi UX1397 Taxi EK8293,,25/11/2020 - 02/12/2020,6588,,
