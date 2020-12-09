@@ -1,10 +1,8 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-CX252,London,23/11/2020,5732,72D,London
-BA027,London,23/11/2020,5784,32A,London
 TK070,Istanbul,24/11/2020,5876,16J,Istanbul
 KE607,Seoul,24/11/2020,5878,30C,Seoul
 CX873,San Francisco,24/11/2020,5912,14D,San Francisco
-CX875,Alaska,24/11/2020,6312,Cabin Crew,Alaska
+CX875,Alaska,24/11/2020,6312,Cabin crew,Alaska
 EK384,Dubai,25/11/2020,5953,36K,Dubai
 KL847,Bangkok,25/11/2020,5954,20G,Bangkok
 LX138,Zurich,25/11/2020,5968,4A,Zurich
@@ -39,6 +37,7 @@ EK384,Bangkok,01/12/2020,6535,21K,Bangkok
 EK384,Bangkok,01/12/2020,6536,18C,Bangkok
 TK070,Istanbul,01/12/2020,6537,40A,Istanbul
 CX521,Tokyo,01/12/2020,6538,42G,Tokyo
+EK384,Dubai,01/12/2020,7015,21H,Dubai
 HX782,Manila,02/12/2020,6561,34H,Manila
 EK384,Dubai,02/12/2020,6593,27G,Dubai
 EK384,Dubai,02/12/2020,6594,31K,Dubai
@@ -54,6 +53,7 @@ EK384,Dubai,03/12/2020,6712,38C,Dubai
 BA27,London,03/12/2020,6713,42H,London
 TK070,Istanbul,03/12/2020,6714,13C,Istanbul
 EK384,Dubai,03/12/2020,6716,41A,Dubai
+CX881,Los Angeles,03/12/2020,7044,Cabin crew,Los Angeles
 CX796,Jakarta,04/12/2020,6802,47C,Jakarta
 CX881,Los Angeles,04/12/2020,6803,41G,Los Angeles
 CX252,London,04/12/2020,6804,46B,London
@@ -68,6 +68,9 @@ QR818,Doha,05/12/2020,6900,19A,Doha
 QR818,Doha,05/12/2020,6901,26K,Doha
 KE607,Seoul,05/12/2020,6902,35H,Seoul
 CX250,London,05/12/2020,6903,72K,London
+QR818,Doha,05/12/2020,7027,20A,Doha
+VS206,London,06/12/2020,6978,1K,London
+CX252,London,06/12/2020,7003,45B,London
 Taxi NJ4401,,25/11/2020 - 27/11/2020,6433,,
 Taxi TC1509,,26/11/2020 - 29/11/2020,6495,,
 Taxi TL6399 Taxi TJ7883 Taxi UX1397 Taxi EK8293,,25/11/2020 - 02/12/2020,6588,,
