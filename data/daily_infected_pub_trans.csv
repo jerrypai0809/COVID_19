@@ -1,41 +1,32 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-PR300,Manila,16/12/2020,7901,55K,Manila
-PR300,Manila,16/12/2020,7902,54G,Manila
-PR300,Manila,16/12/2020,7903,39A,Manila
-UK6379,New Delhi,17/12/2020,7976,8D,New Delhi
-UK6379,New Delhi,17/12/2020,7977,31D,New Delhi
-CX845,New York,17/12/2020,8772,66H,New York
-CX845,New York,17/12/2020,8773,67H,New York
-UK6379,New Delhi,17/12/2020,8775,16F,New Delhi
-UK6379,New Delhi,17/12/2020,8776,16D,New Delhi
-CX881,Los Angeles,18/12/2020,8016,16K,Los Angeles
-TR980,Singapore,18/12/2020,8080,16A,Singapore
-PR300,Manila,18/12/2020,8086,37K,Manila
-CX252,London,18/12/2020,8492,61A,London
-CX796,Jakarta,19/12/2020,8157,64C,Jakarta
-CX796,Jakarta,19/12/2020,8163,66J,Jakarta
-EK384,Dubai,19/12/2020,8184,28K,Dubai
-BA027,London,19/12/2020,8185,Cabin crew,London
-CX252,London,20/12/2020,8259,33A,London
-GA876,Jakarta,20/12/2020,8260,21A,Jakarta
-GA876,Jakarta,20/12/2020,8261,44K,Jakarta
-GA876,Jakarta,20/12/2020,8262,48A,Jakarta
-EK384,Dubai,20/12/2020,8268,41H,Dubai
-EK384,Dubai,20/12/2020,8486,41G,Dubai
 ET3728,Liege,21/12/2020,8328,Cabin crew,Liege
 CX252,London,21/12/2020,8735,70K,London
 CX252,London,21/12/2020,8739,71H,London
+CX252,London,21/12/2020,8962,18K,London
 TK070,Istanbul,22/12/2020,8356,16A,Istanbul
 RA409,Kathmandu,22/12/2020,8368,20F,Kathmandu
 EK384,Bangkok,22/12/2020,8379,42K,Bangkok
 TK070,Istanbul,22/12/2020,8380,26K,Istanbul
 KE607,Seoul,22/12/2020,8381,30A,Seoul
+RA409,Kathmandu,22/12/2020,8993,37G,Kathmandu
+RA409,Kathmandu,22/12/2020,8999,33F,Kathmandu
+RA409,Kathmandu,22/12/2020,9001,33E,Kathmandu
+RA409,Kathmandu,22/12/2020,9002,33D,Kathmandu
+PR300,Manila,22/12/2020,9003,40A,Manila
+RA409,Kathmandu,22/12/2020,9004,19E,Kathmandu
+RA409,Kathmandu,22/12/2020,9007,39C,Kathmandu
+RA409,Kathmandu,22/12/2020,9008,39A,Kathmandu
 HX782,Manila,23/12/2020,8426,41H,Manila
 CX796,Jakarta,25/12/2020,8538,45C,Jakarta
 5J272,Manila,26/12/2020,8612,2A,Manila
-Green Minibus 81K,,17/12/2020,8248,,
-Citybus Route 307,,17-18/12/2020,8214,,
-Taxi DE7696 Night-shift,,18-20/12/2020,8292,,
-Taxi DE7696 Day-shift,,19-20/12/2020,8432,,
+CX796,Jarkarta,26/12/2020,8850,63B,Jarkarta
+CX906,Manila,28/12/2020,8833,70A,Manila
+AI1310,Kolkata,29/12/2020,8801,17G,Kolkata
+AI1310,Kolkata,30/12/2020,8879,24J,Kolkata
+CX845,New York,31/12/2020,8883,61K,New York
+5J272,Manila,02/01/2021,9005,39A,Manila
+KL847,Amsderdam,02/01/2021,9006,2A,Amsderdam
 Taxi PK8728 Night-shift,,24-25/12/2020,8669,,
 Taxi LL4250,,20-28/12/2020,8770,,
+Taxi TH8378,,29/12/2020,8854,,
+Taxi RB9813 Night-shift,,29/11-31/12/2020,8900,,
