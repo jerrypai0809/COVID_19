@@ -1,21 +1,4 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-ET3728,Liege,21/12/2020,8328,Cabin crew,Liege
-CX252,London,21/12/2020,8735,70K,London
-CX252,London,21/12/2020,8739,71H,London
-CX252,London,21/12/2020,8962,18K,London
-TK070,Istanbul,22/12/2020,8356,16A,Istanbul
-RA409,Kathmandu,22/12/2020,8368,20F,Kathmandu
-EK384,Bangkok,22/12/2020,8379,42K,Bangkok
-TK070,Istanbul,22/12/2020,8380,26K,Istanbul
-KE607,Seoul,22/12/2020,8381,30A,Seoul
-RA409,Kathmandu,22/12/2020,8993,37G,Kathmandu
-RA409,Kathmandu,22/12/2020,8999,33F,Kathmandu
-RA409,Kathmandu,22/12/2020,9001,33E,Kathmandu
-RA409,Kathmandu,22/12/2020,9002,33D,Kathmandu
-PR300,Manila,22/12/2020,9003,40A,Manila
-RA409,Kathmandu,22/12/2020,9004,19E,Kathmandu
-RA409,Kathmandu,22/12/2020,9007,39C,Kathmandu
-RA409,Kathmandu,22/12/2020,9008,39A,Kathmandu
 HX782,Manila,23/12/2020,8426,41H,Manila
 CX796,Jakarta,25/12/2020,8538,45C,Jakarta
 5J272,Manila,26/12/2020,8612,2A,Manila
@@ -26,7 +9,11 @@ AI1310,Kolkata,30/12/2020,8879,24J,Kolkata
 CX845,New York,31/12/2020,8883,61K,New York
 5J272,Manila,02/01/2021,9005,39A,Manila
 KL847,Amsderdam,02/01/2021,9006,2A,Amsderdam
+LX138,Zurich,03/01/2021,9026,34H,Zurich
+EK384,Dubai,04/01/2021,9075,26H,Dubai
 Taxi PK8728 Night-shift,,24-25/12/2020,8669,,
 Taxi LL4250,,20-28/12/2020,8770,,
 Taxi TH8378,,29/12/2020,8854,,
 Taxi RB9813 Night-shift,,29/11-31/12/2020,8900,,
+KMB Route 234A,,01/01/2021,9054,,
+KMB Route 32H,,03/01/2021,9054,,
