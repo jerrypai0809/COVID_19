@@ -1,16 +1,22 @@
 Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known),Destination 0
-HX782,Manila,23/12/2020,8426,41H,Manila
 CX796,Jakarta,25/12/2020,8538,45C,Jakarta
+CX796,Jakarta,25/12/2020,9116,63D,Jakarta
 5J272,Manila,26/12/2020,8612,2A,Manila
-CX796,Jarkarta,26/12/2020,8850,63B,Jarkarta
+CX796,Jakarta,26/12/2020,8850,63B,Jakarta
+CX507,Osaka,26/12/2020,9151,42H,Osaka
 CX906,Manila,28/12/2020,8833,70A,Manila
 AI1310,Kolkata,29/12/2020,8801,17G,Kolkata
 AI1310,Kolkata,30/12/2020,8879,24J,Kolkata
 CX845,New York,31/12/2020,8883,61K,New York
 5J272,Manila,02/01/2021,9005,39A,Manila
-KL847,Amsderdam,02/01/2021,9006,2A,Amsderdam
+KL847,Amsterdam,02/01/2021,9006,2A,Amsterdam
 LX138,Zurich,03/01/2021,9026,34H,Zurich
 EK384,Dubai,04/01/2021,9075,26H,Dubai
+RA409,Kathmandu,05/01/2021,9080,23C,Kathmandu
+EK384,Dubai,05/01/2021,9085,32D,Dubai
+EK384,Dubai,05/01/2021,9106,38C,Dubai
+EK384,Dubai,05/01/2021,9107,34K,Dubai
+QR818,Doha,06/01/2021,9133,20K,Doha
 Taxi PK8728 Night-shift,,24-25/12/2020,8669,,
 Taxi LL4250,,20-28/12/2020,8770,,
 Taxi TH8378,,29/12/2020,8854,,
